@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "88a5da3c7e2f044c",
+    "type": "split",
+    "children": [
+      {
+        "id": "96d656f9863c5e1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "480004e53ced5ec7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "409bcec50709538a",
+    "type": "split",
+    "children": [
+      {
+        "id": "95228f982e4b93f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "efa4f9e7ad7f389c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c0e56c929b257c80",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:Python",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dc9ae3aa66863544",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "79a7990781284c9a",
+    "type": "split",
+    "children": [
+      {
+        "id": "0cc9473e04ee08d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e321c35a423fe1d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aa8430e21d45bcad",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aa066400d6517e7d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "babb2dc239650a37",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "480004e53ced5ec7",
+  "lastOpenFiles": [
+    "20. Lecture Note/Python ML/Data Handling -Numpy.md",
+    "20. Lecture Note/Python ML/무제 파일.md",
+    "20. Lecture Note/Python ML/Linear Algebra Basic.md",
+    "20. Lecture Note/Python ML/Pythonic Code.md",
+    "99. Attachment/ch1_linear_algebra_code.pdf",
+    "99. Attachment/ch2_Numpy.pdf",
+    "99. Attachment/ch1_collections.pdf",
+    "99. Attachment/ch1_asterisk.pdf",
+    "99. Attachment/ch1_lambda_map_reduce-1.pdf",
+    "99. Attachment/ch1_Enumerate_Zip.pdf",
+    "99. Attachment/ch1_List_Comprehension.pdf",
+    "99. Attachment/ch1_2_Split_Join.pdf",
+    "99. Attachment/ch1_Split_Join.pdf",
+    "99. Attachment/ch1_Split_Join 1.pdf",
+    "20. Lecture Note/Untitled - 2024-07-10.md",
+    "Robotics and AI.md",
+    "기초 개념/Python.md",
+    "20. Lecture Note/Python Basic/Python - Day3.md",
+    "20. Lecture Note/Python Basic/Python - Day2.md",
+    "90. Template/새 데일리 노트(New Daily Note).md",
+    "90. Template/새 과제 (New Assignment).md",
+    "90. Template/새 강의 노트(New Lecture Note).md",
+    "30. Assignment/Untitled.md",
+    "20. Lecture Note/Python Basic/Python - Day9.md",
+    "20. Lecture Note/Python Basic/Python - Day6.md",
+    "20. Lecture Note/Python Basic/Python - Day1.md",
+    "대학교 올에이쁠을 위한 옵시디언 Vault 사용 설명서.md",
+    "20. Lecture Note/Python Basic/Python - Day7.md",
+    "20. Lecture Note/Python Basic/Python - Day5.md",
+    "기초 개념/Linear Algebra.md",
+    "90. Template/새 수강 과목 (New Subject).md",
+    "90. Template/90. Template.md",
+    "20. Lecture Note/Python Basic/Python - Day4.md",
+    "10. Subject/Linear Algebra(MATLAB).md",
+    "10. Subject/Untitled.md",
+    "기초 개념/Matlab.md",
+    "무제 파일 1.canvas",
+    "무제 파일.canvas"
+  ]
+}
