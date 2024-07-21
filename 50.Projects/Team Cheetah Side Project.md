@@ -1,24 +1,34 @@
 ---
-title: Untitled
-created:  2024-07-21 19:28
-tag: 'project'
+title: Autonomous AGV and Robot arm
+created: 2024-07-21 19:28
+tags:
+  - project
+  - AI
+  - Python
+  - CV
+  - Arduino
+  - Kairos
 ---
 
-# PM-projectname
+# Side Project before starting main project
 ## 🏆 Goal
-> 프로젝트의 목표를 작성한다.
+> 최대한 간단하고, 빠른 방식으로 프로토타입을 완성하자
 
-## 📅  Scheduel
-> 프로젝트의 일정을 작성한다. 
-> 프로젝트의 일정을 표현하는 라는 태그를 달아서 tasks에서 볼 수 있도록 한다.
-> 내가 설정한 Milestone 마감 기한도 이곳에 작성한다.
+## 📅  Schedule
+> Start: 7/17
+> End: 8/31
 
 ##  💎Milestones
-> 중간 지점을 표현한다
+> Step 1. AGV 개발
+> Step 2. Robot arm and gripper
+> Step 3. CV and entire walking simulation
 
 ## ✅Tasks
-- 각 마일스톤을 달성하기 위해서 필요한 태스크들을 하나씩 열거한다.
-- 할당시간과 그에 따른 마감일 기록한다.
+- 7/17 ~ 7/24 -> 제작 비용 논의, 프로젝트 구체화, 구성부품 주문
+- 7/25 ~ 7/31 -> 하드웨어 설계, 서버 구축, 소프트웨어 구축
+- 8/1 ~ 8/9 -> 시운전, 카메라 인식 소프트웨어 구축, 학습
+- 8/12 ~ 8/16 -> 하드웨어 설계, 제작 및 테스트
+- 8/19 ~ 8/23 -> 결합 및 수정 설계, 하드웨어 및 소프트웨어 
 
 ## 📊 Gantt
 > 스케쥴을 바탕으로 Gantt 차트를 작성한다.
