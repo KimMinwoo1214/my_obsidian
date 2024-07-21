@@ -13,20 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "대학교 올에이쁠을 위한 옵시디언 Vault 사용 설명서.md",
+                "file": "20. Lecture Note/Point Cloud/1. 3D Point Cloud.md",
                 "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "7d192c961b0b38a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "기초 개념/Lambda.md",
-                "mode": "source",
                 "source": true
               }
             }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "대학교 올에이쁠을 위한 옵시디언 Vault 사용 설명서.md",
+                "file": "20. Lecture Note/Point Cloud/1. 3D Point Cloud.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "대학교 올에이쁠을 위한 옵시디언 Vault 사용 설명서.md",
+                "file": "20. Lecture Note/Point Cloud/1. 3D Point Cloud.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "대학교 올에이쁠을 위한 옵시디언 Vault 사용 설명서.md"
+                "file": "20. Lecture Note/Point Cloud/1. 3D Point Cloud.md"
               }
             }
           }
@@ -161,6 +149,9 @@
   },
   "active": "480004e53ced5ec7",
   "lastOpenFiles": [
+    "README.md",
+    "대학교 올에이쁠을 위한 옵시디언 Vault 사용 설명서.md",
+    "기초 개념/Lambda.md",
     "20. Lecture Note/Point Cloud/1. 3D Point Cloud.md",
     "20. Lecture Note/Python ML/Linear Algebra Basic.md",
     "90. Template/새 수강과목 (New Subject).md",
@@ -185,9 +176,6 @@
     "기초 개념/Threading.md",
     "기초 개념/Class.md",
     "20. Lecture Note/Python ML/Pythonic Code.md",
-    "기초 개념/Deque.md",
-    "기초 개념/OrderedDict.md",
-    "기초 개념/Zip.md",
     "99. Attachment/ch1_collections.pdf",
     "무제 파일 2.canvas",
     "99. Attachment/ch1_linear_algebra_code.pdf",
