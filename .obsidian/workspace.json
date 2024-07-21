@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "90. Template/새 프로젝트 노트(New Project Note).md",
+                "file": "50.Projects/Untitled.md",
                 "mode": "source",
                 "source": true
               }
@@ -23,12 +23,15 @@
             "id": "24c0ab4fe7ac3a19",
             "type": "leaf",
             "state": {
-              "type": "obsidian-projects",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "90. Template/새 수강 과목 (New Subject).md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "79a7990781284c9a",
@@ -95,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "50.Projects/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "50.Projects/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "50.Projects/Untitled.md"
+              }
             }
           }
         ]
@@ -154,14 +160,16 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "24c0ab4fe7ac3a19",
+  "active": "480004e53ced5ec7",
   "lastOpenFiles": [
     "90. Template/새 프로젝트 노트(New Project Note).md",
-    "50.Projects",
-    "90. Template/새 강의 노트(New Lecture Note).md",
-    "90. Template/새 과제 (New Assignment).md",
-    "90. Template/새 데일리 노트(New Daily Note).md",
+    "50.Projects/Untitled.md",
+    "50.Projects/무제 파일.md",
     "90. Template/새 수강 과목 (New Subject).md",
+    "90. Template/새 강의 노트(New Lecture Note).md",
+    "90. Template/새 데일리 노트(New Daily Note).md",
+    "90. Template/새 과제 (New Assignment).md",
+    "50.Projects",
     "90. Template/새 수강과목 (New Subject).md",
     "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md",
     "10. Subject/3D Point Cloud Data Processing.md",
@@ -198,7 +206,6 @@
     "20. Lecture Note/Python Basic/Python - Day2.md",
     "20. Lecture Note/Python Basic/Python - Day5.md",
     "20. Lecture Note/Python Basic/Python - Day4.md",
-    "20. Lecture Note/Python Basic/Python - Day6.md",
     "무제 파일 2.canvas",
     "무제 파일 1.canvas",
     "무제 파일.canvas"
