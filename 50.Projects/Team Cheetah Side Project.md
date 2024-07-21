@@ -10,7 +10,8 @@ tags:
   - Kairos
 ---
 
-# Side Project before starting main project
+# 분리수거 로봇암 + 자율주행 AGV
+
 ## 🏆 Goal
 > 최대한 간단하고, 빠른 방식으로 프로토타입을 완성하자
 
@@ -24,48 +25,29 @@ tags:
 > Step 3. CV and entire walking simulation
 
 ## ✅Tasks
-- 7/17 ~ 7/24 -> 제작 비용 논의, 프로젝트 구체화, 구성부품 주문
-- 7/25 ~ 7/31 -> 하드웨어 설계, 서버 구축, 소프트웨어 구축
-- 8/1 ~ 8/9 -> 시운전, 카메라 인식 소프트웨어 구축, 학습
-- 8/12 ~ 8/16 -> 하드웨어 설계, 제작 및 테스트
-- 8/19 ~ 8/23 -> 결합 및 수정 설계, 하드웨어 및 소프트웨어 
+- [ ] 7/17 ~ 7/24 -> 제작 비용 논의, 프로젝트 구체화, 구성부품 주문
+- [ ] 7/25 ~ 7/31 -> 하드웨어 설계, 서버 구축, 소프트웨어 구축
+- [ ] 8/1 ~ 8/9 -> 시운전, 카메라 인식 소프트웨어 구축, 학습
+- [ ] 8/12 ~ 8/16 -> 하드웨어 설계, 제작 및 테스트
+- [ ] 8/19 ~ 8/23 -> 하드웨어 및 소프트웨어 결합 및 수정, 분리수거 구현
+- [ ] 8/26 ~ 8/30 -> 분리수거 구현 테스트 및 마무리 총 정리
 
 ## 📊 Gantt
-> 스케쥴을 바탕으로 Gantt 차트를 작성한다.
+> 전반적인 Task
 ```mermaid
 gantt
     dateFormat  YYYY-MM-DD
-	title  Gantt
-	
-    section A section
-    Completed task            :done,    des1, 2021-09-06,2021-09-08
-    Active task               :active,  des2, 2021-09-09, 3d
-    Future task               :         des3, after des2, 5d
-    Future task2              :         des4, after des3, 5d
+    title  Gantt Chart for Project
 
-    section Critical tasks
-    Completed task in the critical line :crit, done, 2021-09-06,24h
-    Implement parser and jison          :crit, done, after des1, 2d
-    Create tests for parser             :crit, active, 3d
-    Future task in critical line        :crit, 5d
-    Create tests for renderer           :2d
-    Add to mermaid                      :1d
+    section Project Tasks
+    제작 비용 논의, 프로젝트 구체화, 구성부품 주문 : done,  des1, 2024-07-17, 2024-07-24
+    하드웨어 설계, 서버 구축, 소프트웨어 구축     : active, des2, 2024-07-25, 2024-07-31
+    시운전, 카메라 인식 소프트웨어 구축, 학습     :         des3, 2024-08-01, 2024-08-09
+    하드웨어 설계, 제작 및 테스트                :         des4, 2024-08-12, 2024-08-16
+    하드웨어 및 소프트웨어 결합 및 수정, 분리수거 구현 : des5, 2024-08-19, 2024-08-23
+    분리수거 구현 테스트 및 마무리 총 정리        :         des6, 2024-08-26, 2024-08-30
 
-    section Documentation
-    Describe gantt syntax               :active, a1, after des1, 3d
-    Add gantt diagram to demo page      :after a1  , 20h
-    Add another diagram to demo page    :doc1, after a1  , 48h
 
-    section Last section
-    Describe gantt syntax               :after doc1, 3d
-    Add gantt diagram to demo page      :20h
-    Add another diagram to demo page    :48h
-	
-	section test
-	Active task 			: doc1, 2021-09-02, 2021-09-04
-	
 ```
----
 ## Reference
-
-출처: [https://olait.tistory.com/10](https://olait.tistory.com/10) [이토록 쉬운 옵시디언:티스토리]
+[[Python]], [[ComputerVision]], [[Fusion360]], [[Robotics and AI]]
