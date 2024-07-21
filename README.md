@@ -1,7 +1,7 @@
 # My Study Record With Obsidian
-I first heard about Obsidian and ignored it because I was using Notion more at the time. So, I kept using Notion. However, Obsidian's Graph view caught my attention, and that's why I decided to start using Obsidian.
-
-From 2024.07.11, I started using Obsidian. Now I introduce my study record.
+I first heard about Obsidian and ignored it because I was using Notion more. However, Obsidian's Graph view caught my attention, and that's why I decided to start using Obsidian.
+<br/>
+From 2024.07.11, I started using Obsidian. Now I will introduce my study record.
 <br/>
 ## Subjects
 </div>
