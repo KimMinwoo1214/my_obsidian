@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20. Lecture Note/Point Cloud/1. 3D Point Cloud.md",
-                "mode": "preview",
+                "file": "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20. Lecture Note/Point Cloud/1. 3D Point Cloud.md",
+                "file": "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20. Lecture Note/Point Cloud/1. 3D Point Cloud.md",
+                "file": "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20. Lecture Note/Point Cloud/1. 3D Point Cloud.md"
+                "file": "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md"
               }
             }
           }
@@ -149,6 +149,8 @@
   },
   "active": "480004e53ced5ec7",
   "lastOpenFiles": [
+    "10. Subject/3D Point Cloud Data Processing.md",
+    "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md",
     "20. Lecture Note/Python ML/Linear Algebra Basic.md",
     "99. Attachment/Python for ML/ch1_linear_algebra_code.pdf",
     "99. Attachment/Pasted image 20240721181051.png",
@@ -168,9 +170,7 @@
     "99. Attachment/Pasted image 20240721181031.png",
     "99. Attachment/Pasted image 20240721180959.png",
     "99. Attachment/Pasted image 20240721180740.png",
-    "20. Lecture Note/Point Cloud/1. 3D Point Cloud.md",
     "기초 개념/Point Cloud.md",
-    "10. Subject/Point Cloud.md",
     "기초 개념/3D Data Expression.md",
     "README.md",
     "대학교 올에이쁠을 위한 옵시디언 Vault 사용 설명서.md",
