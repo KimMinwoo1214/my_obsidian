@@ -4,7 +4,6 @@ I first heard about Obsidian and ignored it because I was using Notion more at t
 From 2024.07.11, I started using Obsidian. Now I introduce my study record.
 <br/>
 ## Subjects
-<br/>
 </div>
 
 ### Linear Algebra with MATLAB
@@ -36,7 +35,9 @@ I had the opportunity to learn this subject in the Naver Boost Course. It covers
 </div>
 
 ## Projects
-<br/>
 </div/>
 
 ### Side project - AGV car with Robot Arm
+#### [Side Project](https://github.com/KimMinwoo1214/my_obsidian/tree/main/50.Projects)
+This project is mainly focused on prototype. For main project, my team are going to make agv car with robot arm.
+We are going to do this with raspberrypi and arduino maga. This is our project link.
