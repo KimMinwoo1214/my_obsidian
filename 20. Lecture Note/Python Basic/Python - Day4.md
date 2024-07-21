@@ -206,6 +206,19 @@ for i in range(len(image_name)):
   with image_name[i].open(mode = 'wb') as file:
     file.write(image_data[i])
 ```
+
+### [[Pandas]]
+```python
+import pandas as pd
+import numpy as np
+
+df = pd.DataFrame({ 
+'A': [1,2,3,np.nan, np.nan],
+'B':[4,5,6,7,np.nan],
+'C': [8,9,10,11,12],
+}, index = ['미래희망', '버킷리스트', 'c', 'd', 'e'])
+df
+```
 ## 공지사항
 <br>
 
