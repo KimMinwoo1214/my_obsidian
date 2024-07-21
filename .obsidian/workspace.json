@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20. Lecture Note/Python ML/Linear Algebra Basic.md",
+                "file": "20. Lecture Note/Point Cloud/1. 3D Point Cloud.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20. Lecture Note/Python ML/Linear Algebra Basic.md",
+                "file": "20. Lecture Note/Point Cloud/1. 3D Point Cloud.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20. Lecture Note/Python ML/Linear Algebra Basic.md",
+                "file": "20. Lecture Note/Point Cloud/1. 3D Point Cloud.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20. Lecture Note/Python ML/Linear Algebra Basic.md"
+                "file": "20. Lecture Note/Point Cloud/1. 3D Point Cloud.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "480004e53ced5ec7",
   "lastOpenFiles": [
-    "99. Attachment/Python for ML/ch1_linear_algebra_code.pdf",
     "20. Lecture Note/Python ML/Linear Algebra Basic.md",
+    "99. Attachment/Python for ML/ch1_linear_algebra_code.pdf",
     "99. Attachment/Pasted image 20240721181051.png",
     "99. Attachment/Point Cloud/Pasted image 20240721181051.png",
     "99. Attachment/Point Cloud/Pasted image 20240721181031.png",
