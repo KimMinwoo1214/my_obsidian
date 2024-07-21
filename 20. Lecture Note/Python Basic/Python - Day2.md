@@ -55,7 +55,7 @@ print(results)
 # 강의필기 (Lecture Notes)
 <br>
 
-## tuple
+## [[Tuple]]
 
 ```python
 t = (1) vs t=(1,) 차이점은?
@@ -80,7 +80,7 @@ print(f'type((7)) : {type((7))}')
 print(f'type((7,)) : {type((7,))}')
 ```
 
-## set
+## [[Set]]
 
 ```python
 my_list = [i for i in range(6)]
@@ -109,7 +109,7 @@ for i in th:
 print(th[1] in 삼육구)
 ```
 
-## dictionary
+## [[Dictionary]]
 
 ```python
 team = ["손석구", "손흥민", "김어준"]
@@ -168,7 +168,7 @@ my_dict = dict(zip(ice, price))
 print(my_dict)
 ```
 
-## While
+## [[While]]
 
 ```python
 import random

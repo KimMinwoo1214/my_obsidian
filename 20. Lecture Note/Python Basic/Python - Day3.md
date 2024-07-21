@@ -154,7 +154,7 @@ for i in range(10):
 # 강의필기 (Lecture Notes)
 <br>
 
-## Numpy
+## [[Numpy]]
 
 ### 넘파이 생성 & ndim & shape
 

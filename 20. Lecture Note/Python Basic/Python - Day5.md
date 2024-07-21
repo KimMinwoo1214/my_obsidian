@@ -149,13 +149,13 @@ def solution(time_table):
 # 강의필기 (Lecture Notes)
 <br>
 
-## Threading
+## [[Threading]]
 
 Image Download using Threading
 
 [https://colab.research.google.com/drive/1lSXKHDg6pULs_QgGi5dfmJI0air-ux61#scrollTo=q3dmzNLvUf-0](https://colab.research.google.com/drive/1lSXKHDg6pULs_QgGi5dfmJI0air-ux61#scrollTo=q3dmzNLvUf-0)
 
-## Pandas
+## [[Pandas]]
 
 [https://colab.research.google.com/drive/139TlDYQ8C7mWCgmDgVI3qgwLbq4VIGvc](https://colab.research.google.com/drive/139TlDYQ8C7mWCgmDgVI3qgwLbq4VIGvc)
 
@@ -165,7 +165,7 @@ pandas csv 파일
 
 **url = '[https://web.stanford.edu/class/archive/cs/cs109/cs109.1166/stuff/titanic.csv](https://web.stanford.edu/class/archive/cs/cs109/cs109.1166/stuff/titanic.csv)'**
 
-## matplotlib example _ 다양한 그래프
+## [[Matplotlib]] example _ 다양한 그래프
 
 [https://matplotlib.org/stable/gallery/lines_bars_and_markers/errorbar_limits_simple.html#sphx-glr-gallery-lines-bars-and-markers-errorbar-limits-simple-py](https://matplotlib.org/stable/gallery/lines_bars_and_markers/errorbar_limits_simple.html#sphx-glr-gallery-lines-bars-and-markers-errorbar-limits-simple-py)
 

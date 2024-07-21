@@ -8,7 +8,7 @@ tags:
   - "#PointCloud"
   - "#Kicad"
   - "#CAD"
-  - "#OpenCV"
+  - "#CV"
   - "#Kairos"
   - "#AI"
   - "#LinearAlgebra"

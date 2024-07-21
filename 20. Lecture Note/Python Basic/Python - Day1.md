@@ -118,7 +118,7 @@ print(f"{num1} + {num2} = {result}")
 
 
 ## 수업 내용
-### List
+### [[List]]
 
 #### 리스트 생성 & 추가 방법 (append(), insert(), extend())
 
@@ -177,7 +177,7 @@ print(data3)
 
 <br>
 
-### for loop
+### [[For]]
 
 ```python
  for fruit in ["사과", "귤", "수박"]:
@@ -263,7 +263,7 @@ print(my_list)
 
 <br>
 
-###  function(함수)
+###  [[Function]]
 
 ```python
 def make_list(num):

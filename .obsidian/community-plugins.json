@@ -2,5 +2,6 @@
   "dataview",
   "execute-code",
   "obsidian-tasks-plugin",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-git"
 ]

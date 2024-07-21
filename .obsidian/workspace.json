@@ -11,8 +11,24 @@
             "id": "480004e53ced5ec7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "대학교 올에이쁠을 위한 옵시디언 Vault 사용 설명서.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "7d192c961b0b38a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "기초 개념/Lambda.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -65,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "79a7990781284c9a",
@@ -82,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "대학교 올에이쁠을 위한 옵시디언 Vault 사용 설명서.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "대학교 올에이쁠을 위한 옵시디언 Vault 사용 설명서.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "대학교 올에이쁠을 위한 옵시디언 Vault 사용 설명서.md"
+              }
             }
           }
         ]
@@ -142,42 +161,43 @@
   },
   "active": "480004e53ced5ec7",
   "lastOpenFiles": [
-    "20. Lecture Note/Python ML/Data Handling -Numpy.md",
-    "20. Lecture Note/Python ML/무제 파일.md",
+    "20. Lecture Note/Point Cloud/1. 3D Point Cloud.md",
     "20. Lecture Note/Python ML/Linear Algebra Basic.md",
+    "90. Template/새 수강과목 (New Subject).md",
+    "90. Template/90. Template.md",
+    "10. Subject/Point Cloud.md",
+    "10. Subject/Python and CV.md",
+    "10. Subject/Python for ML.md",
+    "20. Lecture Note/Python Basic/Python - Day1.md",
+    "20. Lecture Note/Point Cloud/Point Cloud.md",
+    "20. Lecture Note/Python Basic/Python - Day9.md",
+    "20. Lecture Note/Python Basic/Python - Day3.md",
+    "20. Lecture Note/Python Basic/Python - Day2.md",
+    "20. Lecture Note/Python Basic/Python - Day5.md",
+    "20. Lecture Note/Python Basic/Python - Day4.md",
+    "20. Lecture Note/Python Basic/Python - Day6.md",
+    "20. Lecture Note/Python Basic/Python - Day8.md",
+    "20. Lecture Note/Python Basic/Python - Day7.md",
+    "Robotics and AI.md",
+    "20. Lecture Note/Point Cloud",
+    "기초 개념/Matplotlib.md",
+    "기초 개념/Pandas.md",
+    "기초 개념/Threading.md",
+    "기초 개념/Class.md",
     "20. Lecture Note/Python ML/Pythonic Code.md",
+    "기초 개념/Deque.md",
+    "기초 개념/OrderedDict.md",
+    "기초 개념/Zip.md",
+    "99. Attachment/ch1_collections.pdf",
+    "무제 파일 2.canvas",
     "99. Attachment/ch1_linear_algebra_code.pdf",
     "99. Attachment/ch2_Numpy.pdf",
-    "99. Attachment/ch1_collections.pdf",
     "99. Attachment/ch1_asterisk.pdf",
     "99. Attachment/ch1_lambda_map_reduce-1.pdf",
     "99. Attachment/ch1_Enumerate_Zip.pdf",
     "99. Attachment/ch1_List_Comprehension.pdf",
     "99. Attachment/ch1_2_Split_Join.pdf",
     "99. Attachment/ch1_Split_Join.pdf",
-    "99. Attachment/ch1_Split_Join 1.pdf",
-    "20. Lecture Note/Untitled - 2024-07-10.md",
-    "Robotics and AI.md",
-    "기초 개념/Python.md",
-    "20. Lecture Note/Python Basic/Python - Day3.md",
-    "20. Lecture Note/Python Basic/Python - Day2.md",
-    "90. Template/새 데일리 노트(New Daily Note).md",
-    "90. Template/새 과제 (New Assignment).md",
-    "90. Template/새 강의 노트(New Lecture Note).md",
-    "30. Assignment/Untitled.md",
-    "20. Lecture Note/Python Basic/Python - Day9.md",
-    "20. Lecture Note/Python Basic/Python - Day6.md",
-    "20. Lecture Note/Python Basic/Python - Day1.md",
-    "대학교 올에이쁠을 위한 옵시디언 Vault 사용 설명서.md",
-    "20. Lecture Note/Python Basic/Python - Day7.md",
-    "20. Lecture Note/Python Basic/Python - Day5.md",
-    "기초 개념/Linear Algebra.md",
-    "90. Template/새 수강 과목 (New Subject).md",
-    "90. Template/90. Template.md",
-    "20. Lecture Note/Python Basic/Python - Day4.md",
-    "10. Subject/Linear Algebra(MATLAB).md",
-    "10. Subject/Untitled.md",
-    "기초 개념/Matlab.md",
     "무제 파일 1.canvas",
     "무제 파일.canvas"
   ]

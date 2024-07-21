@@ -1,5 +1,7 @@
 ---
-tags: 
+tags:
+  - Kairos
+  - Python
 aliases: 
 type: lecture-note
 created: 2024-07-08
@@ -76,7 +78,7 @@ prefix = "fruit_"
 # 강의필기 (Lecture Notes)
 <br>
 
-## Class
+## [[Class]]
 
 ```python
 class MyClass:
@@ -209,7 +211,7 @@ dev1.increase_pay(1.5)
 print(dev1.Salary)
 ```
 
-## PyQt5
+## [[PyQt5]]
 
 ### Button
 

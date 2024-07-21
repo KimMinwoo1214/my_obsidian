@@ -1,8 +1,8 @@
 ---
 tags:
   - Python
-  - OpenCV
   - "#Kairos"
+  - CV
 aliases: 
 type: lecture-note
 created: 2024-07-09

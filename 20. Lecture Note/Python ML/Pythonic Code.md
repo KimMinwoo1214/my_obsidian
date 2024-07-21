@@ -56,7 +56,7 @@ print(result)
 
 비슷한 결과가 나오지만 코드가 훨씬 단순해진다. 파이썬스러운 코드 작성 방식으로 효율적인 코드의 완성이 가능해진다.
 
-## Split & Join
+## Split & Join ([[List]])
 
 ### Split Function
 
@@ -201,7 +201,7 @@ for i in stuff:
 '''
 ```
 
-## Enumerate & Zip
+## [[Enumerate]] & [[Zip]]
 
 ### For loop + zip
 
@@ -252,7 +252,7 @@ for i, (a, b) in enumerate(zip(alist, blist)):
 '''
 ```
 
-## Lambda & MapReduce
+## [[Lambda]] & [[MapReduce]]
 
 ### Lambda
 
@@ -360,7 +360,7 @@ factorial(5)
 '''
 ```
 
-## Asterisk
+## [[Asterisk]]
 
 ```python
 def asterisk_test(a, *args):
@@ -473,7 +473,7 @@ asterisk_test(10, **data)
 
 ## Data Structure - Collections
 
-### Deque
+### [[Deque]]
 
 Stack과 Queue를 지원하는 모듈, 효율적인 자료 저장 방식을 지원
 
@@ -510,7 +510,7 @@ deque([7, 6, 5, 3, 4, 10, 0, 1, 2, 5, 6, 7])
 '''
 ```
 
-### OrderedDict
+### [[OrderedDict]]
 
 Dict와 달리, 데이터를 입력한 순서대로 dict를 반환
 

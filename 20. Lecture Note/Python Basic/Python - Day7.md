@@ -2,7 +2,7 @@
 tags:
   - Python
   - Kairos
-  - OpenCV
+  - "#CV"
 aliases: 
 type: lecture-note
 created: 2024-07-10
