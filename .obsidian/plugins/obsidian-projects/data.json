@@ -1,6 +1,53 @@
 {
   "version": 2,
-  "projects": [],
+  "projects": [
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [
+        "90. Template/새 프로젝트 노트(New Project Note).md"
+      ],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "50.Projects",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": [
+              {
+                "color": "#a882ff",
+                "condition": {
+                  "field": "",
+                  "operator": "is-not-empty",
+                  "enabled": true
+                }
+              }
+            ]
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "44d16301-8c8d-4be8-a007-4b65717b9b86",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "8ad9daba-5288-4582-a2cb-94896b0b5195",
+      "name": "Team Cheetah's side project"
+    }
+  ],
   "archives": [],
   "preferences": {
     "projectSizeLimit": 1000,
