@@ -39,5 +39,4 @@ I had the opportunity to learn this subject in the Naver Boost Course. It covers
 
 ### Side project - AGV car with Robot Arm
 #### [Side Project](https://github.com/KimMinwoo1214/my_obsidian/tree/main/50.Projects)
-This project is mainly focused on prototype. For main project, my team are going to make agv car with robot arm.
-We are going to do this with raspberrypi and arduino maga. This is our project link.
+This project primarily focuses on developing a prototype. For the main project, our team plans to build an AGV car with a robot arm. We will be using Raspberry Pi and Arduino Mega to accomplish this. The link above directs to our project repository.
