@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20. Lecture Note/Linear Algebra/3..md",
-                "mode": "source",
+                "file": "20. Lecture Note/Linear Algebra/3. Vector Part2.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20. Lecture Note/Linear Algebra/3..md",
+                "file": "20. Lecture Note/Linear Algebra/3. Vector Part2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20. Lecture Note/Linear Algebra/3..md",
+                "file": "20. Lecture Note/Linear Algebra/3. Vector Part2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20. Lecture Note/Linear Algebra/3..md"
+                "file": "20. Lecture Note/Linear Algebra/3. Vector Part2.md"
               }
             }
           }
@@ -150,8 +150,8 @@
   },
   "active": "affef27d896ea047",
   "lastOpenFiles": [
-    "20. Lecture Note/Linear Algebra/3..md",
-    "20. Lecture Note/Linear Algebra/2. Vector Parts.md",
+    "20. Lecture Note/Linear Algebra/2. Vector Part1.md",
+    "20. Lecture Note/Linear Algebra/3. Vector Part2.md",
     "기초 개념/Cross Product.md",
     "기초 개념/Dot Product.md",
     "기초 개념/Decomposition.md",
