@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "20. Lecture Note/Linear Algebra/6. Matrices Part2.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -150,8 +150,14 @@
   },
   "active": "affef27d896ea047",
   "lastOpenFiles": [
-    "20. Lecture Note/Linear Algebra/5. Matrices Part1.md",
+    "기초 개념/Spaces.md",
     "20. Lecture Note/Linear Algebra/6. Matrices Part2.md",
+    "기초 개념/Determinant.md",
+    "기초 개념/Inverse Matrix.md",
+    "기초 개념/Rank.md",
+    "기초 개념/Norms.md",
+    "기초 개념/Trace.md",
+    "20. Lecture Note/Linear Algebra/5. Matrices Part1.md",
     "기초 개념/LIVE EVIL.md",
     "기초 개념/Linear Transformations.md",
     "기초 개념/Matrix Math.md",
@@ -170,12 +176,6 @@
     "기초 개념/Feature Detection.md",
     "기초 개념/Filtering.md",
     "기초 개념/K-means Clustering.md",
-    "기초 개념/Vector Set.md",
-    "기초 개념/Linear Weighted Combination.md",
-    "기초 개념/Linear Independence.md",
-    "기초 개념/Span.md",
-    "기초 개념/Subspace.md",
-    "기초 개념/Basis.md",
     "99. Attachment/Linear_Algebra/Lecture_02_Vectors_part.pdf",
     "99. Attachment/Linear_Algebra/Lecture_01_Introduction.pdf",
     "20. Lecture Note/Linear Algebra",
