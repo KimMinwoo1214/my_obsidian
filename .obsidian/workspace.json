@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "50.Projects/Team Cheetah Side Project.md",
+                "file": "20. Lecture Note/Linear Algebra/1. Introduce.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "50.Projects/Team Cheetah Side Project.md",
+                "file": "20. Lecture Note/Linear Algebra/1. Introduce.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "50.Projects/Team Cheetah Side Project.md",
+                "file": "20. Lecture Note/Linear Algebra/1. Introduce.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "50.Projects/Team Cheetah Side Project.md"
+                "file": "20. Lecture Note/Linear Algebra/1. Introduce.md"
               }
             }
           }
@@ -150,6 +150,21 @@
   },
   "active": "affef27d896ea047",
   "lastOpenFiles": [
+    "기초 개념/Matlab.md",
+    "20. Lecture Note/Linear Algebra/1. Introduce.md",
+    "20. Lecture Note/Linear Algebra/2. Vector Parts.md",
+    "99. Attachment/Linear_Algebra/Lecture_01_Introduction.pdf",
+    "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md",
+    "20. Lecture Note/Linear Algebra",
+    "99. Attachment/Linear_Algebra/Lecture_13_Eigendecomposition_part2.pdf",
+    "99. Attachment/Linear_Algebra/Lecture_15_PCA_and_Jacobian_Matrix_and_Hessian_Matrix.pdf",
+    "99. Attachment/Linear_Algebra/Lecture_14_Singular_Value_Decomposition.pdf",
+    "99. Attachment/Linear_Algebra/Lecture_14_Singular_Value_Decomposition_modified.pdf",
+    "99. Attachment/Linear_Algebra/Lecture_12_Least_Square based sensor data processing.pdf",
+    "99. Attachment/Linear_Algebra/Lecture_13_Eigendecomposition_part1.pdf",
+    "99. Attachment/Linear_Algebra/Lecture_10_Row_reduction_and_LU_decomposition_part1.pdf",
+    "99. Attachment/Linear_Algebra/Lecture_11_General_Linear_Models_and_Least_Squares.pdf",
+    "50.Projects/Team Cheetah Side Project.md",
     "90. Template/90. Template.md",
     "30. Assignment/Untitled.md",
     "30. Assignment/Untitled 1.md",
@@ -159,7 +174,6 @@
     "20. Lecture Note/Python Basic/Python - Day6.md",
     "20. Lecture Note/Python Basic/Python - Day7.md",
     "20. Lecture Note/Python Basic/Python - Day8.md",
-    "50.Projects/Team Cheetah Side Project.md",
     "기초 개념/Fusion360.md",
     "90. Template/새 프로젝트 노트(New Project Note).md",
     "50.Projects/무제 파일.md",
@@ -167,33 +181,19 @@
     "90. Template/새 강의 노트(New Lecture Note).md",
     "90. Template/새 데일리 노트(New Daily Note).md",
     "90. Template/새 과제 (New Assignment).md",
-    "50.Projects",
     "90. Template/새 수강과목 (New Subject).md",
-    "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md",
     "10. Subject/3D Point Cloud Data Processing.md",
     "20. Lecture Note/Python ML/Linear Algebra Basic.md",
-    "99. Attachment/Python for ML/ch1_linear_algebra_code.pdf",
     "99. Attachment/Pasted image 20240721181051.png",
     "99. Attachment/Point Cloud/Pasted image 20240721181051.png",
     "99. Attachment/Point Cloud/Pasted image 20240721181031.png",
     "99. Attachment/Point Cloud/Pasted image 20240721180959.png",
     "99. Attachment/Point Cloud/Pasted image 20240721180740.png",
-    "99. Attachment/Point Cloud",
-    "99. Attachment/Python for ML/ch2_Numpy.pdf",
-    "99. Attachment/Python for ML/ch1_Split_Join.pdf",
-    "99. Attachment/Python for ML/ch1_List_Comprehension.pdf",
-    "99. Attachment/Python for ML/ch1_lambda_map_reduce-1.pdf",
-    "99. Attachment/Python for ML/ch1_Enumerate_Zip.pdf",
-    "99. Attachment/Python for ML/ch1_collections.pdf",
-    "99. Attachment/Python for ML/ch1_asterisk.pdf",
     "99. Attachment/Pasted image 20240721181031.png",
     "99. Attachment/Pasted image 20240721180959.png",
     "99. Attachment/Pasted image 20240721180740.png",
     "기초 개념/Point Cloud.md",
     "기초 개념/3D Data Expression.md",
-    "README.md",
-    "대학교 올에이쁠을 위한 옵시디언 Vault 사용 설명서.md",
-    "기초 개념/Lambda.md",
     "무제 파일 2.canvas",
     "무제 파일 1.canvas",
     "무제 파일.canvas"
