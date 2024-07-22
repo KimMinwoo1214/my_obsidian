@@ -11,8 +11,12 @@
             "id": "affef27d896ea047",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "20. Lecture Note/Linear Algebra/2. Vector Part1.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "20. Lecture Note/Linear Algebra/2. Vector Part1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "20. Lecture Note/Linear Algebra/2. Vector Part1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "20. Lecture Note/Linear Algebra/2. Vector Part1.md"
+              }
             }
           }
         ]
@@ -140,7 +148,7 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "efa4f9e7ad7f389c",
+  "active": "affef27d896ea047",
   "lastOpenFiles": [
     "30. Assignment/LinearAlgebra/CH.6/HW_02.m",
     "30. Assignment/LinearAlgebra/CH.6/HW_01.m",
