@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20. Lecture Note/Linear Algebra/1. Introduce.md",
-                "mode": "preview",
+                "file": "20. Lecture Note/Linear Algebra/2. Vector Parts.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20. Lecture Note/Linear Algebra/1. Introduce.md",
+                "file": "20. Lecture Note/Linear Algebra/2. Vector Parts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20. Lecture Note/Linear Algebra/1. Introduce.md",
+                "file": "20. Lecture Note/Linear Algebra/2. Vector Parts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20. Lecture Note/Linear Algebra/1. Introduce.md"
+                "file": "20. Lecture Note/Linear Algebra/2. Vector Parts.md"
               }
             }
           }
@@ -150,8 +150,8 @@
   },
   "active": "affef27d896ea047",
   "lastOpenFiles": [
-    "기초 개념/Matlab.md",
     "20. Lecture Note/Linear Algebra/1. Introduce.md",
+    "기초 개념/Matlab.md",
     "20. Lecture Note/Linear Algebra/2. Vector Parts.md",
     "99. Attachment/Linear_Algebra/Lecture_01_Introduction.pdf",
     "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md",
