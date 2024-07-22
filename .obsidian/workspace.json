@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20. Lecture Note/Linear Algebra/3. Vector Part2.md",
-                "mode": "source",
+                "file": "20. Lecture Note/Linear Algebra/4. Vector Applications.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20. Lecture Note/Linear Algebra/3. Vector Part2.md",
+                "file": "20. Lecture Note/Linear Algebra/4. Vector Applications.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20. Lecture Note/Linear Algebra/3. Vector Part2.md",
+                "file": "20. Lecture Note/Linear Algebra/4. Vector Applications.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20. Lecture Note/Linear Algebra/3. Vector Part2.md"
+                "file": "20. Lecture Note/Linear Algebra/4. Vector Applications.md"
               }
             }
           }
@@ -150,8 +150,15 @@
   },
   "active": "affef27d896ea047",
   "lastOpenFiles": [
-    "20. Lecture Note/Linear Algebra/2. Vector Part1.md",
     "20. Lecture Note/Linear Algebra/3. Vector Part2.md",
+    "20. Lecture Note/Linear Algebra/4. Vector Applications.md",
+    "기초 개념/Vector Set.md",
+    "기초 개념/Linear Weighted Combination.md",
+    "기초 개념/Linear Independence.md",
+    "기초 개념/Span.md",
+    "기초 개념/Subspace.md",
+    "기초 개념/Basis.md",
+    "20. Lecture Note/Linear Algebra/2. Vector Part1.md",
     "기초 개념/Cross Product.md",
     "기초 개념/Dot Product.md",
     "기초 개념/Decomposition.md",
@@ -179,13 +186,6 @@
     "30. Assignment/Untitled 1.md",
     "20. Lecture Note/Untitled - 2024-07-10.md",
     "20. Lecture Note/Python Basic/Python - Day4.md",
-    "기초 개념/Pandas.md",
-    "20. Lecture Note/Python Basic/Python - Day6.md",
-    "20. Lecture Note/Python Basic/Python - Day7.md",
-    "20. Lecture Note/Python Basic/Python - Day8.md",
-    "기초 개념/Fusion360.md",
-    "90. Template/새 프로젝트 노트(New Project Note).md",
-    "50.Projects/무제 파일.md",
     "99. Attachment/Pasted image 20240721181051.png",
     "99. Attachment/Point Cloud/Pasted image 20240721181051.png",
     "99. Attachment/Point Cloud/Pasted image 20240721181031.png",
