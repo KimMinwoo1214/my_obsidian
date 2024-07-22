@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20. Lecture Note/Linear Algebra/5. Matrices.md",
-                "mode": "preview",
+                "file": "20. Lecture Note/Linear Algebra/6. Matrices Part2.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20. Lecture Note/Linear Algebra/5. Matrices.md",
+                "file": "20. Lecture Note/Linear Algebra/6. Matrices Part2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20. Lecture Note/Linear Algebra/5. Matrices.md",
+                "file": "20. Lecture Note/Linear Algebra/6. Matrices Part2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20. Lecture Note/Linear Algebra/5. Matrices.md"
+                "file": "20. Lecture Note/Linear Algebra/6. Matrices Part2.md"
               }
             }
           }
@@ -150,34 +150,34 @@
   },
   "active": "affef27d896ea047",
   "lastOpenFiles": [
+    "20. Lecture Note/Linear Algebra/5. Matrices Part1.md",
+    "20. Lecture Note/Linear Algebra/6. Matrices Part2.md",
+    "기초 개념/LIVE EVIL.md",
+    "기초 개념/Linear Transformations.md",
+    "기초 개념/Matrix Math.md",
+    "기초 개념/Matrix.md",
+    "기초 개념/Special Matrices.md",
+    "기초 개념/Standard Matrix.md",
+    "기초 개념/Multiplication.md",
+    "기초 개념/Transpose.md",
+    "기초 개념/Symmetric Matrix.md",
     "20. Lecture Note/Linear Algebra/4. Vector Applications.md",
-    "20. Lecture Note/Linear Algebra/5. Matrices.md",
+    "20. Lecture Note/Linear Algebra/3. Vector Part2.md",
+    "20. Lecture Note/Linear Algebra/1. Introduce.md",
+    "20. Lecture Note/Linear Algebra/2. Vector Part1.md",
     "기초 개념/Cosine Similarity.md",
     "기초 개념/Correlation.md",
     "기초 개념/Feature Detection.md",
     "기초 개념/Filtering.md",
     "기초 개념/K-means Clustering.md",
-    "20. Lecture Note/Linear Algebra/3. Vector Part2.md",
     "기초 개념/Vector Set.md",
     "기초 개념/Linear Weighted Combination.md",
     "기초 개념/Linear Independence.md",
     "기초 개념/Span.md",
     "기초 개념/Subspace.md",
     "기초 개념/Basis.md",
-    "20. Lecture Note/Linear Algebra/2. Vector Part1.md",
-    "기초 개념/Cross Product.md",
-    "기초 개념/Dot Product.md",
-    "기초 개념/Decomposition.md",
-    "기초 개념/Vector Operations.md",
-    "기초 개념/Vector.md",
-    "기초 개념/Hadamard Product.md",
-    "기초 개념/Orthogonal.md",
-    "기초 개념/Summary.md",
     "99. Attachment/Linear_Algebra/Lecture_02_Vectors_part.pdf",
     "99. Attachment/Linear_Algebra/Lecture_01_Introduction.pdf",
-    "20. Lecture Note/Linear Algebra/1. Introduce.md",
-    "기초 개념/Matlab.md",
-    "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md",
     "20. Lecture Note/Linear Algebra",
     "99. Attachment/Linear_Algebra/Lecture_13_Eigendecomposition_part2.pdf",
     "99. Attachment/Linear_Algebra/Lecture_15_PCA_and_Jacobian_Matrix_and_Hessian_Matrix.pdf",
