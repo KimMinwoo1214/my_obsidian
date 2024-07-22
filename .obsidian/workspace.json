@@ -135,9 +135,7 @@
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-projects:Open projects": false
+      "command-palette:명령어 팔레트 열기": false
     }
   },
   "active": "affef27d896ea047",
