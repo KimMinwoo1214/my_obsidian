@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "20. Lecture Note/Linear Algebra/2. Vector Part1.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -150,6 +150,7 @@
   },
   "active": "affef27d896ea047",
   "lastOpenFiles": [
+    "20. Lecture Note/Linear Algebra/2. Vector Part1.md",
     "30. Assignment/LinearAlgebra/CH.6/HW_02.m",
     "30. Assignment/LinearAlgebra/CH.6/HW_01.m",
     "30. Assignment/LinearAlgebra/CH.5/exercise_2020063063_05_04.m",
@@ -160,7 +161,6 @@
     "30. Assignment/LinearAlgebra/CH.4/exercise_2020063063_04_03.m",
     "30. Assignment/LinearAlgebra/CH.4/exercise_2020063063_04_02.m",
     "30. Assignment/LinearAlgebra/CH.4/exercise_2020063063_04_01.m",
-    "30. Assignment/LinearAlgebra/CH.3/exercise_2020063063_03_03.m",
     "기초 개념/Vector.md",
     "기초 개념/Vector Set.md",
     "기초 개념/Vector Operations.md",
