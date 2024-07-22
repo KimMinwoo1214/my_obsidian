@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20. Lecture Note/Linear Algebra/2. Vector Parts.md",
+                "file": "20. Lecture Note/Linear Algebra/3..md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20. Lecture Note/Linear Algebra/2. Vector Parts.md",
+                "file": "20. Lecture Note/Linear Algebra/3..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20. Lecture Note/Linear Algebra/2. Vector Parts.md",
+                "file": "20. Lecture Note/Linear Algebra/3..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20. Lecture Note/Linear Algebra/2. Vector Parts.md"
+                "file": "20. Lecture Note/Linear Algebra/3..md"
               }
             }
           }
@@ -150,10 +150,20 @@
   },
   "active": "affef27d896ea047",
   "lastOpenFiles": [
+    "20. Lecture Note/Linear Algebra/3..md",
+    "20. Lecture Note/Linear Algebra/2. Vector Parts.md",
+    "기초 개념/Cross Product.md",
+    "기초 개념/Dot Product.md",
+    "기초 개념/Decomposition.md",
+    "기초 개념/Vector Operations.md",
+    "기초 개념/Vector.md",
+    "기초 개념/Hadamard Product.md",
+    "기초 개념/Orthogonal.md",
+    "기초 개념/Summary.md",
+    "99. Attachment/Linear_Algebra/Lecture_02_Vectors_part.pdf",
+    "99. Attachment/Linear_Algebra/Lecture_01_Introduction.pdf",
     "20. Lecture Note/Linear Algebra/1. Introduce.md",
     "기초 개념/Matlab.md",
-    "20. Lecture Note/Linear Algebra/2. Vector Parts.md",
-    "99. Attachment/Linear_Algebra/Lecture_01_Introduction.pdf",
     "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md",
     "20. Lecture Note/Linear Algebra",
     "99. Attachment/Linear_Algebra/Lecture_13_Eigendecomposition_part2.pdf",
@@ -163,7 +173,6 @@
     "99. Attachment/Linear_Algebra/Lecture_12_Least_Square based sensor data processing.pdf",
     "99. Attachment/Linear_Algebra/Lecture_13_Eigendecomposition_part1.pdf",
     "99. Attachment/Linear_Algebra/Lecture_10_Row_reduction_and_LU_decomposition_part1.pdf",
-    "99. Attachment/Linear_Algebra/Lecture_11_General_Linear_Models_and_Least_Squares.pdf",
     "50.Projects/Team Cheetah Side Project.md",
     "90. Template/90. Template.md",
     "30. Assignment/Untitled.md",
@@ -177,13 +186,6 @@
     "기초 개념/Fusion360.md",
     "90. Template/새 프로젝트 노트(New Project Note).md",
     "50.Projects/무제 파일.md",
-    "90. Template/새 수강 과목 (New Subject).md",
-    "90. Template/새 강의 노트(New Lecture Note).md",
-    "90. Template/새 데일리 노트(New Daily Note).md",
-    "90. Template/새 과제 (New Assignment).md",
-    "90. Template/새 수강과목 (New Subject).md",
-    "10. Subject/3D Point Cloud Data Processing.md",
-    "20. Lecture Note/Python ML/Linear Algebra Basic.md",
     "99. Attachment/Pasted image 20240721181051.png",
     "99. Attachment/Point Cloud/Pasted image 20240721181051.png",
     "99. Attachment/Point Cloud/Pasted image 20240721181031.png",
@@ -192,8 +194,6 @@
     "99. Attachment/Pasted image 20240721181031.png",
     "99. Attachment/Pasted image 20240721180959.png",
     "99. Attachment/Pasted image 20240721180740.png",
-    "기초 개념/Point Cloud.md",
-    "기초 개념/3D Data Expression.md",
     "무제 파일 2.canvas",
     "무제 파일 1.canvas",
     "무제 파일.canvas"
