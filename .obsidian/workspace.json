@@ -11,12 +11,8 @@
             "id": "affef27d896ea047",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20. Lecture Note/Linear Algebra/6. Matrices Part2.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20. Lecture Note/Linear Algebra/6. Matrices Part2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20. Lecture Note/Linear Algebra/6. Matrices Part2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "20. Lecture Note/Linear Algebra/6. Matrices Part2.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -150,8 +142,8 @@
   },
   "active": "affef27d896ea047",
   "lastOpenFiles": [
-    "기초 개념/Spaces.md",
     "20. Lecture Note/Linear Algebra/6. Matrices Part2.md",
+    "기초 개념/Spaces.md",
     "기초 개념/Determinant.md",
     "기초 개념/Inverse Matrix.md",
     "기초 개념/Rank.md",
