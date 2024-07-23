@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "917d91f622cba159",
+        "id": "f1df42db4522fa8b",
         "type": "tabs",
         "children": [
           {
-            "id": "affef27d896ea047",
+            "id": "24436964c3ace4dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20. Lecture Note/Linear Algebra/1. Introduce.md",
+                "file": "20. Lecture Note/Linear Algebra/6. Matrices Part2.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20. Lecture Note/Linear Algebra/1. Introduce.md",
+                "file": "20. Lecture Note/Linear Algebra/6. Matrices Part2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20. Lecture Note/Linear Algebra/1. Introduce.md",
+                "file": "20. Lecture Note/Linear Algebra/6. Matrices Part2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20. Lecture Note/Linear Algebra/1. Introduce.md"
+                "file": "20. Lecture Note/Linear Algebra/6. Matrices Part2.md"
               }
             }
           }
@@ -148,16 +148,31 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "affef27d896ea047",
+  "active": "efa4f9e7ad7f389c",
   "lastOpenFiles": [
+    "20. Lecture Note/Python ML/Linear Algebra Basic.md",
+    "99. Attachment/Linear_Algebra/Lecture_02_Vectors_part.pdf",
+    "기초 개념/3D Data Expression.md",
+    "대학교 올에이쁠을 위한 옵시디언 Vault 사용 설명서.md",
+    "무제 파일 2.canvas",
+    "무제 파일 1.canvas",
+    "무제 파일.canvas",
     "20. Lecture Note/Linear Algebra/6. Matrices Part2.md",
+    "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md",
+    "20. Lecture Note/Python ML/Data Handling -Numpy.md",
+    "20. Lecture Note/Linear Algebra/5. Matrices Part1.md",
+    "20. Lecture Note/Linear Algebra/3. Vector Part2.md",
+    "20. Lecture Note/Linear Algebra/2. Vector Part1.md",
+    "99. Attachment/Linear_Algebra/Lecture_12_Least_Square based sensor data processing.pdf",
+    "99. Attachment/Linear_Algebra/Lecture_13_Eigendecomposition_part1.pdf",
+    "99. Attachment/Linear_Algebra/Lecture_08_Matrix_inverse.pdf",
+    "20. Lecture Note/Linear Algebra/1. Introduce.md",
     "기초 개념/Spaces.md",
     "기초 개념/Determinant.md",
     "기초 개념/Inverse Matrix.md",
     "기초 개념/Rank.md",
     "기초 개념/Norms.md",
     "기초 개념/Trace.md",
-    "20. Lecture Note/Linear Algebra/5. Matrices Part1.md",
     "기초 개념/LIVE EVIL.md",
     "기초 개념/Linear Transformations.md",
     "기초 개념/Matrix Math.md",
@@ -168,24 +183,12 @@
     "기초 개념/Transpose.md",
     "기초 개념/Symmetric Matrix.md",
     "20. Lecture Note/Linear Algebra/4. Vector Applications.md",
-    "20. Lecture Note/Linear Algebra/3. Vector Part2.md",
-    "20. Lecture Note/Linear Algebra/1. Introduce.md",
-    "20. Lecture Note/Linear Algebra/2. Vector Part1.md",
-    "기초 개념/Cosine Similarity.md",
-    "기초 개념/Correlation.md",
-    "기초 개념/Feature Detection.md",
-    "기초 개념/Filtering.md",
-    "기초 개념/K-means Clustering.md",
-    "99. Attachment/Linear_Algebra/Lecture_02_Vectors_part.pdf",
     "99. Attachment/Linear_Algebra/Lecture_01_Introduction.pdf",
     "20. Lecture Note/Linear Algebra",
     "99. Attachment/Linear_Algebra/Lecture_13_Eigendecomposition_part2.pdf",
     "99. Attachment/Linear_Algebra/Lecture_15_PCA_and_Jacobian_Matrix_and_Hessian_Matrix.pdf",
     "99. Attachment/Linear_Algebra/Lecture_14_Singular_Value_Decomposition.pdf",
     "99. Attachment/Linear_Algebra/Lecture_14_Singular_Value_Decomposition_modified.pdf",
-    "99. Attachment/Linear_Algebra/Lecture_12_Least_Square based sensor data processing.pdf",
-    "99. Attachment/Linear_Algebra/Lecture_13_Eigendecomposition_part1.pdf",
-    "99. Attachment/Linear_Algebra/Lecture_10_Row_reduction_and_LU_decomposition_part1.pdf",
     "99. Attachment/Pasted image 20240721181051.png",
     "99. Attachment/Point Cloud/Pasted image 20240721181051.png",
     "99. Attachment/Point Cloud/Pasted image 20240721181031.png",
@@ -193,9 +196,6 @@
     "99. Attachment/Point Cloud/Pasted image 20240721180740.png",
     "99. Attachment/Pasted image 20240721181031.png",
     "99. Attachment/Pasted image 20240721180959.png",
-    "99. Attachment/Pasted image 20240721180740.png",
-    "무제 파일 2.canvas",
-    "무제 파일 1.canvas",
-    "무제 파일.canvas"
+    "99. Attachment/Pasted image 20240721180740.png"
   ]
 }
