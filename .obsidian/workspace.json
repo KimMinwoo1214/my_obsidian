@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. Subject/3D Point Cloud Data Processing.md",
-                "mode": "source",
+                "file": "50.Projects/Team Cheetah Side Project.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. Subject/3D Point Cloud Data Processing.md",
+                "file": "50.Projects/Team Cheetah Side Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10. Subject/3D Point Cloud Data Processing.md",
+                "file": "50.Projects/Team Cheetah Side Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. Subject/3D Point Cloud Data Processing.md"
+                "file": "50.Projects/Team Cheetah Side Project.md"
               }
             }
           }
@@ -150,6 +150,8 @@
   },
   "active": "24436964c3ace4dd",
   "lastOpenFiles": [
+    "10. Subject/3D Point Cloud Data Processing.md",
+    "99. Attachment/Point Cloud/application_pdf.pdf",
     "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md",
     "20. Lecture Note/Linear Algebra/8. Matrix Inverse.md",
     "기초 개념/Invertibility.md",
@@ -183,13 +185,11 @@
     "기초 개념/Rank.md",
     "기초 개념/Norms.md",
     "기초 개념/Trace.md",
-    "기초 개념/LIVE EVIL.md",
     "99. Attachment/Linear_Algebra/Lecture_01_Introduction.pdf",
     "20. Lecture Note/Linear Algebra",
     "99. Attachment/Linear_Algebra/Lecture_13_Eigendecomposition_part2.pdf",
     "99. Attachment/Linear_Algebra/Lecture_15_PCA_and_Jacobian_Matrix_and_Hessian_Matrix.pdf",
     "99. Attachment/Linear_Algebra/Lecture_14_Singular_Value_Decomposition.pdf",
-    "99. Attachment/Linear_Algebra/Lecture_14_Singular_Value_Decomposition_modified.pdf",
     "99. Attachment/Pasted image 20240721181051.png",
     "99. Attachment/Point Cloud/Pasted image 20240721181051.png",
     "99. Attachment/Point Cloud/Pasted image 20240721181031.png",
