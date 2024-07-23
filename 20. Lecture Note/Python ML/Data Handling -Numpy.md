@@ -21,7 +21,7 @@ summary: false
 # 강의필기 (Lecture Notes)
 <br>
 
-## Numpy
+## [[Numpy]]
 
 ### 특징
 
@@ -39,7 +39,7 @@ summary: false
 import numpy as np
 ```
 
-### Array Creation
+### [[Array]] Creation
 
 ```python
 test_array = np.array([1, 4, 5, 8], float)
@@ -66,11 +66,11 @@ shape: numpy array의 object의 dimension 구성을 반환한다.
 
 dtype: numpy array의 데이터 type을 반환한다.
 
-### Array shape
+### [[Array]] shape
 
 Array의 크기, 형태 등에 대한 정보를 반환한다
 
-**Vector**
+**[[Vector]]**
 
 ```python
 test_array = np.array([1, 4, 5, "8"], float)
@@ -78,7 +78,7 @@ print(test_array.shape)
 ```
 
 
-**Matrix**
+**[[Matrix]]**
 
 ```python
 matrix = [[1, 2, 5, 8], [1, 2, 5, 8], [1, 2, 5, 8]]
@@ -98,21 +98,21 @@ np,array(tensor, int).shape
 ```
 
 
-**ndim -** number of dimension
+**[[ndim]] -** number of dimension
 
 ```python
 np.array(tensor, int).ndim
 #3
 ```
 
-**size -** data의 개수
+**[[size]] -** data의 개수
 
 ```python
 np.array(tensor, int).size
 #48
 ```
 
-#### Array dtype
+#### [[Array]] dtype
 
 Ndarray의 single element가 가지는 data type
 
@@ -145,7 +145,7 @@ np.array([[1, 2, 3], [4.5, "5", "6"]], dtype = np.float64).nbtyes
 
 ### Handling shape
 
-#### reshape
+#### [[reshape]]
 
 -Array의 shape의 크기를 변경함 (element의 갯수는 동일)
 
@@ -183,13 +183,13 @@ np.array(test_matrix).flatten()
 #array([1, 2, 3, 4, 5, 1, 2, 5, 8, 1, 2, 3, 4, 1, 2, 5, 8])
 ```
 
-### Indexing & Slicing
+### [[Indexing]]  & [[Slicing]]
 
 리스트와 달리 이차원 배열에서 [0, 0]과 같은 표기법을 제공함
 
 Matrix일 경우 앞은 row, 뒤는 column을 의미함
 
-#### Indexing
+#### [[Indexing]]
 
 ```python
 test_example = np.array([[1, 2, 3], [4.5, 5, 6]], int)
@@ -205,7 +205,7 @@ test_example[0][0] = 5
 test_example[0, 0] #5
 ```
 
-#### Slicing
+#### [[Slicing]]
 
 list와 달리 행과 열 부분을 나눠서 slicing이 가능함
 
@@ -228,9 +228,9 @@ a[1:3] #1row ~ 2row의 전체
 ```
 
 
-### Creation function
+### Creation [[function]]
 
-#### arange
+#### [[arange]]
 
 array의 범위를 지정하여, 값의 list를 생성하는 명령어
 
@@ -246,7 +246,7 @@ np.arange(30).reshape(5, 6)
 				#[24, 25, 26, 27, 28, 29]])
 ```
 
-#### ones, zeros and empty
+#### [[ones]], [[zeros]] and [[empty]]
 
 zeros - 0으로 가득 찬 ndarray 생성 (np.zeros(shape, dtype, order)
 
@@ -293,7 +293,7 @@ np.ones_like(test_matrix)
 			#[1, 1, 1, 1, 1, 1]])
 ```
 
-#### eye
+#### [[eye]]
 
 -대각선이 1인 행렬, k 값의 시작 index의 변경이 가능
 
@@ -304,7 +304,7 @@ np.eye(N = 3, M = 5, dtype = np.int8)
 			#[0, 0, 1, 0, 0], dtype = int8)
 ```
 
-#### diag
+#### [[diag]]
 
 -대각 행렬의 값을 추출함
 
@@ -316,7 +316,7 @@ np.diag(matrix, k = 1) #k->start index
 #array([1, 5])
 ```
 
-#### random sampling
+#### random [[sampling]]
 
 -데이터 분포에 따른 sampling으로 array를 생성
 
@@ -327,7 +327,7 @@ np.random.normal(0,1,10).reshpae(2, 5) #정규분포
 
 ### Operation functions
 
-#### sum
+#### [[sum]]
 
 -ndarray의 element들 간의 합을 구함, list의 sum 기능과 동일
 
@@ -338,7 +338,7 @@ test_array.sum(dtype=np.float)
 #55.0
 ```
 
-#### axis
+#### [[axis]]
 
 -모든 operation function을 실행할 때, 기준이 되는 dimenstion 축
 
@@ -351,7 +351,7 @@ test_array.sum(axis = 1), test_array.sum(axis = 0)
 #(array([10, 26, 42]), array([15, 18, 21, 24]))
 ```
 
-#### mean & std
+#### [[mean]] & [[std]]
 
 -ndarray의 element들 간의 평균 또는 표준 편차를 반환
 
@@ -366,7 +366,7 @@ test_array.std(), test_array.std(axis=0)
 #(3.45205...,array([3.2659..., 3.2659..., 3.2659..., 3.2659...]))
 ```
 
-#### concatenate
+#### [[concatenate]]
 
 - Numpy array를 합치는 함수
 
@@ -382,7 +382,7 @@ np.concatenate((a, b.T), axis=1)
 
 ```
 
-### Numpy Performance
+### [[Numpy]] Performance
 
 ```python
 def scalar_vector_product(scalar, vector):
@@ -409,7 +409,7 @@ scalar = 2
 
 ### Comparisons
 
-#### All & Any
+#### [[All]] & [[Any]]
 
 - Array의 데이터 전부(and) 또는 일부(or)가 조건에 만족 여부 반환
 
@@ -423,7 +423,7 @@ np.any(a == b)
 # True
 ```
 
-#### np.where
+#### np.[[where]]
 
 - 조건에 맞는 요소의 인덱스를 반환
 
@@ -433,7 +433,7 @@ np.where(a > 2)
 # (array([2, 3]),)
 ```
 
-#### argmax & argmin
+#### [[argmax]] & [[argmin]]
 
 - array 내 최대값 또는 최소값의 index를 반환함
 
@@ -445,7 +445,7 @@ np.argmin(a)
 # 0
 ```
 
-#### boolean & fancy index
+#### [[boolean]] & [[fancy index]]
 
 - 조건에 맞는 값 또는 특정 인덱스의 값을 추출함
 
