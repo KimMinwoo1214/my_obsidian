@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md",
-                "mode": "preview",
+                "file": "10. Subject/3D Point Cloud Data Processing.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md",
+                "file": "10. Subject/3D Point Cloud Data Processing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md",
+                "file": "10. Subject/3D Point Cloud Data Processing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md"
+                "file": "10. Subject/3D Point Cloud Data Processing.md"
               }
             }
           }
@@ -150,6 +150,7 @@
   },
   "active": "24436964c3ace4dd",
   "lastOpenFiles": [
+    "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md",
     "20. Lecture Note/Linear Algebra/8. Matrix Inverse.md",
     "기초 개념/Invertibility.md",
     "20. Lecture Note/Linear Algebra/6. Matrices Part2.md",
@@ -161,7 +162,6 @@
     "20. Lecture Note/Linear Algebra/7. Matrix Applications.md",
     "기초 개념/Geometric Transformations.md",
     "기초 개념/Covariance.md",
-    "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md",
     "기초 개념/Image.md",
     "20. Lecture Note/Linear Algebra/2. Vector Part1.md",
     "20. Lecture Note/Linear Algebra/3. Vector Part2.md",
