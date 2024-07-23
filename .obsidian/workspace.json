@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md",
-                "mode": "preview",
+                "file": "20. Lecture Note/Linear Algebra/8. Matrix Inverse.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md",
+                "file": "20. Lecture Note/Linear Algebra/8. Matrix Inverse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md",
+                "file": "20. Lecture Note/Linear Algebra/8. Matrix Inverse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md"
+                "file": "20. Lecture Note/Linear Algebra/8. Matrix Inverse.md"
               }
             }
           }
@@ -148,12 +148,15 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "24436964c3ace4dd",
+  "active": "efa4f9e7ad7f389c",
   "lastOpenFiles": [
-    "20. Lecture Note/3D Point Cloud Data Processing/Image.md",
-    "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md",
-    "20. Lecture Note/Linear Algebra/6. Matrices Part2.md",
+    "99. Attachment/Linear_Algebra/Pasted image 20240723091210.png",
     "20. Lecture Note/Linear Algebra/7. Matrix Applications.md",
+    "기초 개념/Geometric Transformations.md",
+    "기초 개념/Covariance.md",
+    "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md",
+    "기초 개념/Image.md",
+    "20. Lecture Note/Linear Algebra/6. Matrices Part2.md",
     "20. Lecture Note/Linear Algebra/8. Matrix Inverse.md",
     "20. Lecture Note/Linear Algebra/2. Vector Part1.md",
     "20. Lecture Note/Linear Algebra/3. Vector Part2.md",
@@ -180,9 +183,6 @@
     "기초 개념/Trace.md",
     "기초 개념/LIVE EVIL.md",
     "기초 개념/Linear Transformations.md",
-    "기초 개념/Matrix Math.md",
-    "기초 개념/Matrix.md",
-    "기초 개념/Special Matrices.md",
     "99. Attachment/Linear_Algebra/Lecture_01_Introduction.pdf",
     "20. Lecture Note/Linear Algebra",
     "99. Attachment/Linear_Algebra/Lecture_13_Eigendecomposition_part2.pdf",
