@@ -11,8 +11,12 @@
             "id": "24436964c3ace4dd",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md"
+              }
             }
           }
         ]
