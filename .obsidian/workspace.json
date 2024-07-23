@@ -8,39 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e4c93bffdfcb4ccc",
+            "id": "414db33581136b3b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "50.Projects/Team Cheetah Side Project.md",
+                "file": "20. Lecture Note/Arduino and ESP32/Day 1. Arduino Basic.md",
                 "mode": "source",
                 "source": true
               }
             }
-          },
-          {
-            "id": "414db33581136b3b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "202b617d89b3ce6b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "20. Lecture Note/Arduino and ESP32/Day 1. Arduino Basic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "20. Lecture Note/Arduino and ESP32/Day 1. Arduino Basic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "20. Lecture Note/Arduino and ESP32/Day 1. Arduino Basic.md"
               }
             }
           }
@@ -169,19 +148,27 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "202b617d89b3ce6b",
+  "active": "efa4f9e7ad7f389c",
   "lastOpenFiles": [
+    "99. Attachment/Arduino and ESP32",
+    "10. Subject/Arduino and ESP32.md",
+    "20. Lecture Note/Arduino and ESP32/Day 1. Arduino Basic.md",
+    "2024-03-22.md",
+    "Robotics and AI.md",
+    "20. Lecture Note/Python ML/Data Handling -Numpy.md",
+    "20. Lecture Note/Arduino and ESP32",
+    "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md",
+    "10. Subject/3D Point Cloud Data Processing.md",
+    "conflict-files-obsidian-git.md",
     "20. Lecture Note/Linear Algebra/2. Vector Part1.md",
     "20. Lecture Note/Python Basic/Python - Day6.md",
     "20. Lecture Note/Python Basic/Python - Day3.md",
     "20. Lecture Note/Python Basic/Python - Day2.md",
     "20. Lecture Note/Python Basic/Python - Day1.md",
     "20. Lecture Note/Python Basic/Python - Day4.md",
-    "conflict-files-obsidian-git.md",
     "20. Lecture Note/Python Basic/Python - Day5.md",
     "README.md",
     "20. Lecture Note/Python ML/Linear Algebra Basic.md",
-    "20. Lecture Note/Python ML/Data Handling -Numpy.md",
     "기초 개념/axis.md",
     "기초 개념/Any.md",
     "기초 개념/All.md",
@@ -190,13 +177,6 @@
     "기초 개념/argmax.md",
     "기초 개념/concatenate.md",
     "기초 개념/std.md",
-    "기초 개념/mean.md",
-    "기초 개념/fancy index.md",
-    "기초 개념/boolean.md",
-    "기초 개념/sum.md",
-    "기초 개념/Slicing.md",
-    "기초 개념/sampling.md",
-    "기초 개념/diag.md",
     "99. Attachment/Linear_Algebra/Pasted image 20240723091210.png",
     "30. Assignment/LinearAlgebra/CH.6/HW_02.m",
     "30. Assignment/LinearAlgebra/CH.6/HW_01.m",
@@ -207,7 +187,6 @@
     "30. Assignment/LinearAlgebra/CH.4/exercise_2020063063_04_04.m",
     "30. Assignment/LinearAlgebra/CH.4/exercise_2020063063_04_03.m",
     "30. Assignment/LinearAlgebra/CH.4/exercise_2020063063_04_02.m",
-    "30. Assignment/LinearAlgebra/CH.4/exercise_2020063063_04_01.m",
     "99. Attachment/Pasted image 20240721181051.png",
     "99. Attachment/Point Cloud/Pasted image 20240721181051.png",
     "99. Attachment/Point Cloud/Pasted image 20240721181031.png",

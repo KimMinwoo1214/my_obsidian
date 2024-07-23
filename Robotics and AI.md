@@ -13,6 +13,7 @@ tags:
   - "#AI"
   - "#LinearAlgebra"
   - "#MATLAB"
+  - "#Cpp"
 aliases:
   - School
   - University
