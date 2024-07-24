@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "20. Lecture Note/Arduino and ESP32/Day 1. Arduino Basic.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -150,6 +150,9 @@
   },
   "active": "24436964c3ace4dd",
   "lastOpenFiles": [
+    "20. Lecture Note/Arduino and ESP32/Arduino.md",
+    "20. Lecture Note/Arduino and ESP32/Day 1. Arduino Basic.md",
+    "20. Lecture Note/Arduino and ESP32/Bread Board.md",
     "99. Attachment/Pasted image 20240724112733.png",
     "99. Attachment/Pasted image 20240724112655.png",
     "99. Attachment/Pasted image 20240724112526.png",
@@ -191,13 +194,10 @@
     "기초 개념/arange.md",
     "기초 개념/Slicing.md",
     "기초 개념/Indexing.md",
-    "기초 개념/Implicit Surface Presentation.md",
-    "기초 개념/Explicit Surface Presentation.md",
     "99. Attachment/Linear_Algebra/Pasted image 20240723091210.png",
     "무제 파일 2.canvas",
     "무제 파일 1.canvas",
     "무제 파일.canvas",
-    "99. Attachment/Pasted image 20240721181051.png",
-    "99. Attachment/Point Cloud/Pasted image 20240721181051.png"
+    "99. Attachment/Pasted image 20240721181051.png"
   ]
 }
