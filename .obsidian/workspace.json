@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c6af2a7764724058",
+        "id": "f1df42db4522fa8b",
         "type": "tabs",
         "children": [
           {
-            "id": "414db33581136b3b",
+            "id": "24436964c3ace4dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20. Lecture Note/Arduino and ESP32/Day 1. Arduino Basic.md",
+                "file": "50.Projects/Team Cheetah Side Project.md",
                 "mode": "preview",
                 "source": true
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#CV",
+                "query": "tag:Python",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20. Lecture Note/Arduino and ESP32/Day 1. Arduino Basic.md",
+                "file": "50.Projects/Team Cheetah Side Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20. Lecture Note/Arduino and ESP32/Day 1. Arduino Basic.md",
+                "file": "50.Projects/Team Cheetah Side Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20. Lecture Note/Arduino and ESP32/Day 1. Arduino Basic.md"
+                "file": "50.Projects/Team Cheetah Side Project.md"
               }
             }
           }
@@ -148,45 +148,48 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "414db33581136b3b",
+  "active": "efa4f9e7ad7f389c",
   "lastOpenFiles": [
-    "99. Attachment/Arduino and ESP32",
-    "10. Subject/Arduino and ESP32.md",
-    "20. Lecture Note/Arduino and ESP32/Day 1. Arduino Basic.md",
-    "2024-03-22.md",
-    "Robotics and AI.md",
-    "20. Lecture Note/Python ML/Data Handling -Numpy.md",
-    "20. Lecture Note/Arduino and ESP32",
-    "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md",
-    "10. Subject/3D Point Cloud Data Processing.md",
-    "conflict-files-obsidian-git.md",
-    "20. Lecture Note/Linear Algebra/2. Vector Part1.md",
-    "20. Lecture Note/Python Basic/Python - Day6.md",
-    "20. Lecture Note/Python Basic/Python - Day3.md",
-    "20. Lecture Note/Python Basic/Python - Day2.md",
-    "20. Lecture Note/Python Basic/Python - Day1.md",
-    "20. Lecture Note/Python Basic/Python - Day4.md",
-    "20. Lecture Note/Python Basic/Python - Day5.md",
-    "README.md",
-    "20. Lecture Note/Python ML/Linear Algebra Basic.md",
-    "기초 개념/axis.md",
-    "기초 개념/Any.md",
-    "기초 개념/All.md",
+    "99. Attachment/Linear_Algebra/CH.9/AILAB_LA_Exercise_09_01_dist.m",
+    "99. Attachment/Linear_Algebra/CH.9",
+    "99. Attachment/Linear_Algebra/CH.8/AILAB_LA_Exercise_08_02_dist.m",
+    "99. Attachment/Linear_Algebra/CH.8/AILAB_LA_Exercise_08_01_dist.m",
+    "99. Attachment/Linear_Algebra/CH.8",
+    "99. Attachment/Linear_Algebra/CH.7/AILAB_LA_Exercise_07_04_dist.m",
+    "99. Attachment/Linear_Algebra/CH.7/AILAB_LA_Exercise_07_03_dist.m",
+    "99. Attachment/Linear_Algebra/CH.7",
+    "99. Attachment/Linear_Algebra/CH.6/AILAB_LA_Exercise_06_02_dist.m",
+    "99. Attachment/Linear_Algebra/CH.6/AILAB_LA_Exercise_06_07_dist.m",
+    "99. Attachment/Linear_Algebra/CH.6/AILAB_LA_Exercise_06_06_dist.m",
+    "기초 개념/zeros.md",
     "기초 개념/where.md",
+    "기초 개념/sum.md",
+    "기초 개념/std.md",
+    "기초 개념/size.md",
+    "기초 개념/sampling.md",
+    "기초 개념/reshape.md",
+    "기초 개념/ones.md",
+    "기초 개념/ndim.md",
+    "기초 개념/mean.md",
+    "기초 개념/fancy index.md",
+    "기초 개념/eye.md",
+    "기초 개념/empty.md",
+    "기초 개념/diag.md",
+    "기초 개념/concatenate.md",
+    "기초 개념/boolean.md",
+    "기초 개념/axis.md",
     "기초 개념/argmin.md",
     "기초 개념/argmax.md",
-    "기초 개념/concatenate.md",
-    "기초 개념/std.md",
+    "기초 개념/arange.md",
+    "기초 개념/Slicing.md",
+    "기초 개념/Indexing.md",
+    "기초 개념/Implicit Surface Presentation.md",
+    "기초 개념/Explicit Surface Presentation.md",
+    "기초 개념/Array.md",
     "99. Attachment/Linear_Algebra/Pasted image 20240723091210.png",
-    "30. Assignment/LinearAlgebra/CH.6/HW_02.m",
-    "30. Assignment/LinearAlgebra/CH.6/HW_01.m",
-    "30. Assignment/LinearAlgebra/CH.5/exercise_2020063063_05_04.m",
-    "30. Assignment/LinearAlgebra/CH.5/exercise_2020063063_05_02.m",
-    "30. Assignment/LinearAlgebra/CH.5/exercise_2020063063_05_01.m",
-    "30. Assignment/LinearAlgebra/CH.5/exercise_2020063063_04_02.m",
-    "30. Assignment/LinearAlgebra/CH.4/exercise_2020063063_04_04.m",
-    "30. Assignment/LinearAlgebra/CH.4/exercise_2020063063_04_03.m",
-    "30. Assignment/LinearAlgebra/CH.4/exercise_2020063063_04_02.m",
+    "무제 파일 2.canvas",
+    "무제 파일 1.canvas",
+    "무제 파일.canvas",
     "99. Attachment/Pasted image 20240721181051.png",
     "99. Attachment/Point Cloud/Pasted image 20240721181051.png",
     "99. Attachment/Point Cloud/Pasted image 20240721181031.png",
@@ -194,9 +197,6 @@
     "99. Attachment/Point Cloud/Pasted image 20240721180740.png",
     "99. Attachment/Pasted image 20240721181031.png",
     "99. Attachment/Pasted image 20240721180959.png",
-    "99. Attachment/Pasted image 20240721180740.png",
-    "무제 파일 2.canvas",
-    "무제 파일 1.canvas",
-    "무제 파일.canvas"
+    "99. Attachment/Pasted image 20240721180740.png"
   ]
 }
