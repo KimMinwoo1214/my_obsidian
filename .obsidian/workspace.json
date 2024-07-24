@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20. Lecture Note/Arduino and ESP32/Day 1. Arduino Basic.md",
-                "mode": "preview",
+                "file": "20. Lecture Note/3D Point Cloud Data Processing/2. 3D Data Acquisition (Passive).md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20. Lecture Note/Arduino and ESP32/Day 1. Arduino Basic.md",
+                "file": "20. Lecture Note/3D Point Cloud Data Processing/2. 3D Data Acquisition (Passive).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20. Lecture Note/Arduino and ESP32/Day 1. Arduino Basic.md",
+                "file": "20. Lecture Note/3D Point Cloud Data Processing/2. 3D Data Acquisition (Passive).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20. Lecture Note/Arduino and ESP32/Day 1. Arduino Basic.md"
+                "file": "20. Lecture Note/3D Point Cloud Data Processing/2. 3D Data Acquisition (Passive).md"
               }
             }
           }
@@ -150,8 +150,11 @@
   },
   "active": "24436964c3ace4dd",
   "lastOpenFiles": [
-    "20. Lecture Note/Arduino and ESP32/Arduino.md",
+    "99. Attachment/Point Cloud/3D Data Acquisition (Passive).pdf",
+    "20. Lecture Note/3D Point Cloud Data Processing/2. 3D Data Acquisition (Passive).md",
+    "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md",
     "20. Lecture Note/Arduino and ESP32/Day 1. Arduino Basic.md",
+    "20. Lecture Note/Arduino and ESP32/Arduino.md",
     "20. Lecture Note/Arduino and ESP32/Bread Board.md",
     "99. Attachment/Pasted image 20240724112733.png",
     "99. Attachment/Pasted image 20240724112655.png",
@@ -171,7 +174,6 @@
     "99. Attachment/Linear_Algebra/CH.7/AILAB_LA_Exercise_07_03_dist.m",
     "99. Attachment/Linear_Algebra/CH.7",
     "99. Attachment/Linear_Algebra/CH.6/AILAB_LA_Exercise_06_02_dist.m",
-    "99. Attachment/Linear_Algebra/CH.6/AILAB_LA_Exercise_06_07_dist.m",
     "기초 개념/zeros.md",
     "기초 개념/where.md",
     "기초 개념/sum.md",
@@ -191,9 +193,6 @@
     "기초 개념/axis.md",
     "기초 개념/argmin.md",
     "기초 개념/argmax.md",
-    "기초 개념/arange.md",
-    "기초 개념/Slicing.md",
-    "기초 개념/Indexing.md",
     "99. Attachment/Linear_Algebra/Pasted image 20240723091210.png",
     "무제 파일 2.canvas",
     "무제 파일 1.canvas",
