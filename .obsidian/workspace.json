@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "20. Lecture Note/3D Point Cloud Data Processing/2. 3D Data Acquisition (Passive).md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "79a7990781284c9a",
