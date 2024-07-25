@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20. Lecture Note/Linear Algebra/2. Vector Part1.md",
+                "file": "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md",
                 "mode": "preview",
                 "source": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20. Lecture Note/Linear Algebra/2. Vector Part1.md",
+                "file": "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20. Lecture Note/Linear Algebra/2. Vector Part1.md",
+                "file": "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20. Lecture Note/Linear Algebra/2. Vector Part1.md"
+                "file": "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md"
               }
             }
           },
@@ -182,8 +182,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "706056d77407756b",
+  "active": "efa4f9e7ad7f389c",
   "lastOpenFiles": [
+    "20. Lecture Note/Linear Algebra/2. Vector Part1.md",
     "20. Lecture Note/3D Point Cloud Data Processing/2. 3D Data Acquisition (Passive).md",
     "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md",
     "My Home Page.md",
@@ -230,7 +231,6 @@
     "20. Lecture Note/Arduino and ESP32/아두이노/7월 22일 21일차 (1) 2a889d8a424e4eeaba1b758afd753c86.md",
     "20. Lecture Note/Arduino and ESP32/아두이노/7월 18일 19일차 (1) af42fefc74e249d58635f5b1530cf07f.md",
     "20. Lecture Note/Arduino and ESP32/아두이노/아두이노 9일차 오후.md",
-    "20. Lecture Note/Arduino and ESP32/아두이노/아두이노 9일차 오전.md",
     "무제 파일 1.canvas",
     "무제 파일.canvas"
   ]
