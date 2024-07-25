@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "2. 3D Data Acquisition (Passive)",
+      "path": "20. Lecture Note/3D Point Cloud Data Processing/2. 3D Data Acquisition (Passive).md"
+    },
+    {
+      "basename": "2. Vector Part1",
+      "path": "20. Lecture Note/Linear Algebra/2. Vector Part1.md"
+    },
+    {
+      "basename": "Python - Day2",
+      "path": "20. Lecture Note/Python Basic/Python - Day2.md"
+    },
+    {
+      "basename": "Python - Day3",
+      "path": "20. Lecture Note/Python Basic/Python - Day3.md"
+    },
+    {
+      "basename": "Python - Day7",
+      "path": "20. Lecture Note/Python Basic/Python - Day7.md"
+    },
+    {
+      "basename": "Robotics and AI",
+      "path": "Robotics and AI.md"
+    },
+    {
       "basename": "Untitled - 2024-07-25",
       "path": "20. Lecture Note/3D Point Cloud Data Processing/Untitled - 2024-07-25.md"
     },
@@ -29,10 +53,6 @@
       "path": "50.Projects/Team Cheetah Side Project.md"
     },
     {
-      "basename": "2. 3D Data Acquisition (Passive)",
-      "path": "20. Lecture Note/3D Point Cloud Data Processing/2. 3D Data Acquisition (Passive).md"
-    },
-    {
       "basename": "Epipolar Plane",
       "path": "기초 개념/Epipolar Plane.md"
     },
@@ -47,10 +67,6 @@
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "Robotics and AI",
-      "path": "Robotics and AI.md"
     }
   ],
   "omittedPaths": []

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20. Lecture Note/3D Point Cloud Data Processing/Untitled - 2024-07-25.md",
+                "file": "20. Lecture Note/3D Point Cloud Data Processing/2. 3D Data Acquisition (Passive).md",
                 "mode": "preview",
                 "source": true
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20. Lecture Note/3D Point Cloud Data Processing/Untitled - 2024-07-25.md",
+                "file": "20. Lecture Note/3D Point Cloud Data Processing/2. 3D Data Acquisition (Passive).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20. Lecture Note/3D Point Cloud Data Processing/Untitled - 2024-07-25.md",
+                "file": "20. Lecture Note/3D Point Cloud Data Processing/2. 3D Data Acquisition (Passive).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20. Lecture Note/3D Point Cloud Data Processing/Untitled - 2024-07-25.md"
+                "file": "20. Lecture Note/3D Point Cloud Data Processing/2. 3D Data Acquisition (Passive).md"
               }
             }
           }
@@ -164,14 +164,19 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "efa4f9e7ad7f389c",
+  "active": "24436964c3ace4dd",
   "lastOpenFiles": [
+    "20. Lecture Note/Linear Algebra/2. Vector Part1.md",
+    "20. Lecture Note/Python Basic/Python - Day2.md",
+    "20. Lecture Note/Python Basic/Python - Day3.md",
+    "20. Lecture Note/Python Basic/Python - Day7.md",
+    "Robotics and AI.md",
+    "20. Lecture Note/3D Point Cloud Data Processing/Untitled - 2024-07-25.md",
     "90. Template/새 프로젝트 노트(New Project Note).md",
     "90. Template/새 수강 과목 (New Subject).md",
     "90. Template/새 데일리 노트(New Daily Note).md",
     "90. Template/새 과제 (New Assignment).md",
     "90. Template/새 강의 노트(New Lecture Note).md",
-    "20. Lecture Note/3D Point Cloud Data Processing/Untitled - 2024-07-25.md",
     "50.Projects/Team Cheetah Side Project.md",
     "20. Lecture Note/3D Point Cloud Data Processing/2. 3D Data Acquisition (Passive).md",
     "99. Attachment/Point Cloud/Epipolar.png",
@@ -182,7 +187,6 @@
     "2024-03-22.md",
     "대학교 올에이쁠을 위한 옵시디언 Vault 사용 설명서.md",
     "README.md",
-    "Robotics and AI.md",
     "기초 개념/Geometry.md",
     "기초 개념/Epipolar.md",
     "기초 개념/SVD.md",
@@ -190,8 +194,6 @@
     "20. Lecture Note/Python Basic/Python - Day4.md",
     "20. Lecture Note/Python ML/Data Handling -Numpy.md",
     "20. Lecture Note/Arduino and ESP32/Day 1. Arduino Basic.md",
-    "20. Lecture Note/Linear Algebra/6. Matrices Part2.md",
-    "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md",
     "99. Attachment/Point Cloud/account_for_image_origin.png",
     "99. Attachment/Point Cloud/account_for_world_origin.png",
     "99. Attachment/Point Cloud/pinhole_image.png",
@@ -201,8 +203,6 @@
     "99. Attachment/Arduino and ESP32/Pasted image 20240724112347.png",
     "99. Attachment/Arduino and ESP32",
     "99. Attachment/Arduino and ESP32/Pasted image 20240724112416.png",
-    "기초 개념/Reconstruction.md",
-    "기초 개념/Matrix.md",
     "99. Attachment/Point Cloud/3D Data Acquisition (Passive).pdf",
     "99. Attachment/Linear_Algebra/CH.9/AILAB_LA_Exercise_09_01_dist.m",
     "99. Attachment/Linear_Algebra/CH.9",
