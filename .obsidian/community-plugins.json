@@ -4,5 +4,7 @@
   "obsidian-tasks-plugin",
   "templater-obsidian",
   "obsidian-git",
-  "obsidian-projects"
+  "obsidian-projects",
+  "settings-search",
+  "recent-files-obsidian"
 ]
