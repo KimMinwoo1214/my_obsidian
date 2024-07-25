@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "70a96011d35c5985",
+        "id": "a61701df07ec0a7f",
         "type": "tabs",
         "children": [
           {
-            "id": "706056d77407756b",
+            "id": "83977da14910705d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md",
+                "file": "20. Lecture Note/3D Point Cloud Data Processing/2. 3D Data Acquisition (Passive).md",
                 "mode": "preview",
                 "source": true
               }
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "79a7990781284c9a",
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md",
+                "file": "20. Lecture Note/3D Point Cloud Data Processing/2. 3D Data Acquisition (Passive).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md",
+                "file": "20. Lecture Note/3D Point Cloud Data Processing/2. 3D Data Acquisition (Passive).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md"
+                "file": "20. Lecture Note/3D Point Cloud Data Processing/2. 3D Data Acquisition (Passive).md"
               }
             }
           },
@@ -182,11 +181,18 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "efa4f9e7ad7f389c",
+  "active": "83977da14910705d",
   "lastOpenFiles": [
+    "20. Lecture Note/Linear Algebra/1. Introduce.md",
     "20. Lecture Note/Linear Algebra/2. Vector Part1.md",
-    "20. Lecture Note/3D Point Cloud Data Processing/2. 3D Data Acquisition (Passive).md",
+    "20. Lecture Note/Linear Algebra/7. Matrix Applications.md",
+    "20. Lecture Note/Linear Algebra/8. Matrix Inverse.md",
+    "20. Lecture Note/Linear Algebra/6. Matrices Part2.md",
+    "20. Lecture Note/Linear Algebra/5. Matrices Part1.md",
+    "20. Lecture Note/Linear Algebra/4. Vector Applications.md",
+    "20. Lecture Note/Linear Algebra/3. Vector Part2.md",
     "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md",
+    "20. Lecture Note/3D Point Cloud Data Processing/2. 3D Data Acquisition (Passive).md",
     "My Home Page.md",
     "10. Subject/Linear Algebra(MATLAB).md",
     "HomePage.md",
@@ -224,13 +230,6 @@
     "20. Lecture Note/Arduino and ESP32/아두이노/KakaoTalk_20240711_133830673.mp4.md",
     "20. Lecture Note/Arduino and ESP32/아두이노/GitHub ef0bd82cdbe74ef99481aea368301a4a.md",
     "20. Lecture Note/Arduino and ESP32/아두이노/아두이노 09829b79f9484b12a9eb6ba8a7e0c531.md",
-    "20. Lecture Note/Arduino and ESP32/아두이노/git hub e43bd33dc7d04eebafe16fbed0067bb7.md",
-    "20. Lecture Note/Arduino and ESP32/아두이노/7월 15일 16일차 (1) 856fde09a59341a895d7a6e07a9ea0f0.md",
-    "20. Lecture Note/Arduino and ESP32/아두이노/7월 17일 18일차 (1) 90109e08e4ed44a88ad1a61527767fea.md",
-    "20. Lecture Note/Arduino and ESP32/아두이노/7월 19일 20일차 (1) 07c745d4c03f4c4c867ce8fbf6d2d244.md",
-    "20. Lecture Note/Arduino and ESP32/아두이노/7월 22일 21일차 (1) 2a889d8a424e4eeaba1b758afd753c86.md",
-    "20. Lecture Note/Arduino and ESP32/아두이노/7월 18일 19일차 (1) af42fefc74e249d58635f5b1530cf07f.md",
-    "20. Lecture Note/Arduino and ESP32/아두이노/아두이노 9일차 오후.md",
     "무제 파일 1.canvas",
     "무제 파일.canvas"
   ]
