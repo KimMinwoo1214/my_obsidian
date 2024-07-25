@@ -10,7 +10,7 @@ cssclasses: dashboard
 - 📘 독서 노트 - [[독서 노트 작성]] 
 <br>
 
-## 학습 
+## 📖 학습 
 
 ### 기초 지식
 - [[Linear Algebra(MATLAB)]]
