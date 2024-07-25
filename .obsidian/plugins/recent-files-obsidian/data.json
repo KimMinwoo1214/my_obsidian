@@ -5,6 +5,10 @@
       "path": "My Home Page.md"
     },
     {
+      "basename": "Linear Algebra(MATLAB)",
+      "path": "10. Subject/Linear Algebra(MATLAB).md"
+    },
+    {
       "basename": "1. 3D Point Cloud",
       "path": "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md"
     },

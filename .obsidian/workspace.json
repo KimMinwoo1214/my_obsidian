@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d06c0aff8f939ea9",
+        "id": "30c66029162931bf",
         "type": "tabs",
         "children": [
           {
-            "id": "58ea78189d1c39a0",
+            "id": "2b28bdf144bb8e47",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -181,10 +181,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "58ea78189d1c39a0",
+  "active": "2b28bdf144bb8e47",
   "lastOpenFiles": [
-    "HomePage.md",
+    "10. Subject/Linear Algebra(MATLAB).md",
     "My Home Page.md",
+    "HomePage.md",
     "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md",
     "20. Lecture Note/3D Point Cloud Data Processing/2. 3D Data Acquisition (Passive).md",
     "Tags",
@@ -229,7 +230,6 @@
     "20. Lecture Note/Arduino and ESP32/아두이노/7월 18일 19일차 (1) af42fefc74e249d58635f5b1530cf07f.md",
     "20. Lecture Note/Arduino and ESP32/아두이노/아두이노 9일차 오후.md",
     "20. Lecture Note/Arduino and ESP32/아두이노/아두이노 9일차 오전.md",
-    "20. Lecture Note/Arduino and ESP32/아두이노/아두이노 8일차 오후.md",
     "무제 파일 1.canvas",
     "무제 파일.canvas"
   ]
