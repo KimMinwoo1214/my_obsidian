@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20. Lecture Note/Arduino and ESP32/아두이노/아두이노 1일차 오전.md",
+                "file": "20. Lecture Note/Arduino and ESP32/아두이노/아두이노 1일차 오후.md",
                 "mode": "source",
                 "source": true
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20. Lecture Note/Arduino and ESP32/아두이노/아두이노 1일차 오전.md",
+                "file": "20. Lecture Note/Arduino and ESP32/아두이노/아두이노 1일차 오후.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20. Lecture Note/Arduino and ESP32/아두이노/아두이노 1일차 오전.md",
+                "file": "20. Lecture Note/Arduino and ESP32/아두이노/아두이노 1일차 오후.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20. Lecture Note/Arduino and ESP32/아두이노/아두이노 1일차 오전.md"
+                "file": "20. Lecture Note/Arduino and ESP32/아두이노/아두이노 1일차 오후.md"
               }
             }
           }
@@ -166,38 +166,40 @@
   },
   "active": "24436964c3ace4dd",
   "lastOpenFiles": [
-    "99. Attachment/Arduino and ESP32/Check_voltage.png",
-    "99. Attachment/Arduino and ESP32/Check_Voltage.png",
-    "99. Attachment/Arduino and ESP32/Untitled 5.png",
-    "99. Attachment/Arduino and ESP32/Ch.png",
-    "99. Attachment/Arduino and ESP32/LED_Bread.png",
-    "99. Attachment/Arduino and ESP32/First_schematic.png",
-    "99. Attachment/Arduino and ESP32/Bread_Board.png",
-    "99. Attachment/Arduino and ESP32/LED.png",
-    "99. Attachment/Arduino and ESP32/ESP32.jpg",
-    "20. Lecture Note/Arduino and ESP32/아두이노/아두이노 1일차 오후.md",
-    "99. Attachment/Arduino and ESP32/Untitled.png",
-    "99. Attachment/Arduino and ESP32/Untitled 9.png",
+    "99. Attachment/Arduino and ESP32/Untitled 10.png",
+    "99. Attachment/Arduino and ESP32/Untitled 13.png",
+    "99. Attachment/Arduino and ESP32/Untitled 12.png",
+    "99. Attachment/Arduino and ESP32/Untitled 11.png",
+    "99. Attachment/Arduino and ESP32/Untitled 15.png",
+    "99. Attachment/Arduino and ESP32/Untitled 14.png",
+    "99. Attachment/Arduino and ESP32/Untitled 16.png",
+    "99. Attachment/Arduino and ESP32/Untitled 17.png",
+    "99. Attachment/Arduino and ESP32/Untitled17.png",
+    "99. Attachment/Arduino and ESP32/RGB%EB%B0%94%EA%B7%80%EA%B8%B0.mp4",
     "99. Attachment/Arduino and ESP32/KakaoTalk_20240717_174107167.mp4",
-    "Arduino and ESP32/RGB_random.mp4",
-    "Arduino and ESP32/RGB%EB%B0%94%EA%B7%80%EA%B8%B0.mp4",
-    "Arduino and ESP32/KakaoTalk_20240717_174107167.mp4",
-    "Arduino and ESP32/KakaoTalk_20240712_102508360.mp4",
-    "Arduino and ESP32/KakaoTalk_20240711_133830673.mp4",
-    "Arduino and ESP32/9.mp4",
-    "Arduino and ESP32/4.mp4",
-    "Arduino and ESP32/4 1.mp4",
-    "Arduino and ESP32/3.mp4",
+    "99. Attachment/Arduino and ESP32/KakaoTalk_20240712_102508360.mp4",
+    "99. Attachment/Arduino and ESP32/KakaoTalk_20240711_133830673.mp4",
+    "99. Attachment/Arduino and ESP32/10.mp4",
+    "99. Attachment/Arduino and ESP32/9.mp4",
+    "99. Attachment/Arduino and ESP32/4.mp4",
+    "99. Attachment/Arduino and ESP32/4 1.mp4",
+    "99. Attachment/Arduino and ESP32/3.mp4",
+    "99. Attachment/Arduino and ESP32/3 2.mp4",
+    "99. Attachment/Arduino and ESP32/Untitled 18.png",
+    "20. Lecture Note/Arduino and ESP32/아두이노/아두이노 2일차 오전.md",
+    "20. Lecture Note/Arduino and ESP32/아두이노/아두이노 1일차 오후.md",
+    "99. Attachment/Arduino and ESP32/Untitled 19.png",
+    "20. Lecture Note/Arduino and ESP32/아두이노/RGB%EB%B0%94%EA%B7%80%EA%B8%B0.mp4.md",
+    "20. Lecture Note/Arduino and ESP32/아두이노/아두이노 1일차 오전.md",
+    "20. Lecture Note/Arduino and ESP32/아두이노/KakaoTalk_20240711_133830673.mp4.md",
     "20. Lecture Note/Arduino and ESP32/아두이노/GitHub ef0bd82cdbe74ef99481aea368301a4a.md",
     "20. Lecture Note/Arduino and ESP32/아두이노/아두이노 09829b79f9484b12a9eb6ba8a7e0c531.md",
     "20. Lecture Note/Arduino and ESP32/아두이노/git hub e43bd33dc7d04eebafe16fbed0067bb7.md",
-    "20. Lecture Note/Arduino and ESP32/아두이노/아두이노 1일차 오전.md",
     "20. Lecture Note/Arduino and ESP32/아두이노/7월 15일 16일차 (1) 856fde09a59341a895d7a6e07a9ea0f0.md",
     "20. Lecture Note/Arduino and ESP32/아두이노/7월 17일 18일차 (1) 90109e08e4ed44a88ad1a61527767fea.md",
     "20. Lecture Note/Arduino and ESP32/아두이노/7월 19일 20일차 (1) 07c745d4c03f4c4c867ce8fbf6d2d244.md",
     "20. Lecture Note/Arduino and ESP32/아두이노/7월 22일 21일차 (1) 2a889d8a424e4eeaba1b758afd753c86.md",
     "20. Lecture Note/Arduino and ESP32/아두이노/7월 18일 19일차 (1) af42fefc74e249d58635f5b1530cf07f.md",
-    "20. Lecture Note/Arduino and ESP32/아두이노/아두이노 2일차 오전.md",
     "20. Lecture Note/3D Point Cloud Data Processing/2. 3D Data Acquisition (Passive).md",
     "20. Lecture Note/Arduino and ESP32/아두이노/아두이노 9일차 오후.md",
     "20. Lecture Note/Arduino and ESP32/아두이노/아두이노 9일차 오전.md",
@@ -210,8 +212,6 @@
     "20. Lecture Note/Arduino and ESP32/아두이노/아두이노 5일차 오후.md",
     "20. Lecture Note/Arduino and ESP32/아두이노/아두이노 5일차 오전.md",
     "20. Lecture Note/Arduino and ESP32/아두이노/아두이노 4일차 오후.md",
-    "20. Lecture Note/Arduino and ESP32/아두이노/아두이노 4일차 오전.md",
-    "20. Lecture Note/Arduino and ESP32/아두이노/아두이노 3일차 오후.md",
     "무제 파일 2.canvas",
     "무제 파일 1.canvas",
     "무제 파일.canvas"
