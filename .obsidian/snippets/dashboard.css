@@ -1,41 +1,72 @@
-/* https://www.youtube.com/@booktracing */
-/* Updated 2024-04-07 */
-
+/* Updated 2022-02-28 */
 .dashboard {
-    font-family: inherit;
-    padding-left: 30px;
-    padding-right: 30px ;
-   }
-.dashboard.markdown-preview-section {
+    padding-left: 25px !important;
+    padding-right: 25px !important;
+    padding-top: 20px !important;
+  }
+  .dashboard .markdown-preview-section {
     max-width: 100%;
+  }
+  /* Title at top of the document */
+  .dashboard .markdown-preview-section .title {
+    top: 60px;
+    position: absolute;
+    font-size: 26pt !important;
+    font-weight: bolder;
+    letter-spacing: 8px;
+  }
+  .dashboard h1 {
+    border-bottom-style: dotted !important;
+    border-width: 1px !important;
+    padding-bottom: 3px !important;
+  }
+  .dashboard div > ul {
+    list-style: none;
+    display: flex;
+    column-gap: 50px;
+    flex-flow: row wrap;
+  }
+  
+  .dashboard div > ul > li {
+    min-width: 250px;
+    width: 15%;
+  }
+
+* Underline H1 heading in Edit mode */
+.cm-s-obsidian .HyperMD-header-1{
+  border-bottom: 0.5px solid var(--text-faint) !important;
+}
+.cm-s-obsidian .HyperMD-header-2{
+  border-bottom: 0.5px solid var(--text-faint) !important;
+}
+/* ==========headings======= */
+/* Underline = border-bottom */
+.markdown-preview-view h1 {
+  border-bottom: 0.5px solid var(--text-faint);
+}
+.markdown-preview-view h2 {
+  border-bottom: 0.5px solid var(--text-faint);
 }
 
-.dashboard h2 {
-    border-bottom-style: solid !important;
-    border-width: 2px !important;
-    padding-bottom: 15px !important;
+/* this sets underline, we over-ride to NONE as needed for internal links */
+body:not(.links-ext-on) .cm-link .cm-underline, body:not(.links-ext-on) .cm-s-obsidian span.cm-url, body:not(.links-ext-on) .external-link, body:not(.links-int-on) .cm-hmd-internal-link .cm-underline, body:not(.links-int-on) .cm-s-obsidian span.cm-hmd-internal-link:hover, body:not(.links-int-on) .markdown-preview-view .internal-link, body:not(.links-int-on) a.internal-link, body:not(.links-int-on) a[href*="obsidian://"]
+{
+  text-decoration: underline;
 }
-
-.dashboard div.markdown-preview-section > div > ul > li > div.list-bullet,
-.dashboard.markdown-rendered.show-indentation-guide li > ul::before,
-.dashboard.markdown-rendered.show-indentation-guide li > ol::before {
-    display: none;
+/* preview */
+.markdown-preview-view .internal-link {
+  /* text-decoration: none !important; */
+  text-decoration-style: dashed;
+  text-decoration-thickness: 0.5px;
 }
-
-
-.dashboard.markdown-preview-view div > ul {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(210px, 1fr)) ;
-    gap: 50px 50px; /* 항목 간의 간격 */
+/* live preview */
+.cm-hmd-internal-link .cm-underline {
+  /* text-decoration: none !important; */
+  text-decoration-style: dashed;
+  text-decoration-thickness: 0.5px;
 }
-
-.dashboard ul.contains-task-list {
-    row-gap: 0px !important;
-}
-
-
-
-.dashboard ul.dataview {
-    row-gap: 0px !important;
-    list-style-type: square !important;
+/* remove the icon from external links */
+body .external-link {
+  background-image: none;
+  padding-right: 0px;
 }
