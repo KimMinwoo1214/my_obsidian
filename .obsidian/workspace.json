@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20. Lecture Note/3D Point Cloud Data Processing/2. 3D Data Acquisition (Passive).md",
+                "file": "20. Lecture Note/Linear Algebra/2. Vector Part1.md",
                 "mode": "preview",
                 "source": true
               }
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "79a7990781284c9a",
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20. Lecture Note/3D Point Cloud Data Processing/2. 3D Data Acquisition (Passive).md",
+                "file": "20. Lecture Note/Linear Algebra/2. Vector Part1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20. Lecture Note/3D Point Cloud Data Processing/2. 3D Data Acquisition (Passive).md",
+                "file": "20. Lecture Note/Linear Algebra/2. Vector Part1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20. Lecture Note/3D Point Cloud Data Processing/2. 3D Data Acquisition (Passive).md"
+                "file": "20. Lecture Note/Linear Algebra/2. Vector Part1.md"
               }
             }
           },
@@ -183,8 +184,8 @@
   },
   "active": "706056d77407756b",
   "lastOpenFiles": [
-    "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md",
     "20. Lecture Note/3D Point Cloud Data Processing/2. 3D Data Acquisition (Passive).md",
+    "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md",
     "My Home Page.md",
     "10. Subject/Linear Algebra(MATLAB).md",
     "HomePage.md",
