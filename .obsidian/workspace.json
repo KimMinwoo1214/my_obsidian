@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "20. Lecture Note/3D Point Cloud Data Processing/2. 3D Data Acquisition (Passive).md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -167,6 +167,7 @@
   },
   "active": "24436964c3ace4dd",
   "lastOpenFiles": [
+    "99. Attachment/Point Cloud/Epipolar.png",
     "99. Attachment/Point Cloud/스크린샷 2024-07-25 112326.png",
     "20. Lecture Note/3D Point Cloud Data Processing/Epipolar Plane.md",
     "20. Lecture Note/3D Point Cloud Data Processing/2. 3D Data Acquisition (Passive).md",
@@ -196,7 +197,6 @@
     "99. Attachment/Arduino and ESP32",
     "99. Attachment/Arduino and ESP32/Pasted image 20240724112416.png",
     "99. Attachment/Arduino and ESP32/Pasted image 20240724112448.png",
-    "99. Attachment/Arduino and ESP32/Pasted image 20240724112526.png",
     "기초 개념/Reconstruction.md",
     "기초 개념/Matrix.md",
     "기초 개념/Camera.md",
