@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Home Page.md",
+                "file": "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md",
                 "mode": "preview",
                 "source": true
               }
@@ -65,6 +65,14 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "36fd47414f1dedec",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
           }
         ]
       },
@@ -85,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "79a7990781284c9a",
@@ -102,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Home Page.md",
+                "file": "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Home Page.md",
+                "file": "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,8 +149,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Home Page.md"
+                "file": "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md"
               }
+            }
+          },
+          {
+            "id": "a57e3004c8df0a31",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ]
@@ -168,11 +183,12 @@
   },
   "active": "2a937410fa171dc7",
   "lastOpenFiles": [
-    "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md",
+    "20. Lecture Note/3D Point Cloud Data Processing/2. 3D Data Acquisition (Passive).md",
     "My Home Page.md",
+    "Tags",
+    "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md",
     "무제 파일 2.canvas",
     "2024-07-25.md",
-    "20. Lecture Note/3D Point Cloud Data Processing/2. 3D Data Acquisition (Passive).md",
     "20. Lecture Note/Arduino and ESP32/아두이노/아두이노 3일차.md",
     "README.md",
     "20. Lecture Note/3D Point Cloud Data Processing/Untitled - 2024-07-25.md",
@@ -200,7 +216,6 @@
     "99. Attachment/Arduino and ESP32/9.mp4",
     "99. Attachment/Arduino and ESP32/4.mp4",
     "99. Attachment/Arduino and ESP32/4 1.mp4",
-    "99. Attachment/Arduino and ESP32/3.mp4",
     "20. Lecture Note/Arduino and ESP32/아두이노/RGB%EB%B0%94%EA%B7%80%EA%B8%B0.mp4.md",
     "20. Lecture Note/Arduino and ESP32/아두이노/KakaoTalk_20240711_133830673.mp4.md",
     "20. Lecture Note/Arduino and ESP32/아두이노/GitHub ef0bd82cdbe74ef99481aea368301a4a.md",
@@ -214,7 +229,6 @@
     "20. Lecture Note/Arduino and ESP32/아두이노/아두이노 9일차 오후.md",
     "20. Lecture Note/Arduino and ESP32/아두이노/아두이노 9일차 오전.md",
     "20. Lecture Note/Arduino and ESP32/아두이노/아두이노 8일차 오후.md",
-    "20. Lecture Note/Arduino and ESP32/아두이노/아두이노 8일차 오전.md",
     "무제 파일 1.canvas",
     "무제 파일.canvas"
   ]
