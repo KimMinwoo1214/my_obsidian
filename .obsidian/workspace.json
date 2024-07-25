@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20. Lecture Note/Python ML/Data Handling -Numpy.md",
-                "mode": "preview",
+                "file": "20. Lecture Note/Linear Algebra/2. Vector Part1.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "79a7990781284c9a",
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20. Lecture Note/Python ML/Data Handling -Numpy.md",
+                "file": "20. Lecture Note/Linear Algebra/2. Vector Part1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20. Lecture Note/Python ML/Data Handling -Numpy.md",
+                "file": "20. Lecture Note/Linear Algebra/2. Vector Part1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20. Lecture Note/Python ML/Data Handling -Numpy.md"
+                "file": "20. Lecture Note/Linear Algebra/2. Vector Part1.md"
               }
             }
           },
@@ -183,6 +184,7 @@
   },
   "active": "83977da14910705d",
   "lastOpenFiles": [
+    "20. Lecture Note/Python ML/Data Handling -Numpy.md",
     "20. Lecture Note/3D Point Cloud Data Processing/2. 3D Data Acquisition (Passive).md",
     "20. Lecture Note/Linear Algebra/1. Introduce.md",
     "20. Lecture Note/Linear Algebra/2. Vector Part1.md",
@@ -229,7 +231,6 @@
     "20. Lecture Note/Arduino and ESP32/아두이노/RGB%EB%B0%94%EA%B7%80%EA%B8%B0.mp4.md",
     "20. Lecture Note/Arduino and ESP32/아두이노/KakaoTalk_20240711_133830673.mp4.md",
     "20. Lecture Note/Arduino and ESP32/아두이노/GitHub ef0bd82cdbe74ef99481aea368301a4a.md",
-    "20. Lecture Note/Arduino and ESP32/아두이노/아두이노 09829b79f9484b12a9eb6ba8a7e0c531.md",
     "무제 파일 1.canvas",
     "무제 파일.canvas"
   ]
