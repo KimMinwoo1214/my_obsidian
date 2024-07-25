@@ -5,6 +5,18 @@
       "path": "20. Lecture Note/3D Point Cloud Data Processing/2. 3D Data Acquisition (Passive).md"
     },
     {
+      "basename": "Epipolar Plane",
+      "path": "20. Lecture Note/3D Point Cloud Data Processing/Epipolar Plane.md"
+    },
+    {
+      "basename": "Epipolar Line",
+      "path": "20. Lecture Note/3D Point Cloud Data Processing/Epipolar Line.md"
+    },
+    {
+      "basename": "Epipole",
+      "path": "20. Lecture Note/3D Point Cloud Data Processing/Epipole.md"
+    },
+    {
       "basename": "README",
       "path": "README.md"
     },
