@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "20. Lecture Note/Linear Algebra/2. Vector Part1.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -184,6 +184,8 @@
   },
   "active": "077603368fcb32c6",
   "lastOpenFiles": [
+    "99. Attachment/Linear_Algebra/hadamard_prodect.png",
+    "99. Attachment/Linear_Algebra/스크린샷 2024-07-26 144346.png",
     "50.Projects/Team Cheetah Side Project.md",
     "99. Attachment/side-proejct",
     "99. Attachment/side-proejcty",
@@ -220,7 +222,6 @@
     "99. Attachment/Arduino and ESP32/5.jpg",
     "99. Attachment/Arduino and ESP32/Untitled 70.png",
     "99. Attachment/Arduino and ESP32/Untitled 69.png",
-    "99. Attachment/Arduino and ESP32/Untitled 68.png",
     "20. Lecture Note/Arduino and ESP32/아두이노/아두이노 1일차.md",
     "20. Lecture Note/Arduino and ESP32/아두이노/아두이노 2일차 오후.md",
     "20. Lecture Note/Arduino and ESP32/아두이노/아두이노 1일차 오후.md",
@@ -230,7 +231,6 @@
     "99. Attachment/Arduino and ESP32/KakaoTalk_20240711_133830673.mp4",
     "99. Attachment/Arduino and ESP32/10.mp4",
     "20. Lecture Note/Arduino and ESP32/아두이노/RGB%EB%B0%94%EA%B7%80%EA%B8%B0.mp4.md",
-    "20. Lecture Note/Arduino and ESP32/아두이노/KakaoTalk_20240711_133830673.mp4.md",
     "무제 파일 1.canvas",
     "무제 파일.canvas"
   ]
