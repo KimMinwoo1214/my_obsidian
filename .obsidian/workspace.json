@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "79a7990781284c9a",
@@ -162,7 +161,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -179,10 +179,11 @@
       "command-palette:명령어 팔레트 열기": false,
       "templater-obsidian:Templater": false,
       "obsidian-projects:Open projects": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "copilot:Copilot Chat": false
     }
   },
-  "active": "077603368fcb32c6",
+  "active": "aa066400d6517e7d",
   "lastOpenFiles": [
     "99. Attachment/Linear_Algebra/hadamard_prodect.png",
     "99. Attachment/Linear_Algebra/스크린샷 2024-07-26 144346.png",
