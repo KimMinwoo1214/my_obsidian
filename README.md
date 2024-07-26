@@ -28,6 +28,9 @@ In KG Kairos, I reviewed thoroughly basic Python concepts and learned about Open
 <br/>
 </div>
 
+### Arduino and ESP32
+#### [Arduino and ESP32](https://github.com/KimMinwoo1214/my_obsidian/tree/main/20.%20Lecture%20Note/Arduino%20and%20ESP32/%EC%95%84%EB%91%90%EC%9D%B4%EB%85%B8)
+In KG Kairos, I reviewed thoroughly arduino examples and first learned ESP32. Making balancing robot with Arduino and making website with EPS32.
 ### Python For ML
 #### [Python ML](https://github.com/KimMinwoo1214/my_obsidian/tree/main/20.%20Lecture%20Note/Python%20ML)
 I had the opportunity to learn this subject in the Naver Boost Course. It covers Python for machine learning.
