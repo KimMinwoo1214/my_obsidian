@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "50.Projects/Team Cheetah Side Project.md",
+                "file": "20. Lecture Note/Linear Algebra/2. Vector Part1.md",
                 "mode": "source",
                 "source": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "50.Projects/Team Cheetah Side Project.md",
+                "file": "20. Lecture Note/Linear Algebra/2. Vector Part1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "50.Projects/Team Cheetah Side Project.md",
+                "file": "20. Lecture Note/Linear Algebra/2. Vector Part1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "50.Projects/Team Cheetah Side Project.md"
+                "file": "20. Lecture Note/Linear Algebra/2. Vector Part1.md"
               }
             }
           },
@@ -184,6 +184,10 @@
   },
   "active": "077603368fcb32c6",
   "lastOpenFiles": [
+    "50.Projects/Team Cheetah Side Project.md",
+    "99. Attachment/side-proejct",
+    "99. Attachment/side-proejcty",
+    "99. Attachment/새 폴더",
     "20. Lecture Note/Linear Algebra/2. Vector Part1.md",
     "My Home Page.md",
     "20. Lecture Note/Python ML/Data Handling -Numpy.md",
@@ -225,12 +229,8 @@
     "99. Attachment/Arduino and ESP32/KakaoTalk_20240712_102508360.mp4",
     "99. Attachment/Arduino and ESP32/KakaoTalk_20240711_133830673.mp4",
     "99. Attachment/Arduino and ESP32/10.mp4",
-    "99. Attachment/Arduino and ESP32/9.mp4",
-    "99. Attachment/Arduino and ESP32/4.mp4",
-    "99. Attachment/Arduino and ESP32/4 1.mp4",
     "20. Lecture Note/Arduino and ESP32/아두이노/RGB%EB%B0%94%EA%B7%80%EA%B8%B0.mp4.md",
     "20. Lecture Note/Arduino and ESP32/아두이노/KakaoTalk_20240711_133830673.mp4.md",
-    "20. Lecture Note/Arduino and ESP32/아두이노/GitHub ef0bd82cdbe74ef99481aea368301a4a.md",
     "무제 파일 1.canvas",
     "무제 파일.canvas"
   ]
