@@ -8,21 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "55daa3aebbdaa63e",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "무제 파일.canvas",
-                "viewState": {
-                  "x": -220,
-                  "y": 56.868025990623835,
-                  "zoom": -0.5
-                }
-              }
-            }
-          },
-          {
             "id": "b78796671aa0ffb6",
             "type": "leaf",
             "state": {
@@ -124,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. Subject/Python for ML.md",
+                "file": "기본 학습.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10. Subject/Python for ML.md",
+                "file": "기본 학습.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. Subject/Python for ML.md"
+                "file": "기본 학습.canvas"
               }
             }
           },
@@ -205,10 +190,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "55daa3aebbdaa63e",
+  "active": "efa4f9e7ad7f389c",
   "lastOpenFiles": [
     "My Home Page.md",
-    "무제 파일.canvas",
+    "기본 학습.canvas",
     "10. Subject/Python and CV.md",
     "10. Subject/Linear Algebra(MATLAB).md",
     "무제 파일 1.canvas",

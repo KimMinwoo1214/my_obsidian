@@ -1,11 +1,11 @@
 {
 	"nodes":[
-		{"id":"f28e62847e030e23","type":"file","file":"10. Subject/Python and CV.md","x":-980,"y":-220,"width":360,"height":58},
 		{"id":"00eb979e585192be","type":"file","file":"10. Subject/3D Point Cloud Data Processing.md","x":-900,"y":120,"width":360,"height":120},
 		{"id":"694a66a8e9e4abd8","type":"file","file":"10. Subject/Python for ML.md","x":40,"y":-460,"width":400,"height":80},
 		{"id":"a0f5a12b8b73ce0b","type":"file","file":"10. Subject/Linear Algebra(MATLAB).md","x":40,"y":120,"width":400,"height":120},
-		{"id":"03c6a4c726af6ac0","type":"file","file":"My Home Page.md","x":-400,"y":-191,"width":400,"height":160},
-		{"id":"842db1dcb2b45f57","type":"file","file":"10. Subject/Arduino and ESP32.md","x":-940,"y":-420,"width":360,"height":63}
+		{"id":"03c6a4c726af6ac0","type":"file","file":"My Home Page.md","x":-380,"y":-220,"width":400,"height":160},
+		{"id":"f28e62847e030e23","type":"file","file":"10. Subject/Python and CV.md","x":-900,"y":-140,"width":360,"height":58},
+		{"id":"842db1dcb2b45f57","type":"file","file":"10. Subject/Arduino and ESP32.md","x":-900,"y":-420,"width":360,"height":63}
 	],
 	"edges":[
 		{"id":"7c87a32fc9e57125","fromNode":"00eb979e585192be","fromSide":"right","toNode":"a0f5a12b8b73ce0b","toSide":"left"},
