@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3cb93f424e3224fb",
+        "id": "f85399b79bd4ba01",
         "type": "tabs",
         "children": [
           {
-            "id": "077603368fcb32c6",
+            "id": "eb76047128c859e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20. Lecture Note/Linear Algebra/2. Vector Part1.md",
+                "file": "My Home Page.md",
                 "mode": "preview",
                 "source": true
               }
@@ -31,7 +31,6 @@
       {
         "id": "95228f982e4b93f9",
         "type": "tabs",
-        "dimension": 74.1267787839586,
         "children": [
           {
             "id": "efa4f9e7ad7f389c",
@@ -73,16 +72,9 @@
               "type": "mk-path-view",
               "state": {}
             }
-          }
-        ]
-      },
-      {
-        "id": "d28328ab35549d97",
-        "type": "tabs",
-        "dimension": 25.873221216041397,
-        "children": [
+          },
           {
-            "id": "ec851c1d80bc0701",
+            "id": "00e948b17ec8d33d",
             "type": "leaf",
             "state": {
               "type": "recent-files",
@@ -109,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20. Lecture Note/Linear Algebra/2. Vector Part1.md",
+                "file": "My Home Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20. Lecture Note/Linear Algebra/2. Vector Part1.md",
+                "file": "My Home Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20. Lecture Note/Linear Algebra/2. Vector Part1.md"
+                "file": "My Home Page.md"
               }
             }
           },
@@ -160,9 +152,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "255a833220b9a45d",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -177,24 +177,27 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-projects:Open projects": false,
       "homepage:Open homepage": false,
-      "copilot:Copilot Chat": false
+      "obsidian-projects:Open projects": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "aa066400d6517e7d",
+  "active": "eb76047128c859e0",
   "lastOpenFiles": [
+    "20. Lecture Note/Linear Algebra/2. Vector Part1.md",
+    "20. Lecture Note/3D Point Cloud Data Processing/2. 3D Data Acquisition (Passive).md",
+    "50.Projects/Team Cheetah Side Project.md",
+    "My Home Page.md",
+    "무제 파일 3.canvas",
+    "20. Lecture Note/Arduino and ESP32/아두이노/아두이노 2일차.md",
+    "99. Attachment/Linear_Algebra/Lecture_01_Introduction.pdf",
+    "99. Attachment/Linear_Algebra/Lecture_02_Vectors_part.pdf",
     "99. Attachment/Linear_Algebra/hadamard_prodect.png",
     "99. Attachment/Linear_Algebra/스크린샷 2024-07-26 144346.png",
-    "50.Projects/Team Cheetah Side Project.md",
     "99. Attachment/side-proejct",
     "99. Attachment/side-proejcty",
     "99. Attachment/새 폴더",
-    "20. Lecture Note/Linear Algebra/2. Vector Part1.md",
-    "My Home Page.md",
     "20. Lecture Note/Python ML/Data Handling -Numpy.md",
-    "20. Lecture Note/3D Point Cloud Data Processing/2. 3D Data Acquisition (Passive).md",
     "20. Lecture Note/Linear Algebra/1. Introduce.md",
     "20. Lecture Note/Linear Algebra/7. Matrix Applications.md",
     "20. Lecture Note/Linear Algebra/8. Matrix Inverse.md",
@@ -212,7 +215,6 @@
     "README.md",
     "20. Lecture Note/3D Point Cloud Data Processing/Untitled - 2024-07-25.md",
     "20. Lecture Note/Arduino and ESP32/아두이노/아두이노 3일차 오후.md",
-    "20. Lecture Note/Arduino and ESP32/아두이노/아두이노 2일차.md",
     "99. Attachment/Arduino and ESP32/20240717_164942.mp4",
     "99. Attachment/Arduino and ESP32/11.jpg",
     "99. Attachment/Arduino and ESP32/7.jpg",
@@ -222,15 +224,12 @@
     "99. Attachment/Arduino and ESP32/4.jpg",
     "99. Attachment/Arduino and ESP32/5.jpg",
     "99. Attachment/Arduino and ESP32/Untitled 70.png",
-    "99. Attachment/Arduino and ESP32/Untitled 69.png",
     "20. Lecture Note/Arduino and ESP32/아두이노/아두이노 1일차.md",
     "20. Lecture Note/Arduino and ESP32/아두이노/아두이노 2일차 오후.md",
     "20. Lecture Note/Arduino and ESP32/아두이노/아두이노 1일차 오후.md",
     "99. Attachment/Arduino and ESP32/RGB%EB%B0%94%EA%B7%80%EA%B8%B0.mp4",
     "99. Attachment/Arduino and ESP32/KakaoTalk_20240717_174107167.mp4",
     "99. Attachment/Arduino and ESP32/KakaoTalk_20240712_102508360.mp4",
-    "99. Attachment/Arduino and ESP32/KakaoTalk_20240711_133830673.mp4",
-    "99. Attachment/Arduino and ESP32/10.mp4",
     "20. Lecture Note/Arduino and ESP32/아두이노/RGB%EB%B0%94%EA%B7%80%EA%B8%B0.mp4.md",
     "무제 파일 1.canvas",
     "무제 파일.canvas"
