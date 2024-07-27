@@ -11,12 +11,8 @@
             "id": "7948ef424ab37870",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "My Home Page.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Home Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Home Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "My Home Page.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,6 +159,10 @@
   },
   "active": "7948ef424ab37870",
   "lastOpenFiles": [
+    "20. Lecture Note/Linear Algebra/2. Vector Part1.md",
+    "20. Lecture Note/Linear Algebra/3. Vector Part2.md",
+    "20. Lecture Note/Linear Algebra/4. Vector Applications.md",
+    "My Home Page.md",
     "conflict-files-obsidian-git.md",
     "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md",
     "20. Lecture Note/3D Point Cloud Data Processing/2. 3D Data Acquisition (Passive).md",
@@ -184,7 +180,6 @@
     "기초 개념/Camera.md",
     "기초 개념/Calibration.md",
     "기본 학습.canvas",
-    "My Home Page.md",
     "99. Attachment/Point Cloud/pinhole_image.png",
     "99. Attachment/Point Cloud/account_for_world_origin.png",
     "99. Attachment/Point Cloud/account_for_image_origin.png",
@@ -205,9 +200,6 @@
     "20. Lecture Note/Python ML/Data Handling -Numpy.md",
     "20. Lecture Note/Arduino and ESP32",
     "10. Subject/3D Point Cloud Data Processing.md",
-    "20. Lecture Note/Linear Algebra/2. Vector Part1.md",
-    "20. Lecture Note/Python Basic/Python - Day6.md",
-    "20. Lecture Note/Python Basic/Python - Day3.md",
     "30. Assignment/LinearAlgebra/CH.6/HW_02.m",
     "30. Assignment/LinearAlgebra/CH.6/HW_01.m",
     "30. Assignment/LinearAlgebra/CH.5/exercise_2020063063_05_04.m",

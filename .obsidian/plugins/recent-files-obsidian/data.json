@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "2. Vector Part1",
+      "path": "20. Lecture Note/Linear Algebra/2. Vector Part1.md"
+    },
+    {
+      "basename": "3. Vector Part2",
+      "path": "20. Lecture Note/Linear Algebra/3. Vector Part2.md"
+    },
+    {
+      "basename": "4. Vector Applications",
+      "path": "20. Lecture Note/Linear Algebra/4. Vector Applications.md"
+    },
+    {
       "basename": "My Home Page",
       "path": "My Home Page.md"
     },
@@ -35,10 +47,6 @@
     {
       "basename": "1. 3D Point Cloud",
       "path": "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md"
-    },
-    {
-      "basename": "2. Vector Part1",
-      "path": "20. Lecture Note/Linear Algebra/2. Vector Part1.md"
     },
     {
       "basename": "2. 3D Data Acquisition (Passive)",
