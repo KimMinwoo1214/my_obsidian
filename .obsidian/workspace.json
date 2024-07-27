@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "f23f2ec75e7564b9",
+        "id": "48efe9b689b2b963",
         "type": "tabs",
         "children": [
           {
-            "id": "ae3b1d3ec81a0d16",
+            "id": "7948ef424ab37870",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "My Home Page.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -69,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -90,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "My Home Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "My Home Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "My Home Page.md"
               }
             }
           },
@@ -160,11 +165,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f6fb995217546bba",
+  "active": "7948ef424ab37870",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md",
     "20. Lecture Note/3D Point Cloud Data Processing/2. 3D Data Acquisition (Passive).md",
-    "conflict-files-obsidian-git.md",
     "기초 개념/Vision.md",
     "기초 개념/Stereo.md",
     "기초 개념/SVD.md",
