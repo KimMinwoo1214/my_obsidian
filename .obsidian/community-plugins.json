@@ -1,8 +1,15 @@
 [
+  "calendar",
   "dataview",
   "execute-code",
+  "homepage",
+  "obsidian-icon-shortcodes",
+  "obsidian-imgur-plugin",
+  "obsidian-projects",
+  "recent-files-obsidian",
+  "settings-search",
   "obsidian-tasks-plugin",
   "templater-obsidian",
   "obsidian-git",
-  "obsidian-projects"
+  "obsidian-mind-map"
 ]
