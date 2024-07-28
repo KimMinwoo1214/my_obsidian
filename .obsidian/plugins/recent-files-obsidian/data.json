@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "My Home Page",
+      "path": "My Home Page.md"
+    },
+    {
       "basename": "2. Vector Part1",
       "path": "20. Lecture Note/Linear Algebra/2. Vector Part1.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "4. Vector Applications",
       "path": "20. Lecture Note/Linear Algebra/4. Vector Applications.md"
-    },
-    {
-      "basename": "My Home Page",
-      "path": "My Home Page.md"
     },
     {
       "basename": "기본 학습",

@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "48efe9b689b2b963",
+        "id": "6716f041f3c596e6",
         "type": "tabs",
         "children": [
           {
-            "id": "7948ef424ab37870",
+            "id": "7819d1bc32e233a5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "My Home Page.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "My Home Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "My Home Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "My Home Page.md"
+              }
             }
           },
           {
@@ -157,7 +165,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7948ef424ab37870",
+  "active": "7819d1bc32e233a5",
   "lastOpenFiles": [
     "20. Lecture Note/Linear Algebra/2. Vector Part1.md",
     "20. Lecture Note/Linear Algebra/3. Vector Part2.md",
