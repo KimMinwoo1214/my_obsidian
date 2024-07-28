@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20. Lecture Note/Linear Algebra/2. Vector Part1.md",
-                "mode": "preview",
+                "file": "20. Lecture Note/Linear Algebra/3. Vector Part2.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20. Lecture Note/Linear Algebra/2. Vector Part1.md",
+                "file": "20. Lecture Note/Linear Algebra/3. Vector Part2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20. Lecture Note/Linear Algebra/2. Vector Part1.md",
+                "file": "20. Lecture Note/Linear Algebra/3. Vector Part2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20. Lecture Note/Linear Algebra/2. Vector Part1.md"
+                "file": "20. Lecture Note/Linear Algebra/3. Vector Part2.md"
               }
             }
           },
@@ -167,8 +167,9 @@
   },
   "active": "7819d1bc32e233a5",
   "lastOpenFiles": [
-    "20. Lecture Note/Linear Algebra/3. Vector Part2.md",
     "20. Lecture Note/Linear Algebra/2. Vector Part1.md",
+    "20. Lecture Note/Linear Algebra/1. Introduce.md",
+    "20. Lecture Note/Linear Algebra/3. Vector Part2.md",
     "10. Subject/Linear Algebra(MATLAB).md",
     "10. Subject/Arduino and ESP32.md",
     "10. Subject/Python for ML.md",
@@ -206,7 +207,6 @@
     "99. Attachment/Arduino and ESP32/20240717_164942.mp4",
     "20. Lecture Note/Arduino and ESP32/Day 1. Arduino Basic.md",
     "99. Attachment/Arduino and ESP32",
-    "2024-03-22.md",
     "20. Lecture Note/Arduino and ESP32",
     "30. Assignment/LinearAlgebra/CH.6/HW_02.m",
     "30. Assignment/LinearAlgebra/CH.6/HW_01.m",
