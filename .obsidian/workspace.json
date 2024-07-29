@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "20. Lecture Note/3D Point Cloud Data Processing/2. 3D Data Acquisition (Passive).md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -193,6 +193,9 @@
   },
   "active": "a42fd12fc8bde317",
   "lastOpenFiles": [
+    "99. Attachment/Point Cloud/스크린샷 2024-07-29 164104.png",
+    "99. Attachment/Point Cloud/Reconstruction_Ambiguity.png",
+    "99. Attachment/Point Cloud/스크린샷 2024-07-29 163837.png",
     "20. Lecture Note/Linear Algebra/4. Vector Applications.md",
     "20. Lecture Note/Linear Algebra/3. Vector Part2.md",
     "20. Lecture Note/Linear Algebra/2. Vector Part1.md",
@@ -236,8 +239,6 @@
     "99. Attachment/Arduino and ESP32/1.jpg",
     "99. Attachment/Arduino and ESP32/2-1.png",
     "99. Attachment/Arduino and ESP32/4.jpg",
-    "99. Attachment/Arduino and ESP32/5.jpg",
-    "99. Attachment/Arduino and ESP32/Untitled 70.png",
     "20. Lecture Note/Arduino and ESP32/아두이노/아두이노 1일차.md",
     "99. Attachment/Arduino and ESP32/RGB%EB%B0%94%EA%B7%80%EA%B8%B0.mp4",
     "99. Attachment/Arduino and ESP32/KakaoTalk_20240717_174107167.mp4",
