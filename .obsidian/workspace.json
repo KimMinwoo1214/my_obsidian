@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20. Lecture Note/3D Point Cloud Data Processing/2. 3D Data Acquisition (Passive).md",
+                "file": "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md",
                 "mode": "preview",
                 "source": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20. Lecture Note/3D Point Cloud Data Processing/2. 3D Data Acquisition (Passive).md",
+                "file": "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20. Lecture Note/3D Point Cloud Data Processing/2. 3D Data Acquisition (Passive).md",
+                "file": "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20. Lecture Note/3D Point Cloud Data Processing/2. 3D Data Acquisition (Passive).md"
+                "file": "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md"
               }
             }
           },
@@ -193,6 +193,7 @@
   },
   "active": "a42fd12fc8bde317",
   "lastOpenFiles": [
+    "20. Lecture Note/3D Point Cloud Data Processing/2. 3D Data Acquisition (Passive).md",
     "99. Attachment/Point Cloud/Ch.2/Projective_ambiguity.png",
     "99. Attachment/Point Cloud/Ch.2/스크린샷 2024-07-29 165151.png",
     "99. Attachment/Point Cloud/Ch.2/Depth_estimation.png",
@@ -203,7 +204,6 @@
     "99. Attachment/Point Cloud/Ch.2/스크린샷 2024-07-29 164752.png",
     "99. Attachment/Point Cloud/Ch.2/Stereo_vision_rectification.png",
     "99. Attachment/Point Cloud/Ch.2/스크린샷 2024-07-29 164536.png",
-    "99. Attachment/Point Cloud/Ch.2/Projective_Affine.png",
     "99. Attachment/Point Cloud/Ch.2/3D Data Acquisition (Passive).pdf",
     "99. Attachment/Point Cloud/Ch.2",
     "99. Attachment/Point Cloud/새 폴더",
@@ -218,7 +218,6 @@
     "무제 파일 1.canvas",
     "2024-07-09.md",
     "무제 파일.md",
-    "20. Lecture Note/3D Point Cloud Data Processing/2. 3D Data Acquisition (Passive).md",
     "50.Projects/Team Cheetah Side Project.md",
     "무제 파일 3.canvas",
     "20. Lecture Note/Arduino and ESP32/아두이노/아두이노 2일차.md",
