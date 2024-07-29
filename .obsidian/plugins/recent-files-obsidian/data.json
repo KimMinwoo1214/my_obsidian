@@ -1,14 +1,10 @@
 {
   "recentFiles": [
     {
-<<<<<<< HEAD
-      "basename": "My Home Page",
-      "path": "My Home Page.md"
+      "basename": "4. Vector Applications",
+      "path": "20. Lecture Note/Linear Algebra/4. Vector Applications.md"
     },
     {
-      "basename": "기본 학습",
-      "path": "기본 학습.canvas"
-=======
       "basename": "3. Vector Part2",
       "path": "20. Lecture Note/Linear Algebra/3. Vector Part2.md"
     },
@@ -17,58 +13,8 @@
       "path": "20. Lecture Note/Linear Algebra/2. Vector Part1.md"
     },
     {
-      "basename": "1. Introduce",
-      "path": "20. Lecture Note/Linear Algebra/1. Introduce.md"
-    },
-    {
-      "basename": "Linear Algebra(MATLAB)",
-      "path": "10. Subject/Linear Algebra(MATLAB).md"
->>>>>>> a009ae90bc9f1de0b332f5acf973400bf5395084
-    },
-    {
-      "basename": "Arduino and ESP32",
-      "path": "10. Subject/Arduino and ESP32.md"
-    },
-    {
-      "basename": "Python for ML",
-      "path": "10. Subject/Python for ML.md"
-    },
-    {
-      "basename": "Python and CV",
-      "path": "10. Subject/Python and CV.md"
-    },
-    {
-<<<<<<< HEAD
-      "basename": "Linear Algebra(MATLAB)",
-      "path": "10. Subject/Linear Algebra(MATLAB).md"
-=======
       "basename": "My Home Page",
       "path": "My Home Page.md"
-    },
-    {
-      "basename": "4. Vector Applications",
-      "path": "20. Lecture Note/Linear Algebra/4. Vector Applications.md"
->>>>>>> a009ae90bc9f1de0b332f5acf973400bf5395084
-    },
-    {
-      "basename": "기본 학습",
-      "path": "기본 학습.canvas"
-    },
-    {
-      "basename": "3D Point Cloud Data Processing",
-      "path": "10. Subject/3D Point Cloud Data Processing.md"
-    },
-    {
-      "basename": "무제 파일 1",
-      "path": "무제 파일 1.canvas"
-    },
-    {
-      "basename": "1. 3D Point Cloud",
-      "path": "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md"
-    },
-    {
-      "basename": "2. 3D Data Acquisition (Passive)",
-      "path": "20. Lecture Note/3D Point Cloud Data Processing/2. 3D Data Acquisition (Passive).md"
     }
   ],
   "omittedPaths": []
