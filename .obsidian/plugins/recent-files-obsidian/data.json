@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "My Home Page",
+      "path": "My Home Page.md"
+    },
+    {
       "basename": "기본 학습",
       "path": "기본 학습.canvas"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "Python and CV",
       "path": "10. Subject/Python and CV.md"
-    },
-    {
-      "basename": "My Home Page",
-      "path": "My Home Page.md"
     },
     {
       "basename": "Linear Algebra(MATLAB)",

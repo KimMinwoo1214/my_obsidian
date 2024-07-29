@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cc62c4faa8e73dfd",
+        "id": "b2f51d3458f9ca91",
         "type": "tabs",
         "children": [
           {
-            "id": "b78796671aa0ffb6",
+            "id": "a42fd12fc8bde317",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -79,7 +79,7 @@
       {
         "id": "b1cbb6704287c163",
         "type": "tabs",
-        "dimension": 25.839793281653744,
+        "dimension": 25.83979328165374,
         "children": [
           {
             "id": "00e948b17ec8d33d",
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "기본 학습.canvas",
+                "file": "My Home Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "기본 학습.canvas",
+                "file": "My Home Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "기본 학습.canvas"
+                "file": "My Home Page.md"
               }
             }
           },
@@ -190,7 +190,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "efa4f9e7ad7f389c",
+  "active": "a42fd12fc8bde317",
   "lastOpenFiles": [
     "My Home Page.md",
     "기본 학습.canvas",
