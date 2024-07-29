@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "20. Lecture Note/3D Point Cloud Data Processing/2. 3D Data Acquisition (Passive).md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -193,17 +193,17 @@
   },
   "active": "a42fd12fc8bde317",
   "lastOpenFiles": [
+    "99. Attachment/Point Cloud/Ch.2/Projective_ambiguity.png",
+    "99. Attachment/Point Cloud/Ch.2/스크린샷 2024-07-29 165151.png",
+    "99. Attachment/Point Cloud/Ch.2/Depth_estimation.png",
+    "99. Attachment/Point Cloud/Ch.2/스크린샷 2024-07-29 164929.png",
+    "99. Attachment/Point Cloud/Ch.2/Disparity.png",
+    "99. Attachment/Point Cloud/Ch.2/스크린샷 2024-07-29 164916.png",
     "99. Attachment/Point Cloud/Ch.2/Best_match.png",
     "99. Attachment/Point Cloud/Ch.2/스크린샷 2024-07-29 164752.png",
     "99. Attachment/Point Cloud/Ch.2/Stereo_vision_rectification.png",
     "99. Attachment/Point Cloud/Ch.2/스크린샷 2024-07-29 164536.png",
     "99. Attachment/Point Cloud/Ch.2/Projective_Affine.png",
-    "99. Attachment/Point Cloud/Ch.2/Reconstruction_Projective.png",
-    "99. Attachment/Point Cloud/Ch.2/Reconstruction_Ambiguity.png",
-    "99. Attachment/Point Cloud/Ch.2/pinhole_image.png",
-    "99. Attachment/Point Cloud/Ch.2/Epipolar.png",
-    "99. Attachment/Point Cloud/Ch.2/account_for_world_origin.png",
-    "99. Attachment/Point Cloud/Ch.2/account_for_image_origin.png",
     "99. Attachment/Point Cloud/Ch.2/3D Data Acquisition (Passive).pdf",
     "99. Attachment/Point Cloud/Ch.2",
     "99. Attachment/Point Cloud/새 폴더",
