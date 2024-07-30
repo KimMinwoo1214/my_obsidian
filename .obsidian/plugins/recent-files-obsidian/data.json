@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "4. Vector Applications",
+      "path": "20. Lecture Note/Linear Algebra/4. Vector Applications.md"
+    },
+    {
+      "basename": "3. Vector Part2",
+      "path": "20. Lecture Note/Linear Algebra/3. Vector Part2.md"
+    },
+    {
+      "basename": "2. Vector Part1",
+      "path": "20. Lecture Note/Linear Algebra/2. Vector Part1.md"
+    },
+    {
       "basename": "2. 3D Data Acquisition (Passive)",
       "path": "20. Lecture Note/3D Point Cloud Data Processing/2. 3D Data Acquisition (Passive).md"
     },
@@ -25,20 +37,8 @@
       "path": "무제 파일 2.canvas"
     },
     {
-      "basename": "2. Vector Part1",
-      "path": "20. Lecture Note/Linear Algebra/2. Vector Part1.md"
-    },
-    {
-      "basename": "3. Vector Part2",
-      "path": "20. Lecture Note/Linear Algebra/3. Vector Part2.md"
-    },
-    {
       "basename": "SVD",
       "path": "기초 개념/SVD.md"
-    },
-    {
-      "basename": "4. Vector Applications",
-      "path": "20. Lecture Note/Linear Algebra/4. Vector Applications.md"
     }
   ],
   "omittedPaths": []
