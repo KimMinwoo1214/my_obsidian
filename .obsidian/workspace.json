@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Home Page.md",
+                "file": "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md",
                 "mode": "preview",
                 "source": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Home Page.md",
+                "file": "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Home Page.md",
+                "file": "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Home Page.md"
+                "file": "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md"
               }
             }
           },
@@ -192,6 +192,7 @@
   },
   "active": "09a4d9126618fe48",
   "lastOpenFiles": [
+    "My Home Page.md",
     "기본 학습.canvas",
     "무제 파일 1.canvas",
     "무제 파일 2.canvas",
@@ -214,7 +215,6 @@
     "99. Attachment/Point Cloud/Ch.2",
     "99. Attachment/Point Cloud/새 폴더",
     "20. Lecture Note/Linear Algebra/4. Vector Applications.md",
-    "My Home Page.md",
     "10. Subject/Python and CV.md",
     "10. Subject/Linear Algebra(MATLAB).md",
     "2024-07-09.md",
