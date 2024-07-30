@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md",
+                "file": "20. Lecture Note/3D Point Cloud Data Processing/2. 3D Data Acquisition (Passive).md",
                 "mode": "preview",
                 "source": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md",
+                "file": "20. Lecture Note/3D Point Cloud Data Processing/2. 3D Data Acquisition (Passive).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md",
+                "file": "20. Lecture Note/3D Point Cloud Data Processing/2. 3D Data Acquisition (Passive).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md"
+                "file": "20. Lecture Note/3D Point Cloud Data Processing/2. 3D Data Acquisition (Passive).md"
               }
             }
           },
@@ -192,6 +192,7 @@
   },
   "active": "09a4d9126618fe48",
   "lastOpenFiles": [
+    "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md",
     "My Home Page.md",
     "기본 학습.canvas",
     "무제 파일 1.canvas",
@@ -202,7 +203,6 @@
     "기초 개념/SVD.md",
     "99. Attachment/Point Cloud/Ch.2/projective_reconstruction.png",
     "99. Attachment/Point Cloud/Ch.2/스크린샷 2024-07-29 173216.png",
-    "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md",
     "99. Attachment/Point Cloud/Ch.2/Projective_ambiguity.png",
     "99. Attachment/Point Cloud/Ch.2/스크린샷 2024-07-29 165151.png",
     "99. Attachment/Point Cloud/Ch.2/Depth_estimation.png",
