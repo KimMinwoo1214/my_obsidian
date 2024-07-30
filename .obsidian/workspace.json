@@ -4,21 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "b2f51d3458f9ca91",
+        "id": "833ba01b9b0e817b",
         "type": "tabs",
         "children": [
           {
-            "id": "a42fd12fc8bde317",
+            "id": "09a4d9126618fe48",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "기본 학습.canvas",
-                "viewState": {
-                  "x": -230,
-                  "y": -110,
-                  "zoom": -0.30635228863290836
-                }
+                "file": "My Home Page.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -112,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "기본 학습.canvas",
+                "file": "My Home Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "기본 학습.canvas",
+                "file": "My Home Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "기본 학습.canvas"
+                "file": "My Home Page.md"
               }
             }
           },
@@ -193,8 +190,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a42fd12fc8bde317",
+  "active": "09a4d9126618fe48",
   "lastOpenFiles": [
+    "기본 학습.canvas",
+    "무제 파일 1.canvas",
+    "무제 파일 2.canvas",
     "20. Lecture Note/Linear Algebra/2. Vector Part1.md",
     "20. Lecture Note/Linear Algebra/3. Vector Part2.md",
     "20. Lecture Note/3D Point Cloud Data Processing/2. 3D Data Acquisition (Passive).md",
@@ -215,10 +215,8 @@
     "99. Attachment/Point Cloud/새 폴더",
     "20. Lecture Note/Linear Algebra/4. Vector Applications.md",
     "My Home Page.md",
-    "기본 학습.canvas",
     "10. Subject/Python and CV.md",
     "10. Subject/Linear Algebra(MATLAB).md",
-    "무제 파일 1.canvas",
     "2024-07-09.md",
     "무제 파일.md",
     "50.Projects/Team Cheetah Side Project.md",
@@ -237,13 +235,11 @@
     "20. Lecture Note/Linear Algebra/5. Matrices Part1.md",
     "HomePage.md",
     "Tags",
-    "무제 파일 2.canvas",
     "2024-07-25.md",
     "20. Lecture Note/Arduino and ESP32/아두이노/아두이노 3일차.md",
     "README.md",
     "20. Lecture Note/3D Point Cloud Data Processing/Untitled - 2024-07-25.md",
     "20. Lecture Note/Arduino and ESP32/아두이노/아두이노 3일차 오후.md",
-    "99. Attachment/Arduino and ESP32/20240717_164942.mp4",
-    "20. Lecture Note/Arduino and ESP32/아두이노/아두이노 1일차.md"
+    "99. Attachment/Arduino and ESP32/20240717_164942.mp4"
   ]
 }
