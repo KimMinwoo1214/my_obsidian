@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6d0f0b6a193f8b5c",
+        "id": "bbecc5ef921c99a8",
         "type": "tabs",
         "children": [
           {
-            "id": "87bee96584e005a3",
+            "id": "597518354dad60a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -182,12 +182,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "efa4f9e7ad7f389c",
+  "active": "597518354dad60a9",
   "lastOpenFiles": [
+    "20. Lecture Note/Linear Algebra/5. Matrices Part1.md",
     "20. Lecture Note/Linear Algebra/4. Vector Applications.md",
+    "20. Lecture Note/Linear Algebra/7. Matrix Applications.md",
+    "My Home Page.md",
     "20. Lecture Note/Linear Algebra/3. Vector Part2.md",
     "20. Lecture Note/3D Point Cloud Data Processing/2. 3D Data Acquisition (Passive).md",
-    "My Home Page.md",
     "20. Lecture Note/Linear Algebra/2. Vector Part1.md",
     "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md",
     "기본 학습.canvas",
@@ -221,10 +223,8 @@
     "99. Attachment/새 폴더",
     "20. Lecture Note/Python ML/Data Handling -Numpy.md",
     "20. Lecture Note/Linear Algebra/1. Introduce.md",
-    "20. Lecture Note/Linear Algebra/7. Matrix Applications.md",
     "20. Lecture Note/Linear Algebra/8. Matrix Inverse.md",
     "20. Lecture Note/Linear Algebra/6. Matrices Part2.md",
-    "20. Lecture Note/Linear Algebra/5. Matrices Part1.md",
     "HomePage.md",
     "Tags",
     "2024-07-25.md",

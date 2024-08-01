@@ -5,8 +5,16 @@
       "path": "My Home Page.md"
     },
     {
+      "basename": "5. Matrices Part1",
+      "path": "20. Lecture Note/Linear Algebra/5. Matrices Part1.md"
+    },
+    {
       "basename": "4. Vector Applications",
       "path": "20. Lecture Note/Linear Algebra/4. Vector Applications.md"
+    },
+    {
+      "basename": "7. Matrix Applications",
+      "path": "20. Lecture Note/Linear Algebra/7. Matrix Applications.md"
     },
     {
       "basename": "3. Vector Part2",
