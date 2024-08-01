@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. Subject/Python and CV.md",
+                "file": "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md",
                 "mode": "preview",
                 "source": true
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. Subject/Python and CV.md",
+                "file": "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10. Subject/Python and CV.md",
+                "file": "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. Subject/Python and CV.md"
+                "file": "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md"
               }
             }
           },
@@ -184,6 +184,7 @@
   },
   "active": "597518354dad60a9",
   "lastOpenFiles": [
+    "10. Subject/Python and CV.md",
     "20. Lecture Note/Day1. STM32.md",
     "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md",
     "20. Lecture Note/3D Point Cloud Data Processing/2. 3D Data Acquisition (Passive).md",
@@ -192,7 +193,6 @@
     "20. Lecture Note/Linear Algebra/2. Vector Part1.md",
     "10. Subject/Linear Algebra(MATLAB).md",
     "10. Subject/Arduino and ESP32.md",
-    "10. Subject/Python and CV.md",
     "10. Subject/Python for ML.md",
     "10. Subject/STM32 and Fusion360.md",
     "My Home Page.md",
