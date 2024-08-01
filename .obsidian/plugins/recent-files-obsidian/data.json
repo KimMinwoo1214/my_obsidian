@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Python and CV",
+      "path": "10. Subject/Python and CV.md"
+    },
+    {
       "basename": "Day1. STM32",
       "path": "20. Lecture Note/Day1. STM32.md"
     },
@@ -31,10 +35,6 @@
     {
       "basename": "Arduino and ESP32",
       "path": "10. Subject/Arduino and ESP32.md"
-    },
-    {
-      "basename": "Python and CV",
-      "path": "10. Subject/Python and CV.md"
     },
     {
       "basename": "Python for ML",

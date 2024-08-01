@@ -41,8 +41,8 @@ WHERE contains(text, "#school")
 ```dataview
 TABLE WITHOUT ID
 	week AS "Week",
-	file.outlinks AS "파일 링크"
-FROM "20. Lecture Note"
+	file.outlinks AS "[[파이썬 기초.pdf]]"
+FROM "[[Python - Day1]]"
 WHERE contains(file.outlinks.file.name, "Untitled 1")
 SORT file.name
 ```
