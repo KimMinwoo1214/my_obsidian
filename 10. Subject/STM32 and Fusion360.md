@@ -2,7 +2,7 @@
 tags: 
 aliases: 
 type: subject
-created: 2024-03-06
+created: 2024-08-01
 finished: 
 semester: 
 grade:
