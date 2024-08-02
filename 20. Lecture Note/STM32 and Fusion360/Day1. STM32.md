@@ -1,5 +1,7 @@
 ---
-tags: []
+tags:
+  - Embedded
+  - Kairos
 aliases: 
 type: lecture-note
 created: 2024-08-01
@@ -7,8 +9,8 @@ reviewed: false
 notices: false
 summary: false
 ---
-### **Subject**:: [[]]
-### **Week**:: 
+### **Subject**:: [[STM32 and Fusion360]]
+### **Week**:: 1
 
 **이전 강의 노트**: [[]]
 
