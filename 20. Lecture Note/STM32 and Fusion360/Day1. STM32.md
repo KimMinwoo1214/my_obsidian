@@ -15,7 +15,7 @@ summary: false
 **이전 강의 노트**: [[]]
 
 ### 강의자료: 
-![[]]
+[[Fusion360, STM32.pdf]]
 
 # 강의필기 (Lecture Notes)
 <br>
