@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "My Home Page",
+      "path": "My Home Page.md"
+    },
+    {
       "basename": "2. 3D Data Acquisition (Passive)",
       "path": "20. Lecture Note/3D Point Cloud Data Processing/2. 3D Data Acquisition (Passive).md"
     },
@@ -43,10 +47,6 @@
     {
       "basename": "STM32 and Fusion360",
       "path": "10. Subject/STM32 and Fusion360.md"
-    },
-    {
-      "basename": "My Home Page",
-      "path": "My Home Page.md"
     },
     {
       "basename": "5. Matrices Part1",
