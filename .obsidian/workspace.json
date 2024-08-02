@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20. Lecture Note/Arduino and ESP32/Day1. Arduino and ESP32.md",
+                "file": "20. Lecture Note/Arduino and ESP32/Day3. Arduino and ESP32.md",
                 "mode": "source",
                 "source": true
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20. Lecture Note/Arduino and ESP32/Day1. Arduino and ESP32.md",
+                "file": "20. Lecture Note/Arduino and ESP32/Day3. Arduino and ESP32.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20. Lecture Note/Arduino and ESP32/Day1. Arduino and ESP32.md",
+                "file": "20. Lecture Note/Arduino and ESP32/Day3. Arduino and ESP32.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20. Lecture Note/Arduino and ESP32/Day1. Arduino and ESP32.md"
+                "file": "20. Lecture Note/Arduino and ESP32/Day3. Arduino and ESP32.md"
               }
             }
           },
@@ -184,11 +184,15 @@
   },
   "active": "27377a5a1443da84",
   "lastOpenFiles": [
-    "20. Lecture Note/Arduino and ESP32/아두이노/아두이노 1일차.md",
-    "20. Lecture Note/Arduino and ESP32/Day1. Arduino and ESP32.md",
-    "Robotics and AI.md",
-    "20. Lecture Note/Day2. STM32.md",
+    "20. Lecture Note/Arduino and ESP32/아두이노/아두이노 3일차.md",
+    "20. Lecture Note/Arduino and ESP32/Day3. Arduino and ESP32.md",
+    "20. Lecture Note/Arduino and ESP32/Day2. Arduino and ESP32.md",
+    "20. Lecture Note/Arduino and ESP32/아두이노/아두이노 2일차.md",
     "20. Lecture Note/STM32 and Fusion360/Day1. STM32.md",
+    "20. Lecture Note/Arduino and ESP32/Day1. Arduino and ESP32.md",
+    "20. Lecture Note/Arduino and ESP32/아두이노/아두이노 1일차.md",
+    "Robotics and AI.md",
+    "20. Lecture Note/STM32 and Fusion360/Day2. STM32.md",
     "My Home Page.md",
     "20. Lecture Note/Arduino and ESP32/아두이노/KakaoTalk_20240711_133830673.mp4.md",
     "20. Lecture Note/Arduino and ESP32/아두이노/RGB%EB%B0%94%EA%B7%80%EA%B8%B0.mp4.md",
@@ -204,12 +208,8 @@
     "20. Lecture Note/Arduino and ESP32/아두이노/아두이노 5일차 오전.md",
     "20. Lecture Note/Arduino and ESP32/아두이노/아두이노 4일차 오후.md",
     "20. Lecture Note/Arduino and ESP32/아두이노/아두이노 4일차 오전.md",
-    "20. Lecture Note/Arduino and ESP32/아두이노/아두이노 3일차.md",
     "20. Lecture Note/3D Point Cloud Data Processing/2. 3D Data Acquisition (Passive).md",
     "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md",
-    "10. Subject/Python and CV.md",
-    "20. Lecture Note/Linear Algebra/1. Introduce.md",
-    "20. Lecture Note/Linear Algebra/4. Vector Applications.md",
     "20. Lecture Note/STM32 and Fusion360",
     "기본 학습.canvas",
     "무제 파일 1.canvas",

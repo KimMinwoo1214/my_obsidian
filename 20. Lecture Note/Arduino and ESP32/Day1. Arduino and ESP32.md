@@ -123,7 +123,7 @@ void loop()
 
 여기서 1000은 1초르 나타낸다.
 
-**[[Bread**
+## **[[Bread Board]]**
 
 +,- 끼리 연결 되어 있고 내부는 a,b,c,d,e를 한 줄로 연결 되어있다
 
@@ -220,37 +220,37 @@ https://www.arduino.cc/
 
 아두이노에 익숙해지면 깃 허브를 이용해서 만들 수도 있다
 
-**아두이노 우노**
+## **[[Arduino]] Uno**
 
 ![Untitled](Arduino.png)
 
 ![https://postfiles.pstatic.net/20160810_172/msyang59_1470786211244zMcpr_PNG/num_01.png?type=w1](https://postfiles.pstatic.net/20160810_172/msyang59_1470786211244zMcpr_PNG/num_01.png?type=w1)
 
-디지털 핀들
+### Digital pins
 
 이 핀 들은 디지털 입·출력 용으로 digitalRead(), digitalWrite(), 그리고 analogWrite() 명령(함수)들을 가지고 사용할 수 있는 핀들입니다. analogWrite() 명령은 PWM(Pulse With Modulation) 기능을 제공하는 핀들만 사용 가능합니다. 보드를 자세히 살펴 보면 "~" 물결 표시가 되어 있는 핀들이 있을 것입니다. 이 핀들만 analogWrite() 명령을 사용할 수 있습니다.
 
 ![https://postfiles.pstatic.net/20160810_34/msyang59_1470786517235wQlGz_PNG/num_02.png?type=w1](https://postfiles.pstatic.net/20160810_34/msyang59_1470786517235wQlGz_PNG/num_02.png?type=w1)
 
-LED 디지털 13번 핀
+- LED 디지털 13번 핀
 
 디지털 13번 핀과 연결되어 있고, 우노 보드에서 유일하게 ON/OFF 할 수 있는 LED입니다. 스케치 디버깅을 할 때 매우 유용하게 사용할 수 있습니다. 예제 01. Basics에 들어 있는 Blink 스케치도 이 LED를  ON/OFF 시킵니다, 참고로 아두이노 우노 보드를 처음 구입하여 동작 시켰을 때, 보드가 정상인지 이 LED가 주기적으로 깜빡이는 것을 확인하여 확인 할 수 있습니다. 물론 Blink 스케치가 사용되고 있습니다.
 
 ![https://postfiles.pstatic.net/20160810_260/msyang59_14707872239464xiNH_PNG/num_03.png?type=w1](https://postfiles.pstatic.net/20160810_260/msyang59_14707872239464xiNH_PNG/num_03.png?type=w1)
 
-전원 LED
+- 전원 LED
 
 전원(파워: Power)이 들어오고 있다는 것을 알려주는 LED입니다. 보드가 정상인지 판단하는데 유용합니다.
 
 ![https://postfiles.pstatic.net/20160810_45/msyang59_1470787428863rHVkQ_PNG/num_04.png?type=w1](https://postfiles.pstatic.net/20160810_45/msyang59_1470787428863rHVkQ_PNG/num_04.png?type=w1)
 
-ATmega 마이크로컨트롤러(Microcontroller)
+- ATmega 마이크로컨트롤러(Microcontroller)
 
 보드의 심장 혹은 두뇌로 Atmel사의 ATmega328 혹은 ATmega328P MCU가 사용됩니다. 28 핀 DIP 타입의 부품이 사용되지만, 간혹 소켓 없이 보드에 바로 부착되는 SMD 용의 여러 모양이 사용될 수 있습니다.
 
 ![https://postfiles.pstatic.net/20160810_146/msyang59_1470787429048jKJfP_PNG/num_05.png?type=w1](https://postfiles.pstatic.net/20160810_146/msyang59_1470787429048jKJfP_PNG/num_05.png?type=w1)
 
-아날로그 입력 핀들
+- 아날로그 입력 핀들
 
 analogRead() 함수를 이용하여 입력 전압의 값들을 0 ~ 1023 사이의 값들로 읽어 들일 수 있는 아날로그 입력 핀들입니다. 아날로그 값들을 1024 등분(분해능)해서 읽어 들일 수 있습니다. analogReference() 함수를 사용하여 입력 전압을 DEFAULT, INTERNAL, EXTERNAL 등으로 설정하여 입력 전압 값을 보다 정확하게 측정할 수 있습니다.
 
@@ -258,37 +258,35 @@ analogRead() 함수를 이용하여 입력 전압의 값들을 0 ~ 1023 사이�
 
 ![https://postfiles.pstatic.net/20160810_280/msyang59_1470787429171kMhlK_PNG/num_06.png?type=w1](https://postfiles.pstatic.net/20160810_280/msyang59_1470787429171kMhlK_PNG/num_06.png?type=w1)
 
-전원 핀들
+- 전원 핀들
 
 아두이노 우노와 연결하여 사용할 보드나 부품들에 전원을 공급하기 위한 5V와 GND 핀들이며, 3.3V도 사용할 수 있게 핀을 제공하고 있습니다.
 
 ![https://postfiles.pstatic.net/20160810_295/msyang59_1470787429364Kku1r_PNG/num_07.png?type=w1](https://postfiles.pstatic.net/20160810_295/msyang59_1470787429364Kku1r_PNG/num_07.png?type=w1)
 
-전원 컨넥터
+- 전원 컨넥터
 
 USB 포트로부터 전원을 공급 받지만, USB가 연결되지 않았을 경우 전원 컨넥터를 통하여 전원을 공급 받을 수 있습니다. 외부에서 공급하는 전원은 7 ~ 12V 사이의 전압을 사용하여야 합니다. 9V 사용을 권장합니다.
 
 ![https://postfiles.pstatic.net/20160810_104/msyang59_1470787429515u5Uhw_PNG/num_08.png?type=w1](https://postfiles.pstatic.net/20160810_104/msyang59_1470787429515u5Uhw_PNG/num_08.png?type=w1)
 
-TX와 RX LED들
+- TX와 RX LED들
 
 컴퓨터와 우노 보드 간 통신 상태를 나타내기 위한 LED들입니다. 스케치를 업로드 하거나 시리얼 통신할 때 빠르게 깜빡이는 것을 볼 수 있으며, 보드가 정상으로 동작하는지 판단하는데도 유용합니다.
 
 ![https://postfiles.pstatic.net/20160810_115/msyang59_1470787430000gYqfl_PNG/num_09.png?type=w1](https://postfiles.pstatic.net/20160810_115/msyang59_1470787430000gYqfl_PNG/num_09.png?type=w1)
 
-USB 포트
+- USB 포트
 
 아두이노 우노 보드에 전원 공급과 스케치 업로드 그리고 Serial.print() 혹은 Serial.println() 명령으로 컴퓨터와 시리얼 통신을 위한 용도로 사용됩니다.
 
 ![https://postfiles.pstatic.net/20160810_262/msyang59_1470787430171JtkbA_PNG/num_10.png?type=w1](https://postfiles.pstatic.net/20160810_262/msyang59_1470787430171JtkbA_PNG/num_10.png?type=w1)
 
-리셋 버튼
+- 리셋 버튼
 
 ATmega 마이크로컨트롤러를 리셋하기 위한 버튼입니다.
 
 **[출처]** [아두이노 우노 보드 해부](https://blog.naver.com/msyang59/220784048835)|**작성자** [과객](https://blog.naver.com/msyang59)
-
-# 아두이노 1일차 오후
 
 RGB 는 공통 음극을 사용한다
 

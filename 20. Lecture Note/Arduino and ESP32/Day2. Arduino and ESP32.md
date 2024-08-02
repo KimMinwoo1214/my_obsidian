@@ -1,5 +1,23 @@
+---
+tags: []
+aliases: 
+type: lecture-note
+created: 2024-08-02
+reviewed: false
+notices: false
+summary: false
+---
+### **Subject**:: [[]]
+### **Week**:: 
 
+**이전 강의 노트**: [[]]
 
+### 강의자료: 
+
+# 강의필기 (Lecture Notes)
+<br>
+
+## [[Servo]]
 오늘은 다양한 아두이노 키트를 사용해 보자
 
 현재 servo라는 라이브러리를 설치함
@@ -158,7 +176,6 @@ button 제어
 
 PULL UP vs PULL DOWN vs INPUT_PULLUP
 
-# 아두이노 2일차 오후
 
 토글이란 이전의 상태에서 변화 한다면 그것을 고정 한다는 것이다.
 
@@ -443,7 +460,6 @@ void loop(){
 
 map은 data의 값을 원하는 범위로 편집해서 저장해주는 라이브러리 이다.
 
-[4.mp4](4.mp4)
 
 초음파 센서 - 음파로 측정한다.
 
@@ -479,3 +495,20 @@ void loop() {
   Serial.println("cm");
 }
 ```
+
+## 공지사항
+<br>
+
+
+
+## 수업 내용
+
+
+# 다음 할 일(After Actions)
+## 작업 (Tasks)
+
+
+## 정리 (Summary)
+
+
+
