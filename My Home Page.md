@@ -13,7 +13,7 @@ cssclasses: dashboard
 ### KG KAIROS
 - [[Python and CV]]
 - [[Arduino and ESP32]]
-
+- [[STM32 and Fusion360]]
 ### Naver Boost Cource
 - [[Python for ML]]
 <br>

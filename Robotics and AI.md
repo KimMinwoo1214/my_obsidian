@@ -14,6 +14,7 @@ tags:
   - "#LinearAlgebra"
   - "#MATLAB"
   - "#Cpp"
+  - "#Embedded"
 aliases:
   - School
   - University

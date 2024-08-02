@@ -1,4 +1,25 @@
-# 아두이노 1일차 오전
+---
+tags:
+  - Arduino
+  - Embedded
+  - Kairos
+  - project
+aliases: 
+type: lecture-note
+created: 2024-08-02
+reviewed: false
+notices: false
+summary: false
+---
+### **Subject**:: [[]]
+### **Week**:: 
+
+**이전 강의 노트**: [[]]
+
+### 강의자료: 
+
+# 강의필기 (Lecture Notes)
+<br>
 
 프로토 타입을 만들 때에는 아두이노 만큼 좋은게 없다
 
@@ -102,7 +123,7 @@ void loop()
 
 여기서 1000은 1초르 나타낸다.
 
-**빵판 정리**
+**[[Bread**
 
 +,- 끼리 연결 되어 있고 내부는 a,b,c,d,e를 한 줄로 연결 되어있다
 
@@ -580,3 +601,19 @@ Colors random_pick(){
   return results;
 }
 ```
+## 공지사항
+<br>
+
+
+
+## 수업 내용
+
+
+# 다음 할 일(After Actions)
+## 작업 (Tasks)
+
+
+## 정리 (Summary)
+
+
+
