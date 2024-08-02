@@ -5,6 +5,18 @@
       "path": "10. Subject/3D Point Cloud Data Processing.md"
     },
     {
+      "basename": "4. Vector Applications",
+      "path": "20. Lecture Note/Linear Algebra/4. Vector Applications.md"
+    },
+    {
+      "basename": "3. Vector Part2",
+      "path": "20. Lecture Note/Linear Algebra/3. Vector Part2.md"
+    },
+    {
+      "basename": "2. Vector Part1",
+      "path": "20. Lecture Note/Linear Algebra/2. Vector Part1.md"
+    },
+    {
       "basename": "1. 3D Point Cloud",
       "path": "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md"
     },
@@ -105,14 +117,6 @@
       "path": "20. Lecture Note/Linear Algebra/1. Introduce.md"
     },
     {
-      "basename": "4. Vector Applications",
-      "path": "20. Lecture Note/Linear Algebra/4. Vector Applications.md"
-    },
-    {
-      "basename": "2. Vector Part1",
-      "path": "20. Lecture Note/Linear Algebra/2. Vector Part1.md"
-    },
-    {
       "basename": "Linear Algebra(MATLAB)",
       "path": "10. Subject/Linear Algebra(MATLAB).md"
     },
@@ -135,10 +139,6 @@
     {
       "basename": "7. Matrix Applications",
       "path": "20. Lecture Note/Linear Algebra/7. Matrix Applications.md"
-    },
-    {
-      "basename": "3. Vector Part2",
-      "path": "20. Lecture Note/Linear Algebra/3. Vector Part2.md"
     },
     {
       "basename": "무제 파일 1",
