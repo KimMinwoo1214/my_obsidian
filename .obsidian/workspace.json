@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md",
-                "mode": "source",
+                "file": "10. Subject/3D Point Cloud Data Processing.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -85,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "79a7990781284c9a",
@@ -102,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md",
+                "file": "10. Subject/3D Point Cloud Data Processing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md",
+                "file": "10. Subject/3D Point Cloud Data Processing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md"
+                "file": "10. Subject/3D Point Cloud Data Processing.md"
               }
             }
           },
@@ -185,8 +184,8 @@
   },
   "active": "27377a5a1443da84",
   "lastOpenFiles": [
-    "10. Subject/3D Point Cloud Data Processing.md",
     "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md",
+    "10. Subject/3D Point Cloud Data Processing.md",
     "20. Lecture Note/STM32 and Fusion360/Day1. STM32.md",
     "20. Lecture Note/STM32 and Fusion360/Day2. STM32.md",
     "기본 학습.canvas",
