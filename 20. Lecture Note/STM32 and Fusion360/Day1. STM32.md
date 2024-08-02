@@ -15,6 +15,7 @@ summary: false
 **이전 강의 노트**: [[]]
 
 ### 강의자료: 
+![[]]
 
 # 강의필기 (Lecture Notes)
 <br>

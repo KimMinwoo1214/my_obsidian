@@ -11,8 +11,12 @@
             "id": "27377a5a1443da84",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "20. Lecture Note/STM32 and Fusion360/Day1. STM32.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -97,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "20. Lecture Note/STM32 and Fusion360/Day1. STM32.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "20. Lecture Note/STM32 and Fusion360/Day1. STM32.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "20. Lecture Note/STM32 and Fusion360/Day1. STM32.md"
+              }
             }
           },
           {
@@ -176,8 +184,9 @@
   },
   "active": "27377a5a1443da84",
   "lastOpenFiles": [
-    "기본 학습.canvas",
+    "20. Lecture Note/STM32 and Fusion360/Day2. STM32.md",
     "20. Lecture Note/STM32 and Fusion360/Day1. STM32.md",
+    "기본 학습.canvas",
     "99. Attachment/Fusion360 and STM32/Fusion360, STM32.pdf",
     "99. Attachment/Fusion360 and STM32",
     "99. Attachment/새 폴더",
@@ -191,7 +200,6 @@
     "20. Lecture Note/Arduino and ESP32/Day1. Arduino and ESP32.md",
     "20. Lecture Note/Arduino and ESP32/아두이노/아두이노 1일차.md",
     "Robotics and AI.md",
-    "20. Lecture Note/STM32 and Fusion360/Day2. STM32.md",
     "My Home Page.md",
     "20. Lecture Note/Arduino and ESP32/아두이노/KakaoTalk_20240711_133830673.mp4.md",
     "20. Lecture Note/Arduino and ESP32/아두이노/RGB%EB%B0%94%EA%B7%80%EA%B8%B0.mp4.md",
