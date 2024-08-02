@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "1. 3D Point Cloud",
+      "path": "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md"
+    },
+    {
       "basename": "Day1. STM32",
       "path": "20. Lecture Note/STM32 and Fusion360/Day1. STM32.md"
     },
@@ -87,10 +91,6 @@
     {
       "basename": "2. 3D Data Acquisition (Passive)",
       "path": "20. Lecture Note/3D Point Cloud Data Processing/2. 3D Data Acquisition (Passive).md"
-    },
-    {
-      "basename": "1. 3D Point Cloud",
-      "path": "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md"
     },
     {
       "basename": "Python and CV",
