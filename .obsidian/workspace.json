@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. Subject/STM32 and Fusion360.md",
+                "file": "20. Lecture Note/Arduino and ESP32/Day4. Arduino and ESP32.md",
                 "mode": "preview",
                 "source": true
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. Subject/STM32 and Fusion360.md",
+                "file": "20. Lecture Note/Arduino and ESP32/Day4. Arduino and ESP32.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10. Subject/STM32 and Fusion360.md",
+                "file": "20. Lecture Note/Arduino and ESP32/Day4. Arduino and ESP32.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. Subject/STM32 and Fusion360.md"
+                "file": "20. Lecture Note/Arduino and ESP32/Day4. Arduino and ESP32.md"
               }
             }
           },
@@ -184,6 +184,9 @@
   },
   "active": "ea88e80a98173dc6",
   "lastOpenFiles": [
+    "20. Lecture Note/Arduino and ESP32/아두이노/아두이노 4일차 오후.md",
+    "20. Lecture Note/Arduino and ESP32/Day4. Arduino and ESP32.md",
+    "10. Subject/STM32 and Fusion360.md",
     "My Home Page.md",
     "10. Subject/3D Point Cloud Data Processing.md",
     "20. Lecture Note/Linear Algebra/4. Vector Applications.md",
@@ -196,8 +199,6 @@
     "99. Attachment/Fusion360 and STM32/Fusion360, STM32.pdf",
     "99. Attachment/Fusion360 and STM32",
     "99. Attachment/새 폴더",
-    "20. Lecture Note/Arduino and ESP32/Day4. Arduino and ESP32.md",
-    "20. Lecture Note/Arduino and ESP32/아두이노/아두이노 4일차 오후.md",
     "20. Lecture Note/Arduino and ESP32/아두이노/아두이노 4일차 오전.md",
     "20. Lecture Note/Arduino and ESP32/Day3. Arduino and ESP32.md",
     "20. Lecture Note/Arduino and ESP32/아두이노/아두이노 3일차.md",
@@ -213,7 +214,6 @@
     "20. Lecture Note/Arduino and ESP32/아두이노/아두이노 8일차 오후.md",
     "20. Lecture Note/Arduino and ESP32/아두이노/아두이노 8일차 오전.md",
     "20. Lecture Note/Arduino and ESP32/아두이노/아두이노 7일차 오후.md",
-    "20. Lecture Note/Arduino and ESP32/아두이노/아두이노 7일차 오전.md",
     "20. Lecture Note/STM32 and Fusion360",
     "무제 파일 1.canvas",
     "무제 파일 2.canvas",
