@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a0b9b13f36b03dc7",
+        "id": "8ce516b46ae2df94",
         "type": "tabs",
         "children": [
           {
-            "id": "27377a5a1443da84",
+            "id": "ea88e80a98173dc6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. Subject/3D Point Cloud Data Processing.md",
+                "file": "10. Subject/STM32 and Fusion360.md",
                 "mode": "preview",
                 "source": true
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. Subject/3D Point Cloud Data Processing.md",
+                "file": "10. Subject/STM32 and Fusion360.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10. Subject/3D Point Cloud Data Processing.md",
+                "file": "10. Subject/STM32 and Fusion360.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. Subject/3D Point Cloud Data Processing.md"
+                "file": "10. Subject/STM32 and Fusion360.md"
               }
             }
           },
@@ -182,12 +182,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "27377a5a1443da84",
+  "active": "ea88e80a98173dc6",
   "lastOpenFiles": [
+    "My Home Page.md",
+    "10. Subject/3D Point Cloud Data Processing.md",
     "20. Lecture Note/Linear Algebra/4. Vector Applications.md",
     "20. Lecture Note/Linear Algebra/3. Vector Part2.md",
     "20. Lecture Note/Linear Algebra/2. Vector Part1.md",
-    "10. Subject/3D Point Cloud Data Processing.md",
     "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md",
     "20. Lecture Note/STM32 and Fusion360/Day1. STM32.md",
     "20. Lecture Note/STM32 and Fusion360/Day2. STM32.md",
@@ -205,7 +206,6 @@
     "20. Lecture Note/Arduino and ESP32/Day1. Arduino and ESP32.md",
     "20. Lecture Note/Arduino and ESP32/아두이노/아두이노 1일차.md",
     "Robotics and AI.md",
-    "My Home Page.md",
     "20. Lecture Note/Arduino and ESP32/아두이노/KakaoTalk_20240711_133830673.mp4.md",
     "20. Lecture Note/Arduino and ESP32/아두이노/RGB%EB%B0%94%EA%B7%80%EA%B8%B0.mp4.md",
     "20. Lecture Note/Arduino and ESP32/아두이노/아두이노 9일차 오후.md",
