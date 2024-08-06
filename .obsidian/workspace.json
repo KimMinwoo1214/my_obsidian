@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. Subject/3D Point Cloud Data Processing.md",
+                "file": "20. Lecture Note/Python ML/Data Handling -Numpy.md",
                 "mode": "preview",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. Subject/3D Point Cloud Data Processing.md",
+                "file": "20. Lecture Note/Python ML/Data Handling -Numpy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10. Subject/3D Point Cloud Data Processing.md",
+                "file": "20. Lecture Note/Python ML/Data Handling -Numpy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. Subject/3D Point Cloud Data Processing.md"
+                "file": "20. Lecture Note/Python ML/Data Handling -Numpy.md"
               }
             }
           },
@@ -165,8 +165,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0438e52239b38f49",
+  "active": "efa4f9e7ad7f389c",
   "lastOpenFiles": [
+    "20. Lecture Note/Python ML/Linear Algebra Basic.md",
+    "20. Lecture Note/Arduino and ESP32/아두이노/아두이노 3일차.md",
+    "20. Lecture Note/Arduino and ESP32/아두이노/아두이노 1일차.md",
+    "10. Subject/3D Point Cloud Data Processing.md",
     "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md",
     "20. Lecture Note/3D Point Cloud Data Processing/2. 3D Data Acquisition (Passive).md",
     "My Home Page.md",
@@ -189,9 +193,6 @@
     "기초 개념/Epipole.md",
     "기초 개념/Epipolar.md",
     "기초 개념/Epipolar Plane.md",
-    "기초 개념/Epipolar Line.md",
-    "기초 개념/Camera.md",
-    "기초 개념/Calibration.md",
     "기본 학습.canvas",
     "99. Attachment/Point Cloud/pinhole_image.png",
     "99. Attachment/Point Cloud/account_for_world_origin.png",
@@ -205,7 +206,6 @@
     "99. Attachment/Arduino and ESP32/Untitled 71.png",
     "99. Attachment/Arduino and ESP32/Untitled 70.png",
     "99. Attachment/Arduino and ESP32/20240717_164942.mp4",
-    "20. Lecture Note/Arduino and ESP32/Day 1. Arduino Basic.md",
     "99. Attachment/Arduino and ESP32",
     "20. Lecture Note/Arduino and ESP32",
     "30. Assignment/LinearAlgebra/CH.6/HW_02.m",
