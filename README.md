@@ -30,7 +30,7 @@ In KG Kairos, I reviewed thoroughly basic Python concepts and learned about Open
 
 ### Arduino and ESP32
 #### [Arduino and ESP32](https://github.com/KimMinwoo1214/my_obsidian/tree/main/20.%20Lecture%20Note/Arduino%20and%20ESP32/%EC%95%84%EB%91%90%EC%9D%B4%EB%85%B8)
-At KG Kairos, I thoroughly reviewed Arduino examples and first learned about the ESP32. I built a balancing robot using Arduino and created a website using the ESP32, and etc.
+At KG Kairos, I thoroughly reviewed Arduino examples and first learned about the ESP32. I built a balancing robot using Arduino and created a website using the ESP32, etc.
 <br/>
 </div>
 
