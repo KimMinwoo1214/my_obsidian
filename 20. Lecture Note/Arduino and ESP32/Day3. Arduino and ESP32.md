@@ -1,0 +1,857 @@
+---
+tags: []
+aliases: 
+type: lecture-note
+created: 2024-08-02
+reviewed: false
+notices: false
+summary: false
+---
+### **Subject**:: [[]]
+### **Week**:: 
+
+**이전 강의 노트**: [[]]
+
+### 강의자료: 
+
+# 강의필기 (Lecture Notes)
+<br>
+
+
+
+아두이노는 네트워크가 없어서 ESP32도 사용한다
+
+그 다음 센서라는 것을 배운다. 
+여기는 이론 쪽을 많이 배운다. 
+
+그다음 로봇암을 만들어 본다. 최초의 making
+
+벨런싱은 PID control이라고 한다.
+
+이번엔 우리가 파이썬으로 UI를 만들어서 wifi로 동작해본다.
+
+여기까지 하면 저렴하게 만들었다 뿐이지 모든 걸 만들어 본 것이다.
+
+수업시작
+
+![Untitled](Untitled%2024.png)
+
+초음파 센서 : 한 쪽은 마이크 이고 한쪽은 스피커 이다.
+
+우리가 신호를 주면 8번 소리를 냄, 그다음 이것을 다시 받아서 그 신호로 거리를 측정함.
+
+byte 는 작은 숫자
+
+int는 무난한숫자
+
+long는 큰 숫자
+
+pulseIn
+
+핀에서 펄스(HIGH 또는 LOW)를 읽습니다. 예를 들어, **`value`** 가 **`HIGH`** 이면, **`pulseIn()`** 은 핀이 HIGH` 가 될 때까지 기다리고, 타이머를 시작하고, 핀이 **`LOW`** 가 될 때까지 기다리고 타이머를 멈춥니다. 펄스의 길이를 마이크로초 단위로 반환합니다. 정해진 timeout 안에 펄스가 시작되지 않으면 0을 반환합니다. 이 함수의 타이머는 경험적으로 결정되고, 긴 펄스에 대해 오류를 낼 수도 있습니다. 10 마이크로초부터 3분까지의 길이의 펄스에 대해 동작합니다.
+
+**`pulseIn(pin, value)`**
+
+**`pulseIn(pin, value, timeout)`**
+
+이런 방식으로 쓴다.
+
+값이 한 번씩 튀는 것을 확인하는 법
+
+filter를 사용해서 확인 - 이전 값이 필요
+
+다 chatgpt를 사용
+
+```arduino
+const int trigPin = 9;     // Trig 핀
+const int echoPin = 10;    // Echo 핀
+const int ledPin = 13;     // 경고 LED 핀
+
+long duration;
+int distance;
+const int thresholdDistance = 10; // 감지 거리 임계값 (센티미터)
+const int detectionTime = 3000;   // 감지 시간 임계값 (밀리초)
+unsigned long detectedTime;
+
+void setup() {
+  pinMode(trigPin, OUTPUT);
+  pinMode(echoPin, INPUT);
+  pinMode(ledPin, OUTPUT);
+  Serial.begin(9600);
+  detectedTime = 0;
+}
+
+void loop() {
+  // 초음파 신호 전송
+  digitalWrite(trigPin, LOW);
+  delayMicroseconds(2);
+  digitalWrite(trigPin, HIGH);
+  delayMicroseconds(10);
+  digitalWrite(trigPin, LOW);
+
+  // Echo 핀에서 신호 수신
+  duration = pulseIn(echoPin, HIGH);
+  
+  // 거리를 센티미터로 변환
+  distance = duration * 0.034 / 2;
+
+  // 거리 확인 및 시간 측정
+  if (distance < thresholdDistance) {
+    if (detectedTime == 0) {
+      detectedTime = millis();
+    } else if (millis() - detectedTime >= detectionTime) {
+      digitalWrite(ledPin, HIGH); // 경고 LED 켜기
+    }
+  } else {
+    detectedTime = 0;
+    digitalWrite(ledPin, LOW); // 경고 LED 끄기
+  }
+
+  // 디버그용 시리얼 출력
+  Serial.print("Distance: ");
+  Serial.print(distance);
+  Serial.println(" cm");
+
+  delay(100);
+}
+```
+
+일정 거리에 따라 경고하는 LED점등.
+
+# 칼만 필터가 무엇인지 확인
+
+# - 위치를 입력 값으로 해서 추적한다
+
+칼만 필터(Kalman Filter)는 1960년에 Rudolf E. Kalman에 의해 소개된 알고리즘으로, 시간에 따라 변하는 시스템의 상태를 추정하는 데 사용됩니다. 칼만 필터는 특히 시스템의 상태를 노이즈가 있는 관측치와 결합하여 보다 정확하게 추정할 때 유용합니다. 주로 제어 시스템, 내비게이션 시스템, 로보틱스, 금융 등의 분야에서 사용됩니다.
+
+### 기본 개념
+
+칼만 필터는 선형 역학 시스템의 상태 추정을 위한 반복 알고리즘입니다. 이 시스템은 다음과 같은 두 가지 방정식으로 표현됩니다:
+
+1. **상태 방정식 (State Equation):** xk=Fk−1xk−1+Bk−1uk−1+wk−1
+    $$
+     x_k=F_k−1x_k−1+B_k−1u_k−1+w_k−1x_{k} = F_{k-1} x_{k-1} + B_{k-1} u_{k-1} + w_{k-1}
+    $$
+    - xkx_kxk: 시점 k에서의 상태 벡터
+    - Fk−1F_{k-1}Fk−1​: 상태 전이 행렬
+    - Bk−1B_{k-1}Bk−1​: 제어 입력 행렬
+    - uk−1u_{k-1}uk−1​: 제어 입력 벡터
+    - wk−1w_{k-1}wk−1​: 프로세스 노이즈 (평균이 0인 가우시안 노이즈)
+2. **관측 방정식 (Measurement Equation):
+	**zk​=Hk​xk​+vk**​
+	$$    
+    zk=Hkxk+vkz_{k} = H_{k} x_{k} + v_{k}
+    $$
+    $$
+    - zkz_kzk​: \text{ 시점 k에서의 관측 벡터}
+        
+        kk
+        
+    - H_kH_{k}H_k​: \text{ 관측 행렬}
+    - v_kv_{k}v_k​: \text{ 관측 노이즈 (평균이 0인 가우시안 노이즈)}
+	$$
+### 알고리즘 단계
+
+칼만 필터 알고리즘은 예측(prediction)과 갱신(update)의 두 단계로 구성됩니다.
+
+1. **예측 단계:**
+    - 상태 예측:
+    - $$
+    x^k∣k−1​=Fk−1​x^k−1∣k−1​+Bk−1​uk−1​
+    $$
+    $$
+        x^k∣k−1 = F_k−1x^k−1∣k−1+B_k−1u_k−1\hat{x}_{k|k-1} = F_{k-1} \hat{x}_{k-1|k-1} + B_{k-1} u_{k-1}
+    $$  
+    - 오차 공분산 예측:
+    $$
+    P_k∣k−1​= F_k−1​P_{k−1}∣k−1​F_k−1T​+Q_k−1​
+    $$
+	$$
+	Pk∣k−1=Fk−1Pk−1∣k−1Fk−1T+Qk−1P_{k|k-1} = F_{k-1} P_{k-1|k-1} F_{k-1}^T + Q_{k-1}
+	$$
+	
+	$$
+	- x^k∣k−1\hat{x}_{k|k-1}x^k∣k−1​: \text{시점 k에서의 예측 상태}
+	$$
+	
+	$$
+	- P_k∣k−1P_{k|k-1}Pk∣k−1​: \text{시점 k에서의 예측 오차 공분산}
+	$$
+		
+	$$
+	- Q_k−1Q_{k-1}Qk−1​: \text{ 프로세스 노이즈 공분산}
+	$$
+		
+1. **갱신 단계:**
+    - 칼만 이득 계산:
+    - $$
+    Kk​=Pk∣k−1​HkT​(Hk​Pk∣k−1​HkT​+Rk​)−1
+	$$
+	
+	$$
+        Kk=Pk∣k−1HkT(HkPk∣k−1HkT+Rk)−1K_{k} = P_{k|k-1} H_{k}^T (H_{k} P_{k|k-1} H_{k}^T + R_{k})^{-1}
+        
+        - KkK_{k}Kk​: 칼만 이득
+        - RkR_{k}Rk​: 관측 노이즈 공분산
+    $$
+    - 상태 갱신:
+    $$
+    x^k∣k​=x^k∣k−1​+Kk​(zk​−Hk​x^k∣k−1​)
+    $$ 
+    $$
+        x^k∣k=x^k∣k−1+Kk(zk−Hkx^k∣k−1)\hat{x}_{k|k} = \hat{x}_{k|k-1} + K_{k} (z_{k} H_{k} \hat{x}_{k|k-1})
+	$$ 
+    - 오차 공분산 갱신:
+    $$
+    Pk∣k​=(I−Kk​Hk​)Pk∣k−1
+    $$
+    ​
+    $$ 
+	Pk∣k=(I−KkHk)Pk∣k−1P_{k|k} = (I - K_{k} H_{k}) P_{k|k-1}
+	$$
+	
+	$$
+	x^k∣k\hat{x}_{k|k}x^k∣k​: 시점 k에서의 갱신된 상태 추정값
+	$$
+	$$
+	Pk∣kP_{k|k}Pk∣k​: 시점 k에서의 갱신된 오차 공분산
+	$$    
+
+### 특징 및 장점
+
+- **실시간 추정:** 칼만 필터는 실시간으로 상태를 추정할 수 있어, 제어 및 내비게이션 시스템 등에 적합합니다.
+- **효율성:** 계산량이 비교적 적어 빠르게 실행될 수 있습니다.
+- **최적화:** 가우시안 노이즈가 있는 시스템에서는 최적의 상태 추정값을 제공합니다.
+
+### 적용 분야
+
+- **제어 시스템:** 예를 들어, 드론의 위치 제어, 로봇의 움직임 추적 등에 사용됩니다.
+- **내비게이션 시스템:** GPS 신호를 기반으로 차량의 위치 추정 등에 사용됩니다.
+- **경제 및 금융:** 시장 데이터를 기반으로 미래 가격 예측 등에 사용됩니다.
+- **신호 처리:** 레이더 신호, 통신 신호의 필터링 등에 사용됩니다.
+
+칼만 필터는 매우 강력한 도구로, 다양한 분야에서 시스템 상태를 정확하게 추정하는 데 중요한 역할을 합니다.
+
+```python
+import numpy as np
+
+# 초기화
+x = np.array([[0], [0]])  # 초기 상태 (위치와 속도)
+P = np.array([[1, 0], [0, 1]])  # 초기 오차 공분산
+F = np.array([[1, 1], [0, 1]])  # 상태 전이 행렬
+H = np.array([[1, 0]])  # 관측 행렬
+R = np.array([[1]])  # 관측 노이즈 공분산
+Q = np.array([[0.1, 0], [0, 0.1]])  # 프로세스 노이즈 공분산
+
+# 관측 데이터
+measurements = [1, 2, 3]
+
+for z in measurements:
+    # 예측 단계
+    x = F @ x
+    P = F @ P @ F.T + Q
+
+    # 갱신 단계
+    y = np.array([[z]]) - H @ x  # 잔차 계산
+    S = H @ P @ H.T + R  # 잔차 공분산
+    K = P @ H.T @ np.linalg.inv(S)  # 칼만 이득 계산
+    x = x + K @ y  # 상태 갱신
+    P = (np.eye(len(P)) - K @ H) @ P  # 오차 공분산 갱신
+
+    print(f"Updated state: {x.flatten()}")
+```
+
+### 설명
+
+1. **초기화**: 초기 상태 벡터 x와 오차 공분산 행렬 P을 설정합니다.
+2. **예측 단계**: 상태 전이 행렬 F를 사용하여 다음 상태를 예측하고, 예측 오차 공분산을 갱신합니다.
+3. **갱신 단계**: 관측 데이터를 사용하여 상태와 오차 공분산을 갱신합니다.
+4. **반복**: 새로운 관측 데이터가 들어올 때마다 예측과 갱신 단계를 반복합니다.
+
+이 예제는 1차원 위치와 속도를 추정하는 단순한 시스템을 다루지만, 더 복잡한 시스템에도 유사한 방식으로 적용할 수 있습니다. 시스템의 특성에 따라 행렬 FFF, HHH, QQQ, RRR를 조정하면 됩니다.
+
+저역통과 필터(Low-Pass Filter)는 특정 임계 주파수(cutoff frequency) 이하의 주파수 성분은 통과시키고, 그 이상의 주파수 성분은 감쇠시키는 필터입니다. 이는 전자공학, 신호처리, 음향학 등 여러 분야에서 사용됩니다. 저역통과 필터는 아날로그와 디지털 형태로 구현될 수 있으며, 다양한 응용에서 유용합니다.
+
+### 기본 원리
+
+저역통과 필터는 입력 신호에서 고주파 성분을 제거하고 저주파 성분만을 통과시키는 기능을 합니다. 이는 잡음 제거, 신호 평활화, 데이터 샘플링 전에 고주파 노이즈를 제거하는 등 여러 용도로 사용됩니다.
+
+### 유형
+
+저역통과 필터는 아날로그와 디지털 형태로 나눌 수 있습니다.
+
+### 아날로그 저역통과 필터
+
+1. **RC 저역통과 필터**: 가장 기본적인 형태의 아날로그 저역통과 필터입니다.
+    - 회로는 하나의 저항(R)과 하나의 커패시터(C)로 구성됩니다.
+    - 차단 주파수 fc​는 다음과 같이 계산됩니다:
+    $$
+    fc​=2πRC1​
+        
+        fcf_c
+        
+        fc=12πRCf_c = \frac{1}{2 \pi RC}
+	$$
+    - 주파수 응답:
+    $$
+    H(f)=1+jfc​f​1​
+    여기서 j는 허수 단위입니다.
+        
+        H(f)=11+jffcH(f) = \frac{1}{1 + j\frac{f}{f_c}}
+    $$
+        
+2. **RLC 저역통과 필터**: 저항(R), 인덕터(L), 커패시터(C)를 사용한 필터로, 더 가파른 차단 특성을 가집니다.
+
+### 디지털 저역통과 필터
+
+1. **이동 평균 필터 (Moving Average Filter)**: 가장 간단한 디지털 필터 중 하나로, 일정한 구간 동안의 평균값을 계산하여 신호를 평활화합니다.
+    - NNN개의 샘플에 대해:
+    y[n]=N1​k=0∑N−1​x[n−k]
+        
+        y[n]=1N∑k=0N−1x[n−k]y[n] = \frac{1}{N} \sum_{k=0}^{N-1} x[n-k]
+        
+2. **IIR 저역통과 필터**: 무한 임펄스 응답(Infinite Impulse Response) 필터로, 현재와 과거의 입력 및 출력 샘플을 사용하여 출력을 계산합니다.
+    - 예: 1차 Butterworth 필터
+    $$
+    y[n]=a0​x[n]+a1​x[n−1]+b1​y[n−1]
+        
+        y[n]=a0x[n]+a1x[n−1]+b1y[n−1]y[n] = a_0 x[n] + a_1 x[n-1] + b_1 y[n-1]
+	$$
+1. **FIR 저역통과 필터**: 유한 임펄스 응답(Finite Impulse Response) 필터로, 현재와 과거의 입력 샘플만을 사용하여 출력을 계산합니다.
+    - 예: 3차 FIR 필터
+    $$
+    y[n]=b0​x[n]+b1​x[n−1]+b2​x[n−2]+b3​x[n−3]
+    $$
+    $$  
+        y[n]=b0x[n]+b1x[n−1]+b2x[n−2]+b3x[n−3]y[n] = b_0 x[n] + b_1 x[n-1] + b_2 x[n-2] + b_3 x[n-3]
+	$$
+### 적용 사례
+
+- **오디오 처리**: 고주파 잡음을 제거하여 오디오 신호를 더 깨끗하게 합니다.
+- **이미지 처리**: 이미지에서 고주파 노이즈를 제거하여 더 부드럽게 보이게 합니다.
+- **통신 시스템**: 데이터 전송 중 고주파 간섭 신호를 제거합니다.
+- **제어 시스템**: 센서 데이터의 고주파 잡음을 제거하여 더 안정적인 제어를 구현합니다.
+
+### 주파수 응답
+
+저역통과 필터의 주파수 응답은 주파수에 따라 필터가 입력 신호를 얼마나 감쇠시키는지를 나타냅니다. 일반적으로, 저역통과 필터의 주파수 응답은 다음과 같은 특성을 가집니다:
+
+- 차단 주파수 이하: 필터가 거의 감쇠를 하지 않아 입력 신호를 거의 그대로 통과시킵니다.
+- 차단 주파수 이상: 필터가 신호를 감쇠시켜 고주파 성분을 제거합니다.
+
+### 설계 고려사항
+
+- **차단 주파수**: 필터가 어느 주파수까지 신호를 통과시킬지 결정합니다.
+- **필터 차수**: 필터의 급격한 성능 향상을 위해 필터 차수가 높아질수록 더 가파른 주파수 응답을 가집니다.
+- **필터 종류**: Butterworth, Chebyshev, Elliptic 등 다양한 필터 설계 방식이 있습니다. 각각의 방식은 주파수 응답 특성에서 차이가 있습니다.
+
+저역통과 필터는 신호처리에서 매우 중요한 도구로, 다양한 응용에서 필수적으로 사용됩니다.
+
+adafruit은 라이브러리도 만들고 센서도 만들어 주는 회사이다
+
+[https://www.adafruit.com/](https://www.adafruit.com/)
+
+이번엔 라이브러리를 이용해서 습도 센서 만져보기
+
+```arduino
+// DHT Temperature & Humidity Sensor
+// Unified Sensor Library Example
+// Written by Tony DiCola for Adafruit Industries
+// Released under an MIT license.
+
+// REQUIRES the following Arduino libraries:
+// - DHT Sensor Library: https://github.com/adafruit/DHT-sensor-library
+// - Adafruit Unified Sensor Lib: https://github.com/adafruit/Adafruit_Sensor
+
+#include <Adafruit_Sensor.h>
+#include <DHT.h>
+#include <DHT_U.h>
+
+#define DHTPIN 2     // Digital pin connected to the DHT sensor 
+// Feather HUZZAH ESP8266 note: use pins 3, 4, 5, 12, 13 or 14 --
+// Pin 15 can work but DHT must be disconnected during program upload.
+
+// Uncomment the type of sensor in use:
+//#define DHTTYPE    DHT11     // DHT 11
+#define DHTTYPE    DHT11//DHT22     // DHT 22 (AM2302)    // 이 부분을 22에서 11로 변경
+//#define DHTTYPE    DHT21     // DHT 21 (AM2301)
+
+// See guide for details on sensor wiring and usage:
+//   https://learn.adafruit.com/dht/overview
+
+DHT_Unified dht(DHTPIN, DHTTYPE);
+
+uint32_t delayMS;
+
+void setup() {
+  Serial.begin(9600);
+  // Initialize device.
+  dht.begin();
+  Serial.println(F("DHTxx Unified Sensor Example"));
+  // Print temperature sensor details.
+  sensor_t sensor;
+  dht.temperature().getSensor(&sensor);
+  Serial.println(F("------------------------------------"));
+  Serial.println(F("Temperature Sensor"));
+  Serial.print  (F("Sensor Type: ")); Serial.println(sensor.name);
+  Serial.print  (F("Driver Ver:  ")); Serial.println(sensor.version);
+  Serial.print  (F("Unique ID:   ")); Serial.println(sensor.sensor_id);
+  Serial.print  (F("Max Value:   ")); Serial.print(sensor.max_value); Serial.println(F("°C"));
+  Serial.print  (F("Min Value:   ")); Serial.print(sensor.min_value); Serial.println(F("°C"));
+  Serial.print  (F("Resolution:  ")); Serial.print(sensor.resolution); Serial.println(F("°C"));
+  Serial.println(F("------------------------------------"));
+  // Print humidity sensor details.
+  dht.humidity().getSensor(&sensor);
+  Serial.println(F("Humidity Sensor"));
+  Serial.print  (F("Sensor Type: ")); Serial.println(sensor.name);
+  Serial.print  (F("Driver Ver:  ")); Serial.println(sensor.version);
+  Serial.print  (F("Unique ID:   ")); Serial.println(sensor.sensor_id);
+  Serial.print  (F("Max Value:   ")); Serial.print(sensor.max_value); Serial.println(F("%"));
+  Serial.print  (F("Min Value:   ")); Serial.print(sensor.min_value); Serial.println(F("%"));
+  Serial.print  (F("Resolution:  ")); Serial.print(sensor.resolution); Serial.println(F("%"));
+  Serial.println(F("------------------------------------"));
+  // Set delay between sensor readings based on sensor details.
+  delayMS = sensor.min_delay / 1000;
+}
+
+void loop() {
+  // Delay between measurements.
+  delay(delayMS);
+  // Get temperature event and print its value.
+  sensors_event_t event;
+  dht.temperature().getEvent(&event);
+  if (isnan(event.temperature)) {
+    Serial.println(F("Error reading temperature!"));
+  }
+  else {
+    Serial.print(F("Temperature: "));
+    Serial.print(event.temperature);
+    Serial.println(F("°C"));
+  }
+  // Get humidity event and print its value.
+  dht.humidity().getEvent(&event);
+  if (isnan(event.relative_humidity)) {
+    Serial.println(F("Error reading humidity!"));
+  }
+  else {
+    Serial.print(F("Humidity: "));
+    Serial.print(event.relative_humidity);
+    Serial.println(F("%"));
+  }
+}
+```
+
+#define DHTTYPE    DHT11//DHT22     // DHT 22 (AM2302)    // 이 부분을 22에서 11로 변경
+
+제픔 번호가 11이라서 22가 아닌 11로 변경
+
+![1.jpg](1%201.jpg)
+
+이런 모습의 온도 습도 센서
+
+아두이노가 우리에게 어떤 영향을 미치는가
+
+로봇은 프로토 타입이 매우 중요하다. 이유는? 다양한장비들이 잘 돌아가는지 빨리 확인해야 하기에.
+
+이떄 아두이노는 매우 라이브러리가 많아서 이게 매우 빠르다. 모든것을 각자 할 필요 없이 혼자 만들어도 하루면 만든다.
+
+온도 센서를 다루는 것 보다. 이런 라이브러리를 잘 다루는 것이 매우 중요하다.
+
+Struct(구조체) : 구조체는 Class의 아버지쯤 된다. 
+
+데이터를 저장하는 방식의 일종이다.
+
+call by reference
+
+call by value를 아는 게 다른 것을 이해 하는 게 좋다.
+
+```python
+#include <stdio.h>
+
+struct Person {
+    char name[50];
+    int age;
+    float height;
+};
+
+int main() {
+    struct Person person1;
+
+    // 구조체 멤버에 값 할당
+    strcpy(person1.name, "Alice");
+    person1.age = 30;
+    person1.height = 5.5;
+
+    // 구조체 멤버 값 출력
+    printf("Name: %s\n", person1.name);
+    printf("Age: %d\n", person1.age);
+    printf("Height: %.2f\n", person1.height);
+
+    return 0;
+}
+
+int main() {
+    struct Person people[3] = {
+        {"Alice", 30, 5.5},
+        {"Bob", 25, 5.8},
+        {"Charlie", 35, 6.0}
+    };
+
+    for(int i = 0; i < 3; i++) {
+        printf("Person %d\n", i+1);
+        printf("Name: %s\n", people[i].name);
+        printf("Age: %d\n", people[i].age);
+        printf("Height: %.2f\n\n", people[i].height);
+    }
+
+    return 0;
+}
+
+int main() {
+    struct Person person2 = {"Dave", 28, 5.9};
+    struct Person *ptr = &person2;
+
+    // 구조체 포인터를 사용하여 값 접근
+    printf("Name: %s\n", ptr->name);
+    printf("Age: %d\n", ptr->age);
+    printf("Height: %.2f\n", ptr->height);
+
+    return 0;
+}
+```
+
+장애물 회피 모듈
+
+적외선 센서는 능동식과 수동식이 있다. 보통 수동식이 비싸다.
+
+물체에서 나오는 것을 감지하는 센서 들은  대부분은 분사형인데 이것들은 거리를 계속 측정해야 하기에 비싸다.
+
+우리가 쓰는 것은 능동식이다.  정해진 거리를 측정한다. 정확히 만하면 빛은 사용하기에 정확한 거리를 알지는 못하고 반사되는 신호가 있다 없다 만 알 수 있다.
+
+보통 이런 것들은 검은 선을 따라가는 것을 만들 때 사용한다.
+
+
+일단 센서를 연결하면 코드를 따로 짜지 않아도 센서가 작동하는지 안 하는 지를 알 수 있다.
+
+적외선을 이용한 센서이다.
+
+![Untitled](Untitled%2025.png)
+
+![Untitled](Untitled%2026.png)
+
+인식하면 0, 없으면 1이 나온다.
+
+전류가 흐르지 않으면 전압 강하가 없다.
+
+입력은 무한대의 저항이다. 입력 쪽은 전류가 흐르지 않는다. 
+
+PULL UP
+
+내가 측정하는 거 기준 저항이 위에 있을 때
+
+높은 전압에 연결되어 있는 저항
+
+평상시에는 1(HIGH) 스위치를 누르면 0(LOW)
+
+PULL DOWN
+
+내가 측정하는 거 기준 저항이 아래에 있을 때
+
+낮은 전압에 연결되어 있는 저항
+
+평상시에는 0(LOW) 스위치를 누르면 1(HIGH)
+
+Floating
+
+연결되어있지 않은 상태
+
+전류가 흐르는지 알 수 없는 상태
+
+불안정, 노이즈, 정전기에 취약, 오류를 일으킬 가능성이 높은 상태
+
+그래서 이걸 막으려고  PULL UP, PULL DOWN저항을 사용함.
+
+![Untitled](Untitled%2027.png)
+
+GPIO : 아두이노의 칩들은 V를 변경함에 따라 측정한다. 여기서는 5V, 3.3V가 있다.
+
+Gener Perpose Input Output pin
+
+Digital - 0 - GND
+
+Digital - 1 - 5V
+
+Analog - Write = 출력 , - PWM - 
+
+Analog - Read = 이게 진정한 analog, 입력은 무한대 이므로 저항을 신경쓰지 않아도 됨.  - 아무리 작은 아날로그라도 읽을 수는 있다. A0 ~ A6 까지 나누어져 있다.
+
+```arduino
+int ENCODER = 2;
+
+volatile int count = 0;
+unsigned long oldTime = 0;
+unsigned long newTime = 0;
+
+void ISRencoder(){
+  count++;
+}
+
+void setup() {
+  Serial.begin(115200);
+  pinMode(ENCODER,INPUT_PULLUP);
+  attachInterrupt(INT0,ISRencoder,FALLING);  // interrupt 이전에 실행하던 것을 잠시 멈추고 이것 부터 먼저 실행 시키는 것
+}                                            // 우리가 2번 핀을 활성화 하려고 했으므로 INT0을 적어야 한다.
+                                             // 만약 3번 핀을 활성화 하려면 INT1을 적어야 한다.
+void loop() {
+  newTime = millis();
+  if(newTime-oldTime > 1000){
+    oldTime = newTime;
+    noInterrupts();
+    Serial.println(count);
+    //count = 0;
+    interrupts();
+  }
+}
+```
+
+![Untitled](Untitled%2028.png)
+
+엔코더는 일종의 회전체가 회전하는 정도에 따라 구멍을 통해 나오는 빛이 신호를 주는 횟수를 카운팅해서 기울어진 각도를 측정할 수 있다. 
+
+보통 벨런싱 로봇에서 많이 사용한다.
+
+![4.jpg](4.jpg)
+
+엔코더 사진
+
+interrupt - 이전에 실행 하던 것을 잠시 멈추고 interupt의 임무를 수행하고 다시 원래 실행하던 것으로 돌아와라.
+
+```arduino
+int ENCODER = 2;
+
+volatile int count = 0;
+unsigned long oldTime = 0;
+unsigned long newTime = 0;
+
+void ISRencoder(){                            // interupt service rencoder라는 이름
+  count++;
+}
+
+void setup() {
+  Serial.begin(115200);
+  pinMode(ENCODER,INPUT_PULLUP);
+  attachInterrupt(INT0,ISRencoder,FALLING);  // interrupt 이전에 실행하던 것을 잠시 멈추고 이것 부터 먼저 실행 시키는 것
+}                                            // 우리가 2번 핀을 활성화 하려고 했으므로 INT0을 적어야 한다.
+                                            // 만약 3번 핀을 활성화 하려면 INT1을 적어야 한다.
+void loop() {
+  newTime = millis();
+  if(newTime-oldTime > 1000){
+    oldTime = newTime;
+    noInterrupts();           // 이 사이에는 interupt가 생기지 않음.
+    Serial.println(count);
+    //count = 0;
+    interrupts();             // 이 사이에는 interupt가 생기지 않음.
+  }
+}
+```
+
+이 코드의 경우에는 interupt없이 카운트 할 수도 있지만, 만양 중간에 color detector가 끼어든다면, 원래 코드가 1에서 0으로 갈때 측정하는 것이였으므로 카운트를 다 의미없게 만들어 버린다.
+
+```arduino
+attachInterrupt(INT0,ISRencoder,FALLING);
+```
+
+여기서 INT0는  2번 핀을 이용한다는 것이다.
+
+ISRencoder는 interupt를 하는 함수를 나타내는 것이다.
+
+FALLING은 1에서 0으로 값이 변할 때 interupt한다는 것이다.
+
+모터 제어
+
+모션을 인식 시킬 때 원래는 동역학적으로 해야하나, 그것을 어려움으로, 사람이 직접 조종하는 것의 모션을 인식해서 그대로 따라하게 한다. 즉 한계 무게 정도만 설계하고 나머지는 계속 교육만 시키면  동역학 없이 할 수 있다.
+
+모터의 종류
+
+[https://blog.naver.com/motor2662/223423534838](https://blog.naver.com/motor2662/223423534838)
+
+[https://blog.naver.com/samjinfa/222534775206](https://blog.naver.com/samjinfa/222534775206)
+
+![Untitled](Untitled%2029.png)
+
+## **[[DC 모터]]**
+
+- **고정자를 영구자석으로 사용**하고 **회전자(전기자)를 코일로 사용하여 구성한 것**으로 전기자에 흐르는 전류의 방향을 전환함으로써 자력의 반발, 흡인력으로 회전력을 생성시키는 모터입니다.
+- **DC 모터는 제어용 모터로써 매우 우수한 특성**을 가지고 있는데요.
+- 급격한 가속성, 큰 시동 토크 등 대부분 제어용 모터에 요구되는 모든 성능을 겸비한 우수한 모터입니다.
+- DC모터의 구조는 크게 Rotor(로터, 전기자), 계자용 마그넷, 브러시, 베어링 모터케이스 등으로 이루어져 있습니다.
+- 전기자는 회전력을 발생하고 모터의 회전체를 구성하며, 베어링은 로터의 회전구조를 형성하는 것인데 볼 베어링이나 오일리스 메탈이 사용되고 있습니다. 계좌용 마그넷은 전기자 권선에 자력을 주는 것이며 전기자에서 발생하는 전자기력과 함께 회전력을 발생시킵니다.
+
+## **[[AC모터]]**
+
+- **AC 모터는 동기기형(synchronous Type) 과 유도기기형(Induction Type) 으로** 나뉘는데 동기기형은 DC모터와 반대로 자석이 회전자에 부착되어 있고, 전기자 권선은 고정자축에 감기는 구조로 이루어져 있는데 이 구조는 BLDC 모터와동일합니다. 회전자의 영구자석이 있는 형태로 구조가 다소 복잡하고, 제어 시 회전자의 위치를 검출합니다.
+- 유동기형은 고정자측에 프레임과 고정자 코어, 전지가 권선에 있고 회전자는 샤프트, 회전자 코어 그리고 코어의 외경에 도전체가 조립된 구조를 이루고 있습니다.
+- 사용 전원 주파수에 의해 속도가 정해지며 **구조가 견고하고 취급이 쉽다는 장점과 기동 토크가 작아 적은힘으로도 구도잉 가능하다는 특징**을 가지고 있습니다.
+
+## **[[Step 모터]]**
+
+- **스텝모터는 스테핑모터 또는 펄스모터라고도 하며 펄스에 의한 제어로 일정한 각도의 회전이 쉬운 모터**입니다.
+- Step 은 단계적으로 움직이는 것을 의미하는데 스텝모터의 특징을 잘 표현해주고 있습니다.
+- **스텝모터는 모터의 회전 각도가 입력하는 펄스 신호에 정확히 일치되기 때문에 정확한 각도제어가 가능하고, 고유의**
+- **분할 각도가 존재하며 이 분할 각도를 이용하여 회전각도를 제어**하게 됩니다.
+- 스텝모터는 디지털 신호로 제어하므로 컴퓨터로 사용하기 쉽고, 특정 주파수에서 진동,공진이 발하기 쉽습니다.
+- 다만, 관성이 있는 부하에는 약하고, 고속 운전 시 탈조 발생이 쉽습니다.
+
+## **[[BLDC 모터]]**
+
+- **BLDC(Brshless Motor) 는 DC모터에서 브러시와 정류자(Commutatot)를 제거하고 전자적인 정류 기구를 설치한 모터**입니다. **BLDC모터의 작동원리는 DC모터와 같이 플레밍의 왼손 법칙으로 설명할 수 있으며 코일 또는 영구 자석의 어느 쪽이 회전해도 그 작동 원리는 같으나, BLDC 모터에는 정류자가 없기 때문에 이것을 대신하는 전자 정류 회로가 따로 필요**합니다.
+- 전자 정류 회로는 홀 소자 등의 자극 센서를 사용하며 마그넷 로터가 어느 위치에 있는가를 검지하고, 이 신호를 기초로 전자 회로를 제어하여 회전 자기장을 발생시킵니다. 이것이 BLDC의 구동회로인데 회로구성이 매우 복잡하게 되어 있기 때문에 보통 전용IC가 사용됩니다.
+- 구동 방식상 3상 유도 전동기의 특성과 유사하여, 저속 고속에서 토크가 비교적 높고 고속 회전도 가능하며 무접점의 반도체 소자로 코일의 전류를 드라이브 하는 관계입니다.
+- **수명이 매우 길고 소음과 전자적인 잡음을 거의 발생시키지 않으며 모터 드라이브 회로 자체에서 직접 속도조절을 할 수 있는 장점**이 있습니다.
+- 단점으로는 회전자에 영구자석을 사용하는 것으로서 완전 무접점의 모터를 실현하기 위한 것으로는 영구자석의 한계로 대용량의 모터 제작이 불가능하다는 단점을 가지고 있습니다.
+
+모터 실습.
+
+우리가 연결한 GRN과 5V는 AMS177에 연결 된다.
+
+```arduino
+int A_IA = 10;   
+int A_IB = 9;
+
+void setup() {
+  Serial.begin(115200);
+  pinMode(A_IA,OUTPUT);
+  pinMode(A_IB,OUTPUT);
+}
+
+void loop() {
+  if (Serial.available()>0) {                // 시리얼 모니터에서 무언갈 입력한다.
+    char c = Serial.read();
+    if(c=='f'){
+      analogWrite(A_IA,128);
+      analogWrite(A_IB,0);
+    }
+    else if(c=='b'){
+      analogWrite(A_IA,0);
+      analogWrite(A_IB,128);
+    }
+    else if(c=='s'){
+      analogWrite(A_IA,0);
+      analogWrite(A_IB,0);
+    }
+  }
+}
+```
+
+![7.jpg](7.jpg)
+
+f를 누르면 정방향 회전
+
+b를 누르면 역방향 회전
+
+s를 누르면 정지
+
+보통 모터에는 전압한계와 전류한계가 있다. 이걸 잘 맞춰야 장비가 손상되지 않고 잘 굴러간다.
+
+그래서 우리는 레귤레이터를 사용해서 전압을 조정한다.
+
+보통 모터나 센서를 잘못 설정할 경우 모터가 돌아가는 순간 모터는 5V이고 라즈베리파이는 3.3V이므로 터져버린다.
+
+ch340이라는 것이 우노에 달려있는 USB단자 이다.
+
+다음 버튼을 한번 누를 때마다 회전수를 늘리는 것을 코딩해보자!
+
+```arduino
+const int buttonPin = 2;    
+const int A_IA = 10;
+const int A_IB = 9;
+
+int DCspeed = 0;
+int buttonState = HIGH;  
+int lastButtonState = HIGH;  
+
+unsigned long lastDebounceTime = 0;     // 디바운스 타이머
+unsigned long debounceDelay = 50;       // 디바운스 지연 시간// 이시간을 기준으로 float상태를 구분
+
+void motor(int data){
+  analogWrite(A_IA,0);
+  analogWrite(A_IB,data);       // data == 모터의 속도
+}
+
+void setup() {
+  pinMode(A_IA,OUTPUT);
+  pinMode(A_IB,OUTPUT);
+  pinMode(buttonPin,INPUT_PULLUP);
+  analogWrite(A_IA,0);
+  analogWrite(A_IB,0);
+  Serial.begin(115200);
+}
+
+void loop(){
+  int reading = digitalRead(buttonPin);   //  버튼의 상태를 읽음  - 만약 버튼을 누르면 reading이 0이 된다
+  if (reading != lastButtonState) {       // 버튼을 누르면 여기 안들어가고 lastDebounceTime이 갱신되지 않는다. 즉 아래에 있는 debounceDelay와의 비교를 의미있게 만든다.
+    lastDebounceTime = millis();         // 디바운스 타이머 업데이트
+  }
+  if ((millis() - lastDebounceTime) > debounceDelay) {   // 여기서 millis()함수는 코드가 실행된 이후로 계속 시간을 측정하는 함수이다. 그래서 여기서 버튼을 누르는 것의 delay를 비교하여 실행한다.
+    if (reading != buttonState) {        // 원래 buttonState는 1이였다가 reading은 버튼이 눌림에 따라 1이 되므로 if문에 들어간다.
+      buttonState = reading;
+      Serial.println(reading);       // 평소에 1누르면 0이다.
+      Serial.println(buttonState);   // 평소에 1누르면 0이다.
+      if (buttonState == LOW) {        // PULL UP이랑 같은 방식이다. //////왜?/////
+        DCspeed += 120;
+        if(DCspeed >=300){      // 만약 속도가 300 이상이면 0으로 변경
+          DCspeed=0;
+        }
+        Serial.println(DCspeed);         // 속도 출력
+      }
+    }
+  }
+  lastButtonState = reading;   // 마지막 버튼상태 업데이트
+  motor(DCspeed);             // 모터의 속도 설정
+}
+```
+
+코드의 이해가 좀 오래걸렸다.
+
+모터란?
+
+모터의 종류
+
+- DC모터
+- 서보모터
+- 스태핑모터
+- BLDC모터
+
+모터는 중간에 쇳덩이가 있으며 주변에는 코일이 있다. 여기에 감겨있는 전류가 +-로 변함에 따라 마치 회전하는 것 처럼 보인다. 이걸로 모터를 회전하는 것과 같은 원리 이다.
+
+이걸 펴보면 자기부상열차와 같다.
+
+에스컬레이터 중에 사람이 앞에 가면 움직이는 에스컬레이터의 경우, 속도를 어떻게 빠르게 할까? 
+
+발전소에서 60HZ로 받은 전기를 정류로 비꾸었다가 인버터를 이용하여 직류를 더빠른 교류로 한번 더 바꾸어 준다.
+
+BLDC 모터는 정류로 한번 만드는 과정을 건너 뛰고 직류로 받은 것을 인버터로 바로 활용하는 것이다.
+
+보통 BLDC를 많이 사용한다. 하지만 비싸다.
+
+나중에 로봇암을 만들 때 엔코더를 이용해서 로봇암의 그립 범위를 지정해 버려서 감압 센서 같은 비용을 줄인다. 그냥 지정된 범위까지 줄이는 것을 목표로 해서 만들면 된다.
+
+모터 전원에서 공통접지를 만드는 이유
+
+나중에 브레드 보드의 양쪽을 모두 사용할 때 모든 부분의 전압을 같게 만들어 주어야 하므로 연결한다.
+## 공지사항
+<br>
+
+
+
+## 수업 내용
+
+
+# 다음 할 일(After Actions)
+## 작업 (Tasks)
+
+
+## 정리 (Summary)
+
+
+
