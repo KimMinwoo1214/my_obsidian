@@ -14,7 +14,7 @@ This includes vectors, applications, matrices, orthogonal matrices, GLM, least s
 <br/>
 </div>
 
-### Point Cloud
+### Point Cloud Data Processing
 #### [Point Cloud](https://github.com/KimMinwoo1214/my_obsidian/tree/main/20.%20Lecture%20Note/Point%20Cloud)
 Now, I am studying point clouds. 
 <br/>
