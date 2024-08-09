@@ -5,6 +5,14 @@
       "path": "20. Lecture Note/STM32 and Fusion360/Fusion360/Day2. Fusion 360.md"
     },
     {
+      "basename": "Shell",
+      "path": "20. Lecture Note/STM32 and Fusion360/Fusion360/Shell.md"
+    },
+    {
+      "basename": "Sweep",
+      "path": "20. Lecture Note/STM32 and Fusion360/Fusion360/Sweep.md"
+    },
+    {
       "basename": "Equal",
       "path": "기초 개념/Equal.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "3D Point Cloud Data Processing",
       "path": "10. Subject/3D Point Cloud Data Processing.md"
-    },
-    {
-      "basename": "Data Handling -Numpy",
-      "path": "20. Lecture Note/Python ML/Data Handling -Numpy.md"
-    },
-    {
-      "basename": "Linear Algebra Basic",
-      "path": "20. Lecture Note/Python ML/Linear Algebra Basic.md"
     }
   ],
   "omittedPaths": []
