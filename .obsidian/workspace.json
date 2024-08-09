@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20. Lecture Note/STM32 and Fusion360/Fusion360/Day2. Fusion 360.md",
+                "file": "20. Lecture Note/Linear Algebra/2. Vector Part1.md",
                 "mode": "preview",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20. Lecture Note/STM32 and Fusion360/Fusion360/Day2. Fusion 360.md",
+                "file": "20. Lecture Note/Linear Algebra/2. Vector Part1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20. Lecture Note/STM32 and Fusion360/Fusion360/Day2. Fusion 360.md",
+                "file": "20. Lecture Note/Linear Algebra/2. Vector Part1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20. Lecture Note/STM32 and Fusion360/Fusion360/Day2. Fusion 360.md"
+                "file": "20. Lecture Note/Linear Algebra/2. Vector Part1.md"
               }
             }
           },
@@ -165,12 +165,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "efa4f9e7ad7f389c",
+  "active": "383975af3823c797",
   "lastOpenFiles": [
-    "기초 개념/Share.md",
-    "20. Lecture Note/STM32 and Fusion360/Fusion360/Day2. Fusion 360.md",
-    "기초 개념/Shortcut.md",
+    "20. Lecture Note/Linear Algebra/1. Introduce.md",
+    "20. Lecture Note/Linear Algebra/5. Matrices Part1.md",
+    "20. Lecture Note/3D Point Cloud Data Processing/2. 3D Data Acquisition (Passive).md",
+    "20. Lecture Note/Linear Algebra/2. Vector Part1.md",
     "20. Lecture Note/STM32 and Fusion360/Fusion360/Day1. Fusion360.md",
+    "20. Lecture Note/STM32 and Fusion360/Fusion360/Day2. Fusion 360.md",
+    "기초 개념/Share.md",
+    "기초 개념/Shortcut.md",
     "기초 개념/View.md",
     "기초 개념/Copy.md",
     "기초 개념/Move.md",
@@ -190,12 +194,8 @@
     "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md",
     "20. Lecture Note/STM32 and Fusion360/Fusion360",
     "20. Lecture Note/STM32 and Fusion360/STM32",
-    "20. Lecture Note/Linear Algebra/2. Vector Part1.md",
     "20. Lecture Note/Linear Algebra/8. Matrix Inverse.md",
     "20. Lecture Note/Linear Algebra/7. Matrix Applications.md",
-    "20. Lecture Note/Linear Algebra/6. Matrices Part2.md",
-    "20. Lecture Note/Linear Algebra/5. Matrices Part1.md",
-    "20. Lecture Note/Linear Algebra/4. Vector Applications.md",
     "99. Attachment/Point Cloud/Ch.2/projective_reconstruction.png",
     "99. Attachment/Point Cloud/Ch.2/pinhole_image.png",
     "99. Attachment/Point Cloud/Ch.2/account_for_world_origin.png",
