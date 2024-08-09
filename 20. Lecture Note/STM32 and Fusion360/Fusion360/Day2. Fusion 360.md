@@ -42,6 +42,14 @@ Share File Link를 눌러 링크를 통해 공유가 가능하다.
 화살표를 눌러 특정 방향으로 이동이 가능하다.
 회전을 시킬 수 있으며 네모를 선택해 자유로운 이동이 가능하다. 
 
+### [[Slot]]
+단축키 없음
+1. Center to Center Slot
+	- 두 점을 찍어 Slot을 그린다. 이 때 두 점은 양 쪽 반 원의 중심으로 각도 설정이 가능하고 종속을 시키기 위해서는 반지름과 두 점 사이의 거리를 정의해야 한다.
+2. Overall Slot
+3. Center Point Slot
+4. Three Point Arc Slot
+5. Center Point Arc Slot
 ## 공지사항
 <br>
 

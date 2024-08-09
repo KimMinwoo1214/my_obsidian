@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20. Lecture Note/Linear Algebra/8. Matrix Inverse.md",
-                "mode": "preview",
+                "file": "20. Lecture Note/STM32 and Fusion360/Fusion360/Day2. Fusion 360.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20. Lecture Note/Linear Algebra/8. Matrix Inverse.md",
+                "file": "20. Lecture Note/STM32 and Fusion360/Fusion360/Day2. Fusion 360.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20. Lecture Note/Linear Algebra/8. Matrix Inverse.md",
+                "file": "20. Lecture Note/STM32 and Fusion360/Fusion360/Day2. Fusion 360.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20. Lecture Note/Linear Algebra/8. Matrix Inverse.md"
+                "file": "20. Lecture Note/STM32 and Fusion360/Fusion360/Day2. Fusion 360.md"
               }
             }
           },
@@ -167,6 +167,7 @@
   },
   "active": "383975af3823c797",
   "lastOpenFiles": [
+    "20. Lecture Note/Linear Algebra/8. Matrix Inverse.md",
     "20. Lecture Note/Linear Algebra/7. Matrix Applications.md",
     "20. Lecture Note/Linear Algebra/6. Matrices Part2.md",
     "기초 개념/Applications.md",
@@ -193,7 +194,6 @@
     "기초 개념/Extrude.md",
     "기초 개념/Sketch.md",
     "20. Lecture Note/STM32 and Fusion360/STM32/Day2. STM32.md",
-    "20. Lecture Note/STM32 and Fusion360/STM32/Day1. STM32.md",
     "20. Lecture Note/STM32 and Fusion360/Fusion360",
     "20. Lecture Note/STM32 and Fusion360/STM32",
     "99. Attachment/Point Cloud/Ch.2/projective_reconstruction.png",
