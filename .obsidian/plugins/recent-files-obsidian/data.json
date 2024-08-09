@@ -5,6 +5,14 @@
       "path": "20. Lecture Note/STM32 and Fusion360/Fusion360/Day2. Fusion 360.md"
     },
     {
+      "basename": "Equal",
+      "path": "기초 개념/Equal.md"
+    },
+    {
+      "basename": "Collinear",
+      "path": "기초 개념/Collinear.md"
+    },
+    {
       "basename": "Day1. Fusion360",
       "path": "20. Lecture Note/STM32 and Fusion360/Fusion360/Day1. Fusion360.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Linear Algebra Basic",
       "path": "20. Lecture Note/Python ML/Linear Algebra Basic.md"
-    },
-    {
-      "basename": "Arduino and ESP32",
-      "path": "10. Subject/Arduino and ESP32.md"
-    },
-    {
-      "basename": "Python for ML",
-      "path": "10. Subject/Python for ML.md"
     }
   ],
   "omittedPaths": []

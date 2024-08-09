@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "20. Lecture Note/STM32 and Fusion360/Fusion360/Day2. Fusion 360.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -165,14 +165,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "983f6efc1fb68540",
+  "active": "efa4f9e7ad7f389c",
   "lastOpenFiles": [
+    "기초 개념/Equal.md",
+    "20. Lecture Note/STM32 and Fusion360/Fusion360/Day2. Fusion 360.md",
+    "기초 개념/Collinear.md",
     "20. Lecture Note/STM32 and Fusion360/Fusion360/Day1. Fusion360.md",
     "10. Subject/Python and CV.md",
     "20. Lecture Note/Python Basic/Python - Day1.md",
     "My Home Page.md",
     "10. Subject/Linear Algebra(MATLAB).md",
-    "20. Lecture Note/STM32 and Fusion360/Fusion360/Day2. Fusion 360.md",
     "99. Attachment/Fusion360 and STM32/Fusion360/육각 볼트.png",
     "기초 개념/Text.md",
     "기초 개념/Material.md",
@@ -195,8 +197,6 @@
     "20. Lecture Note/Linear Algebra/3. Vector Part2.md",
     "20. Lecture Note/Linear Algebra/2. Vector Part1.md",
     "20. Lecture Note/Linear Algebra/1. Introduce.md",
-    "20. Lecture Note/3D Point Cloud Data Processing/2. 3D Data Acquisition (Passive).md",
-    "기초 개념/Share.md",
     "Move",
     "20. Lecture Note/STM32 and Fusion360/Fusion360",
     "20. Lecture Note/STM32 and Fusion360/STM32",
