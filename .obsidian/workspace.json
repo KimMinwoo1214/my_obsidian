@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "78fd3563f95da549",
+        "id": "050cb34e231fa0c5",
         "type": "tabs",
         "children": [
           {
-            "id": "383975af3823c797",
+            "id": "95e6b990b4012dd4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -165,8 +165,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "383975af3823c797",
+  "active": "95e6b990b4012dd4",
   "lastOpenFiles": [
+    "My Home Page.md",
+    "20. Lecture Note/STM32 and Fusion360/Fusion360/Day2. Fusion 360.md",
     "20. Lecture Note/Linear Algebra/8. Matrix Inverse.md",
     "20. Lecture Note/Linear Algebra/7. Matrix Applications.md",
     "20. Lecture Note/Linear Algebra/6. Matrices Part2.md",
@@ -177,7 +179,6 @@
     "20. Lecture Note/Linear Algebra/1. Introduce.md",
     "20. Lecture Note/3D Point Cloud Data Processing/2. 3D Data Acquisition (Passive).md",
     "20. Lecture Note/STM32 and Fusion360/Fusion360/Day1. Fusion360.md",
-    "20. Lecture Note/STM32 and Fusion360/Fusion360/Day2. Fusion 360.md",
     "기초 개념/Share.md",
     "기초 개념/Shortcut.md",
     "기초 개념/View.md",
@@ -193,7 +194,6 @@
     "20. Lecture Note/Arduino and ESP32/아두이노/아두이노 6일차 오전.md",
     "기초 개념/Extrude.md",
     "기초 개념/Sketch.md",
-    "20. Lecture Note/STM32 and Fusion360/STM32/Day2. STM32.md",
     "20. Lecture Note/STM32 and Fusion360/Fusion360",
     "20. Lecture Note/STM32 and Fusion360/STM32",
     "99. Attachment/Point Cloud/Ch.2/projective_reconstruction.png",

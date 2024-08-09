@@ -47,9 +47,15 @@ Share File Link를 눌러 링크를 통해 공유가 가능하다.
 1. Center to Center Slot
 	- 두 점을 찍어 Slot을 그린다. 이 때 두 점은 양 쪽 반 원의 중심으로 각도 설정이 가능하고 종속을 시키기 위해서는 반지름과 두 점 사이의 거리를 정의해야 한다.
 2. Overall Slot
+	- 끝의 두 점을 찍어 Slot을 그릴 수 있다.
 3. Center Point Slot
+	- 가운데 점과 한 쪽 점을 찍어 가운데 찍은 점을 기준으로 대칭으로 그리게 된다.
 4. Three Point Arc Slot
+	- 두 점을 찍고 마지막에 가운데 점을 찍는다. 세 점을 지나는 Arc Slot을 그리게 된다.
 5. Center Point Arc Slot
+	- 중심 점을 찍고 다른 점을 찍어 움직이며 그에 해당하는 Arc Slot을 그리게 된다.
+
+
 ## 공지사항
 <br>
 

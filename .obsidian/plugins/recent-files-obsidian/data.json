@@ -5,6 +5,10 @@
       "path": "20. Lecture Note/STM32 and Fusion360/Fusion360/Day2. Fusion 360.md"
     },
     {
+      "basename": "My Home Page",
+      "path": "My Home Page.md"
+    },
+    {
       "basename": "8. Matrix Inverse",
       "path": "20. Lecture Note/Linear Algebra/8. Matrix Inverse.md"
     },
@@ -103,10 +107,6 @@
     {
       "basename": "Day1. STM32",
       "path": "20. Lecture Note/STM32 and Fusion360/STM32/Day1. STM32.md"
-    },
-    {
-      "basename": "My Home Page",
-      "path": "My Home Page.md"
     },
     {
       "basename": "1. 3D Point Cloud",
