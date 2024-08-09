@@ -55,7 +55,18 @@ Share File Link를 눌러 링크를 통해 공유가 가능하다.
 5. Center Point Arc Slot
 	- 중심 점을 찍고 다른 점을 찍어 움직이며 그에 해당하는 Arc Slot을 그리게 된다.
 
+### [[Symmetry]]
+단축키: 없음
+대칭을 시키는 방법은 중심 축을 잡아 거리를 두어도 되지만 굳이 그러지 않고 Symmetry라는 툴을 사용하여 마지막에 중심 축을 선택해주면 중심 축을 중심으로 대칭으로 만들어준다.
 
+### [[Pattern]]
+단축키: 없음
+Circular Pattern과 Rectangular Pattern이 있다.
+Circular Pattern의 사용법은 패턴화 시킬 Object를 고르고 중심을 골라 갯수를 선택하고 만든다.
+
+### 만든 예시
+<!--⚠️Imgur upload failed, check dev console-->
+![[Pasted image 20240809113734.png]]
 ## 공지사항
 <br>
 
