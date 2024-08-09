@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Home Page.md",
-                "mode": "preview",
+                "file": "20. Lecture Note/Day2. Fusion 360.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Home Page.md",
+                "file": "20. Lecture Note/Day2. Fusion 360.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Home Page.md",
+                "file": "20. Lecture Note/Day2. Fusion 360.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Home Page.md"
+                "file": "20. Lecture Note/Day2. Fusion 360.md"
               }
             }
           },
@@ -167,12 +167,14 @@
   },
   "active": "383975af3823c797",
   "lastOpenFiles": [
+    "20. Lecture Note/STM32 and Fusion360/STM32/Day2. STM32.md",
+    "20. Lecture Note/STM32 and Fusion360/STM32/Day1. STM32.md",
     "20. Lecture Note/Day1. Fusion360.md",
     "20. Lecture Note/Day2. Fusion 360.md",
+    "My Home Page.md",
     "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md",
     "20. Lecture Note/STM32 and Fusion360/Fusion360",
     "20. Lecture Note/STM32 and Fusion360/STM32",
-    "My Home Page.md",
     "20. Lecture Note/Linear Algebra/2. Vector Part1.md",
     "20. Lecture Note/Linear Algebra/8. Matrix Inverse.md",
     "20. Lecture Note/Linear Algebra/7. Matrix Applications.md",
@@ -201,8 +203,6 @@
     "99. Attachment/Basic Python/파이썬 기초.pdf",
     "99. Attachment/Basic Python",
     "99. Attachment/Arduino and ESP32/전자회로 이론 및 아두이노.pdf",
-    "20. Lecture Note/STM32 and Fusion360/STM32/Day2. STM32.md",
-    "20. Lecture Note/STM32 and Fusion360/STM32/Day1. STM32.md",
     "20. Lecture Note/STM32 and Fusion360",
     "20. Lecture Note/Arduino and ESP32/Day4. Arduino and ESP32.md",
     "20. Lecture Note/Arduino and ESP32/Day3. Arduino and ESP32.md",
