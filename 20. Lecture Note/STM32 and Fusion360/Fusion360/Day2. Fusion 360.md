@@ -113,7 +113,10 @@ Modify 안에 Change Material에 들어가서 바꾸면 가능하다. 이 때, A
 2. [[Extrude]] 하기
 3. 다른 [[Sketch]]에서 30도 설정한 면 그리고 [[Revolve]] 시키기
 4. 후에 볼트의 끝 부분을 [[Chamber]]한다. (1 ~ 1.5)
-5. 
+5. 소재를 Stainless 304로 설정한다.
+6. 볼트의 윗부분에 New [[Sketch]]를 누르고 [[Text]]를 삽입한다.
+<!--⚠️Imgur upload failed, check dev console-->
+![[육각 볼트.png]]
 
 ## 공지사항
 <br>

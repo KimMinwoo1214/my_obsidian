@@ -1,8 +1,64 @@
 {
   "recentFiles": [
     {
+      "basename": "Python and CV",
+      "path": "10. Subject/Python and CV.md"
+    },
+    {
+      "basename": "Python - Day1",
+      "path": "20. Lecture Note/Python Basic/Python - Day1.md"
+    },
+    {
+      "basename": "My Home Page",
+      "path": "My Home Page.md"
+    },
+    {
+      "basename": "Linear Algebra(MATLAB)",
+      "path": "10. Subject/Linear Algebra(MATLAB).md"
+    },
+    {
       "basename": "Day2. Fusion 360",
       "path": "20. Lecture Note/STM32 and Fusion360/Fusion360/Day2. Fusion 360.md"
+    },
+    {
+      "basename": "육각 볼트",
+      "path": "99. Attachment/Fusion360 and STM32/Fusion360/육각 볼트.png"
+    },
+    {
+      "basename": "Text",
+      "path": "기초 개념/Text.md"
+    },
+    {
+      "basename": "Material",
+      "path": "기초 개념/Material.md"
+    },
+    {
+      "basename": "Thread",
+      "path": "기초 개념/Thread.md"
+    },
+    {
+      "basename": "Coil",
+      "path": "기초 개념/Coil.md"
+    },
+    {
+      "basename": "Chamber",
+      "path": "기초 개념/Chamber.md"
+    },
+    {
+      "basename": "Revolve",
+      "path": "기초 개념/Revolve.md"
+    },
+    {
+      "basename": "Symmetry",
+      "path": "기초 개념/Symmetry.md"
+    },
+    {
+      "basename": "Pattern",
+      "path": "기초 개념/Pattern.md"
+    },
+    {
+      "basename": "Slot",
+      "path": "기초 개념/Slot.md"
     },
     {
       "basename": "Day1. Fusion360",
@@ -10,11 +66,7 @@
     },
     {
       "basename": "Polygon",
-      "path": "20. Lecture Note/STM32 and Fusion360/Fusion360/Polygon.md"
-    },
-    {
-      "basename": "My Home Page",
-      "path": "My Home Page.md"
+      "path": "기초 개념/Polygon.md"
     },
     {
       "basename": "Pattern과 Slot 예시",
@@ -141,28 +193,12 @@
       "path": "20. Lecture Note/Python ML/Linear Algebra Basic.md"
     },
     {
-      "basename": "Linear Algebra(MATLAB)",
-      "path": "10. Subject/Linear Algebra(MATLAB).md"
-    },
-    {
       "basename": "Arduino and ESP32",
       "path": "10. Subject/Arduino and ESP32.md"
     },
     {
       "basename": "Python for ML",
       "path": "10. Subject/Python for ML.md"
-    },
-    {
-      "basename": "Python and CV",
-      "path": "10. Subject/Python and CV.md"
-    },
-    {
-      "basename": "기본 학습",
-      "path": "기본 학습.canvas"
-    },
-    {
-      "basename": "무제 파일 1",
-      "path": "무제 파일 1.canvas"
     }
   ],
   "omittedPaths": []
