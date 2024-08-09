@@ -116,6 +116,9 @@ Circular Pattern의 사용법은 패턴화 시킬 Object를 고르고 중심을 
 단축키: 없음
 Modify 안에 Change Material에 들어가서 바꾸면 가능하다. 이 때, A2-50에서 A2는 SUS304를 사용한 것이고 50은 500MPa까지 버틸 수 있다는 것이다.
 
+### [[Sweep]]
+단축키: 없음
+하나의 면을
 
 ## [[Sketch]] 실습1 - 볼트 만들기
 
