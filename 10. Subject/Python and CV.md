@@ -18,7 +18,7 @@ TABLE WITHOUT ID
 	notices AS "공지",
 	reviewed AS "복습여부"
 FROM 
-	[[Python Basic]] AND
+	"Python Basic" AND
 	"20. Lecture Note"
 WHERE type = "lecture-note"
 SORT file.cday DESC
