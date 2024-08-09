@@ -64,11 +64,9 @@ Share File Link를 눌러 링크를 통해 공유가 가능하다.
 Circular Pattern과 Rectangular Pattern이 있다.
 Circular Pattern의 사용법은 패턴화 시킬 Object를 고르고 중심을 골라 갯수를 선택하고 만든다.
 
-### 만든 예시
+### 만든 예시1
 <!--⚠️Imgur upload failed, check dev console-->
-![[Fusion 360 예시1.png]]
-
-## [[Sketch]] 실습 - 볼트 만들기
+![[Pattern과 Slot 예시.png]]
 
 ### [[Polygon]]
 단축키: 없음
@@ -78,9 +76,13 @@ Circular Pattern의 사용법은 패턴화 시킬 Object를 고르고 중심을 
 	- 중심을 기준으로 원에 내접하는 다각형을 그린다. 이 때 몇 변의 Polygon을 그릴지도 선택이 가능하다.
 3. Edge Polygon
 	- 두 점을 찍어 하나의 변을 그리고 그 변을 기준으로 Polygon을 그린다. 이 때 몇 변의 Polygon을 그릴도 선택이 가능하다.
-### 예시
+### 만든 예시2
 <!--⚠️Imgur upload failed, check dev console-->
 ![[Polygon 예시.png]]
+
+## [[Sketch]] 실습 - 볼트 만들기
+
+
 ## 공지사항
 <br>
 
