@@ -80,6 +80,7 @@ Circular Pattern의 사용법은 패턴화 시킬 Object를 고르고 중심을 
 <!--⚠️Imgur upload failed, check dev console-->
 ![[Polygon 예시.png]]
 
+## [[Re]]
 ## [[Sketch]] 실습 - 볼트 만들기
 
 1. [[Polygon]] 만들기

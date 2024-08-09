@@ -5,6 +5,10 @@
       "path": "20. Lecture Note/STM32 and Fusion360/Fusion360/Day2. Fusion 360.md"
     },
     {
+      "basename": "Day1. Fusion360",
+      "path": "20. Lecture Note/STM32 and Fusion360/Fusion360/Day1. Fusion360.md"
+    },
+    {
       "basename": "Polygon",
       "path": "20. Lecture Note/STM32 and Fusion360/Fusion360/Polygon.md"
     },
@@ -55,10 +59,6 @@
     {
       "basename": "2. 3D Data Acquisition (Passive)",
       "path": "20. Lecture Note/3D Point Cloud Data Processing/2. 3D Data Acquisition (Passive).md"
-    },
-    {
-      "basename": "Day1. Fusion360",
-      "path": "20. Lecture Note/STM32 and Fusion360/Fusion360/Day1. Fusion360.md"
     },
     {
       "basename": "Share",
