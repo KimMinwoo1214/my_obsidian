@@ -82,6 +82,9 @@ Circular Pattern의 사용법은 패턴화 시킬 Object를 고르고 중심을 
 
 ## [[Sketch]] 실습 - 볼트 만들기
 
+1. [[Polygon]] 만들기
+2. [[Extrude]] 하기
+3. 다른 [[Sketch]]에서 30도 설정한 면 그리고 [[Revolve]] 시키기
 
 ## 공지사항
 <br>
