@@ -35,6 +35,7 @@ Share File Link를 눌러 링크를 통해 공유가 가능하다.
 단축키: L
 선으로 할 수 있는 것들을 보면 먼저 원점에 가져다 댈 경우 네모 박스가 생기면서 지정이 쉽다. 그리고 수직, 수평의 경우 상당히 쉽고 Tab키를 눌러 각도도 잡아 줄 수 있다. 
 시작점을 누르고 마우스를 누르고 있는 상태로 드래그를 할 경우, 호를 그릴 수가 있다. 
+그릴 때 대충 그려놓고 후에 조건을 주어서 구속시키는게 훨씬 편하다.
 
 ### [[Move]]/[[Copy]]
 단축키: M
@@ -76,6 +77,7 @@ Circular Pattern의 사용법은 패턴화 시킬 Object를 고르고 중심을 
 	- 중심을 기준으로 원에 내접하는 다각형을 그린다. 이 때 몇 변의 Polygon을 그릴지도 선택이 가능하다.
 3. Edge Polygon
 	- 두 점을 찍어 하나의 변을 그리고 그 변을 기준으로 Polygon을 그린다. 이 때 몇 변의 Polygon을 그릴도 선택이 가능하다.
+
 ### 만든 예시2
 <!--⚠️Imgur upload failed, check dev console-->
 ![[Polygon 예시.png]]
@@ -84,6 +86,7 @@ Circular Pattern의 사용법은 패턴화 시킬 Object를 고르고 중심을 
 단축키: 없음
 [[Sketch]]에서 Text를 눌러 적어주면 된다. 크기 조정은 Height를 수정해서 하면 된다.
 
+### [[Co]]
 ## 입체
 
 ### [[Revolve]]
@@ -107,7 +110,7 @@ Circular Pattern의 사용법은 패턴화 시킬 Object를 고르고 중심을 
 Modify 안에 Change Material에 들어가서 바꾸면 가능하다. 이 때, A2-50에서 A2는 SUS304를 사용한 것이고 50은 500MPa까지 버틸 수 있다는 것이다.
 
 
-## [[Sketch]] 실습 - 볼트 만들기
+## [[Sketch]] 실습1 - 볼트 만들기
 
 1. [[Polygon]] 만들기
 2. [[Extrude]] 하기
@@ -118,6 +121,9 @@ Modify 안에 Change Material에 들어가서 바꾸면 가능하다. 이 때, A
 <!--⚠️Imgur upload failed, check dev console-->
 ![[육각 볼트.png]]
 
+## [[Sketch]] 실습2
+
+1. 
 ## 공지사항
 <br>
 
