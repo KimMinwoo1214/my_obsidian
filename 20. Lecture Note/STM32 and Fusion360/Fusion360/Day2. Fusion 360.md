@@ -80,6 +80,10 @@ Circular Pattern의 사용법은 패턴화 시킬 Object를 고르고 중심을 
 <!--⚠️Imgur upload failed, check dev console-->
 ![[Polygon 예시.png]]
 
+### [[Text]]
+단축키: 없음
+[[Sketch]]에서 Text를 눌러 적어주면 된다. 크기 조정은 Height를 수정해서 하면 된다.
+
 ## 입체
 
 ### [[Revolve]]
@@ -97,6 +101,11 @@ Circular Pattern의 사용법은 패턴화 시킬 Object를 고르고 중심을 
 ### [[Thread]]
 단축키: 없음
 나사산을 만드는 키워드로 원기둥 등을 골라 사용이 가능하다. 오른 나사, 왼 나사를 선택할 수 있고, 사이즈와 Designation을 선택하고 마지막에 modeled를 눌러 바로 적용할 수 있다.  그러나 실제에서는 적용시키지 않고 이미지로 하여 사용한다. 
+
+### Change [[Material]]
+단축키: 없음
+Modify 안에 Change Material에 들어가서 바꾸면 가능하다. 이 때, A2-50에서 A2는 SUS304를 사용한 것이고 50은 500MPa까지 버틸 수 있다는 것이다.
+
 
 ## [[Sketch]] 실습 - 볼트 만들기
 
