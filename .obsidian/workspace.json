@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20. Lecture Note/STM32 and Fusion360/Fusion360/Day1. Fusion360.md",
+                "file": "20. Lecture Note/STM32 and Fusion360/Fusion360/Day2. Fusion 360.md",
                 "mode": "preview",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20. Lecture Note/STM32 and Fusion360/Fusion360/Day1. Fusion360.md",
+                "file": "20. Lecture Note/STM32 and Fusion360/Fusion360/Day2. Fusion 360.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20. Lecture Note/STM32 and Fusion360/Fusion360/Day1. Fusion360.md",
+                "file": "20. Lecture Note/STM32 and Fusion360/Fusion360/Day2. Fusion 360.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20. Lecture Note/STM32 and Fusion360/Fusion360/Day1. Fusion360.md"
+                "file": "20. Lecture Note/STM32 and Fusion360/Fusion360/Day2. Fusion 360.md"
               }
             }
           },
@@ -167,6 +167,7 @@
   },
   "active": "983f6efc1fb68540",
   "lastOpenFiles": [
+    "20. Lecture Note/STM32 and Fusion360/Fusion360/Day1. Fusion360.md",
     "10. Subject/Python and CV.md",
     "20. Lecture Note/Python Basic/Python - Day1.md",
     "My Home Page.md",
@@ -182,7 +183,6 @@
     "기초 개념/Symmetry.md",
     "기초 개념/Pattern.md",
     "기초 개념/Slot.md",
-    "20. Lecture Note/STM32 and Fusion360/Fusion360/Day1. Fusion360.md",
     "기초 개념/Polygon.md",
     "99. Attachment/Fusion360 and STM32/Fusion360",
     "99. Attachment/Fusion360 and STM32/Fusion360/Pattern과 Slot 예시.png",
