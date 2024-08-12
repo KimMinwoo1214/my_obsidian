@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "21b5ff285822e66c",
+        "id": "e00959a9375e9917",
         "type": "tabs",
         "children": [
           {
-            "id": "0ccafeb69b9dcdb0",
+            "id": "b81398ddc69fd551",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20. Lecture Note/3D Point Cloud Data Processing/2. 3D Data Acquisition (Passive).md",
+                "file": "My Home Page.md",
                 "mode": "preview",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20. Lecture Note/3D Point Cloud Data Processing/2. 3D Data Acquisition (Passive).md",
+                "file": "My Home Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20. Lecture Note/3D Point Cloud Data Processing/2. 3D Data Acquisition (Passive).md",
+                "file": "My Home Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20. Lecture Note/3D Point Cloud Data Processing/2. 3D Data Acquisition (Passive).md"
+                "file": "My Home Page.md"
               }
             }
           },
@@ -165,8 +165,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0ccafeb69b9dcdb0",
+  "active": "b81398ddc69fd551",
   "lastOpenFiles": [
+    "20. Lecture Note/3D Point Cloud Data Processing/2. 3D Data Acquisition (Passive).md",
     "20. Lecture Note/STM32 and Fusion360/Fusion360/Day3. Fusion 360.md",
     "기초 개념/Rib.md",
     "기초 개념/Feature.md",
@@ -192,7 +193,6 @@
     "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md",
     "기초 개념/Shell.md",
     "기초 개념/Sweep.md",
-    "기초 개념/Equal.md",
     "99. Attachment/Fusion360 and STM32/Fusion360/육각 볼트.png",
     "99. Attachment/Fusion360 and STM32/Fusion360",
     "99. Attachment/Fusion360 and STM32/Fusion360/Pattern과 Slot 예시.png",
