@@ -5,6 +5,62 @@
       "path": "20. Lecture Note/STM32 and Fusion360/Fusion360/Day3. Fusion 360.md"
     },
     {
+      "basename": "Rib",
+      "path": "기초 개념/Rib.md"
+    },
+    {
+      "basename": "Feature",
+      "path": "기초 개념/Feature.md"
+    },
+    {
+      "basename": "Body",
+      "path": "기초 개념/Body.md"
+    },
+    {
+      "basename": "Box",
+      "path": "기초 개념/Box.md"
+    },
+    {
+      "basename": "Emboss",
+      "path": "기초 개념/Emboss.md"
+    },
+    {
+      "basename": "Object",
+      "path": "기초 개념/Object.md"
+    },
+    {
+      "basename": "Web",
+      "path": "기초 개념/Web.md"
+    },
+    {
+      "basename": "Cylinder",
+      "path": "기초 개념/Cylinder.md"
+    },
+    {
+      "basename": "Sphere",
+      "path": "기초 개념/Sphere.md"
+    },
+    {
+      "basename": "Torus",
+      "path": "기초 개념/Torus.md"
+    },
+    {
+      "basename": "Key",
+      "path": "기초 개념/Key.md"
+    },
+    {
+      "basename": "Fillet",
+      "path": "기초 개념/Fillet.md"
+    },
+    {
+      "basename": "Spline",
+      "path": "기초 개념/Spline.md"
+    },
+    {
+      "basename": "Point",
+      "path": "기초 개념/Point.md"
+    },
+    {
       "basename": "Day2. Fusion 360",
       "path": "20. Lecture Note/STM32 and Fusion360/Fusion360/Day2. Fusion 360.md"
     },
@@ -143,62 +199,6 @@
     {
       "basename": "2. Vector Part1",
       "path": "20. Lecture Note/Linear Algebra/2. Vector Part1.md"
-    },
-    {
-      "basename": "1. Introduce",
-      "path": "20. Lecture Note/Linear Algebra/1. Introduce.md"
-    },
-    {
-      "basename": "2. 3D Data Acquisition (Passive)",
-      "path": "20. Lecture Note/3D Point Cloud Data Processing/2. 3D Data Acquisition (Passive).md"
-    },
-    {
-      "basename": "Share",
-      "path": "기초 개념/Share.md"
-    },
-    {
-      "basename": "Shortcut",
-      "path": "기초 개념/Shortcut.md"
-    },
-    {
-      "basename": "View",
-      "path": "기초 개념/View.md"
-    },
-    {
-      "basename": "Copy",
-      "path": "기초 개념/Copy.md"
-    },
-    {
-      "basename": "Move",
-      "path": "기초 개념/Move.md"
-    },
-    {
-      "basename": "Line",
-      "path": "기초 개념/Line.md"
-    },
-    {
-      "basename": "아두이노 9일차 오후",
-      "path": "20. Lecture Note/Arduino and ESP32/아두이노/아두이노 9일차 오후.md"
-    },
-    {
-      "basename": "아두이노 9일차 오전",
-      "path": "20. Lecture Note/Arduino and ESP32/아두이노/아두이노 9일차 오전.md"
-    },
-    {
-      "basename": "아두이노 8일차 오전",
-      "path": "20. Lecture Note/Arduino and ESP32/아두이노/아두이노 8일차 오전.md"
-    },
-    {
-      "basename": "아두이노 7일차 오후",
-      "path": "20. Lecture Note/Arduino and ESP32/아두이노/아두이노 7일차 오후.md"
-    },
-    {
-      "basename": "아두이노 6일차 오전",
-      "path": "20. Lecture Note/Arduino and ESP32/아두이노/아두이노 6일차 오전.md"
-    },
-    {
-      "basename": "Extrude",
-      "path": "기초 개념/Extrude.md"
     }
   ],
   "omittedPaths": []
