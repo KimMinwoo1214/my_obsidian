@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20. Lecture Note/STM32 and Fusion360/Fusion360/Day3. Fusion 360.md",
+                "file": "20. Lecture Note/3D Point Cloud Data Processing/2. 3D Data Acquisition (Passive).md",
                 "mode": "preview",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20. Lecture Note/STM32 and Fusion360/Fusion360/Day3. Fusion 360.md",
+                "file": "20. Lecture Note/3D Point Cloud Data Processing/2. 3D Data Acquisition (Passive).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20. Lecture Note/STM32 and Fusion360/Fusion360/Day3. Fusion 360.md",
+                "file": "20. Lecture Note/3D Point Cloud Data Processing/2. 3D Data Acquisition (Passive).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20. Lecture Note/STM32 and Fusion360/Fusion360/Day3. Fusion 360.md"
+                "file": "20. Lecture Note/3D Point Cloud Data Processing/2. 3D Data Acquisition (Passive).md"
               }
             }
           },
@@ -167,8 +167,8 @@
   },
   "active": "0ccafeb69b9dcdb0",
   "lastOpenFiles": [
-    "기초 개념/Rib.md",
     "20. Lecture Note/STM32 and Fusion360/Fusion360/Day3. Fusion 360.md",
+    "기초 개념/Rib.md",
     "기초 개념/Feature.md",
     "기초 개념/Body.md",
     "기초 개념/Box.md",
