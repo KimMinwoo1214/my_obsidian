@@ -77,6 +77,8 @@ summary: false
 5. [[Fillet]]을 시키고 정리한다.
 6. [[Key]]를 만들기 위해 밑에 원을 그리고 
 
+<!--⚠️Imgur upload failed, check dev console-->
+![[Pasted image 20240812161315.png]]
 ## 공지사항
 <br>
 

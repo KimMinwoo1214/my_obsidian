@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Home Page.md",
+                "file": "20. Lecture Note/STM32 and Fusion360/Fusion360/Day3. Fusion 360.md",
                 "mode": "preview",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Home Page.md",
+                "file": "20. Lecture Note/STM32 and Fusion360/Fusion360/Day3. Fusion 360.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Home Page.md",
+                "file": "20. Lecture Note/STM32 and Fusion360/Fusion360/Day3. Fusion 360.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Home Page.md"
+                "file": "20. Lecture Note/STM32 and Fusion360/Fusion360/Day3. Fusion 360.md"
               }
             }
           },
@@ -167,6 +167,8 @@
   },
   "active": "aa0744fbfcc9da7c",
   "lastOpenFiles": [
+    "99. Attachment/Pasted image 20240812161315.png",
+    "My Home Page.md",
     "20. Lecture Note/3D Point Cloud Data Processing/2. 3D Data Acquisition (Passive).md",
     "20. Lecture Note/STM32 and Fusion360/Fusion360/Day3. Fusion 360.md",
     "기초 개념/Rib.md",
@@ -189,10 +191,8 @@
     "기초 개념/Offset.md",
     "기초 개념/Plane.md",
     "기초 개념/Loft.md",
-    "My Home Page.md",
     "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md",
     "기초 개념/Shell.md",
-    "기초 개념/Sweep.md",
     "99. Attachment/Fusion360 and STM32/Fusion360/육각 볼트.png",
     "99. Attachment/Fusion360 and STM32/Fusion360",
     "99. Attachment/Fusion360 and STM32/Fusion360/Pattern과 Slot 예시.png",
