@@ -27,6 +27,14 @@ summary: false
 [[Fillet]]을 할 때 순서가 중요하다. 어디를 먼저하고 나중에 하느냐에 따라 불가능해질 때도 있다. 
 
 ### [[Projection]]
+단축키: P
+[[Projection]]을 하면  
+
+### [[Rib]]
+단축키: 없음
+선을 기준으로 
+
+### Rectangular [[Pattern]]
 단축키: 없음
 
 ## 공지사항
