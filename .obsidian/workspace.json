@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Home Page.md",
+                "file": "Robotics and AI.md",
                 "mode": "preview",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Home Page.md",
+                "file": "Robotics and AI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Home Page.md",
+                "file": "Robotics and AI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Home Page.md"
+                "file": "Robotics and AI.md"
               }
             }
           },
@@ -167,16 +167,19 @@
   },
   "active": "0ccafeb69b9dcdb0",
   "lastOpenFiles": [
-    "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md",
     "20. Lecture Note/STM32 and Fusion360/Fusion360/Day2. Fusion 360.md",
-    "20. Lecture Note/STM32 and Fusion360/Fusion360/Shell.md",
-    "20. Lecture Note/STM32 and Fusion360/Fusion360/Sweep.md",
+    "기초 개념/Offset.md",
+    "기초 개념/Plane.md",
+    "기초 개념/Loft.md",
+    "My Home Page.md",
+    "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md",
+    "기초 개념/Shell.md",
+    "기초 개념/Sweep.md",
     "기초 개념/Equal.md",
     "기초 개념/Collinear.md",
     "20. Lecture Note/STM32 and Fusion360/Fusion360/Day1. Fusion360.md",
     "10. Subject/Python and CV.md",
     "20. Lecture Note/Python Basic/Python - Day1.md",
-    "My Home Page.md",
     "10. Subject/Linear Algebra(MATLAB).md",
     "99. Attachment/Fusion360 and STM32/Fusion360/육각 볼트.png",
     "기초 개념/Text.md",
@@ -194,9 +197,6 @@
     "99. Attachment/Fusion360 and STM32/Fusion360/Polygon 예시.png",
     "20. Lecture Note/Linear Algebra/8. Matrix Inverse.md",
     "20. Lecture Note/Linear Algebra/7. Matrix Applications.md",
-    "20. Lecture Note/Linear Algebra/6. Matrices Part2.md",
-    "기초 개념/Applications.md",
-    "20. Lecture Note/Linear Algebra/5. Matrices Part1.md",
     "Move",
     "20. Lecture Note/STM32 and Fusion360/Fusion360",
     "20. Lecture Note/STM32 and Fusion360/STM32",

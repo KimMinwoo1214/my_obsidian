@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Robotics and AI",
+      "path": "Robotics and AI.md"
+    },
+    {
+      "basename": "Day2. Fusion 360",
+      "path": "20. Lecture Note/STM32 and Fusion360/Fusion360/Day2. Fusion 360.md"
+    },
+    {
+      "basename": "Offset",
+      "path": "기초 개념/Offset.md"
+    },
+    {
+      "basename": "Plane",
+      "path": "기초 개념/Plane.md"
+    },
+    {
+      "basename": "Loft",
+      "path": "기초 개념/Loft.md"
+    },
+    {
       "basename": "My Home Page",
       "path": "My Home Page.md"
     },
@@ -9,16 +29,12 @@
       "path": "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md"
     },
     {
-      "basename": "Day2. Fusion 360",
-      "path": "20. Lecture Note/STM32 and Fusion360/Fusion360/Day2. Fusion 360.md"
-    },
-    {
       "basename": "Shell",
-      "path": "20. Lecture Note/STM32 and Fusion360/Fusion360/Shell.md"
+      "path": "기초 개념/Shell.md"
     },
     {
       "basename": "Sweep",
-      "path": "20. Lecture Note/STM32 and Fusion360/Fusion360/Sweep.md"
+      "path": "기초 개념/Sweep.md"
     },
     {
       "basename": "Equal",
@@ -183,22 +199,6 @@
     {
       "basename": "Sketch",
       "path": "기초 개념/Sketch.md"
-    },
-    {
-      "basename": "Day2. STM32",
-      "path": "20. Lecture Note/STM32 and Fusion360/STM32/Day2. STM32.md"
-    },
-    {
-      "basename": "Day1. STM32",
-      "path": "20. Lecture Note/STM32 and Fusion360/STM32/Day1. STM32.md"
-    },
-    {
-      "basename": "4. Vector Applications",
-      "path": "20. Lecture Note/Linear Algebra/4. Vector Applications.md"
-    },
-    {
-      "basename": "3D Point Cloud Data Processing",
-      "path": "10. Subject/3D Point Cloud Data Processing.md"
     }
   ],
   "omittedPaths": []
