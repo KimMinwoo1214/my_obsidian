@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Robotics and AI",
-      "path": "Robotics and AI.md"
+      "basename": "Day3. Fusion 360",
+      "path": "20. Lecture Note/STM32 and Fusion360/Fusion360/Day3. Fusion 360.md"
     },
     {
       "basename": "Day2. Fusion 360",
       "path": "20. Lecture Note/STM32 and Fusion360/Fusion360/Day2. Fusion 360.md"
+    },
+    {
+      "basename": "Day1. Fusion 360",
+      "path": "20. Lecture Note/STM32 and Fusion360/Fusion360/Day1. Fusion 360.md"
+    },
+    {
+      "basename": "Robotics and AI",
+      "path": "Robotics and AI.md"
     },
     {
       "basename": "Offset",
@@ -43,10 +51,6 @@
     {
       "basename": "Collinear",
       "path": "기초 개념/Collinear.md"
-    },
-    {
-      "basename": "Day1. Fusion360",
-      "path": "20. Lecture Note/STM32 and Fusion360/Fusion360/Day1. Fusion360.md"
     },
     {
       "basename": "Python and CV",
@@ -195,10 +199,6 @@
     {
       "basename": "Extrude",
       "path": "기초 개념/Extrude.md"
-    },
-    {
-      "basename": "Sketch",
-      "path": "기초 개념/Sketch.md"
     }
   ],
   "omittedPaths": []

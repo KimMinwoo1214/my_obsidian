@@ -13,7 +13,7 @@ summary: false
 ### **Subject**:: [[STM32 and Fusion360]]
 ### **Week**:: 1
 
-**이전 강의 노트**: [[Day1. Fusion360]]
+**이전 강의 노트**: [[Day1. Fusion 360]]
 
 ### 강의자료: 
 ![[Fusion360, STM32.pdf]]
