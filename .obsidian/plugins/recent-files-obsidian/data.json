@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "My Home Page",
+      "path": "My Home Page.md"
+    },
+    {
+      "basename": "1. 3D Point Cloud",
+      "path": "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md"
+    },
+    {
       "basename": "Day2. Fusion 360",
       "path": "20. Lecture Note/STM32 and Fusion360/Fusion360/Day2. Fusion 360.md"
     },
@@ -31,10 +39,6 @@
     {
       "basename": "Python - Day1",
       "path": "20. Lecture Note/Python Basic/Python - Day1.md"
-    },
-    {
-      "basename": "My Home Page",
-      "path": "My Home Page.md"
     },
     {
       "basename": "Linear Algebra(MATLAB)",
@@ -187,10 +191,6 @@
     {
       "basename": "Day1. STM32",
       "path": "20. Lecture Note/STM32 and Fusion360/STM32/Day1. STM32.md"
-    },
-    {
-      "basename": "1. 3D Point Cloud",
-      "path": "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md"
     },
     {
       "basename": "4. Vector Applications",
