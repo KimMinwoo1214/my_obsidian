@@ -1,12 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "My Home Page",
-      "path": "My Home Page.md"
+      "basename": "Day4. Fusion 360",
+      "path": "20. Lecture Note/STM32 and Fusion360/Fusion360/Day4. Fusion 360.md"
     },
     {
       "basename": "Day3. Fusion 360",
       "path": "20. Lecture Note/STM32 and Fusion360/Fusion360/Day3. Fusion 360.md"
+    },
+    {
+      "basename": "Day2. STM32",
+      "path": "20. Lecture Note/STM32 and Fusion360/STM32/Day2. STM32.md"
+    },
+    {
+      "basename": "2. Vector Part1",
+      "path": "20. Lecture Note/Linear Algebra/2. Vector Part1.md"
+    },
+    {
+      "basename": "Scalar",
+      "path": "20. Lecture Note/Linear Algebra/Scalar.md"
+    },
+    {
+      "basename": "Euclidean",
+      "path": "20. Lecture Note/Linear Algebra/Euclidean.md"
+    },
+    {
+      "basename": "Norm",
+      "path": "20. Lecture Note/Linear Algebra/Norm.md"
+    },
+    {
+      "basename": "Manhattan",
+      "path": "20. Lecture Note/Linear Algebra/Manhattan.md"
+    },
+    {
+      "basename": "Transpose",
+      "path": "기초 개념/Transpose.md"
+    },
+    {
+      "basename": "1. Introduce",
+      "path": "20. Lecture Note/Linear Algebra/1. Introduce.md"
+    },
+    {
+      "basename": "5. Matrices Part1",
+      "path": "20. Lecture Note/Linear Algebra/5. Matrices Part1.md"
+    },
+    {
+      "basename": "4. Vector Applications",
+      "path": "20. Lecture Note/Linear Algebra/4. Vector Applications.md"
+    },
+    {
+      "basename": "My Home Page",
+      "path": "My Home Page.md"
     },
     {
       "basename": "2. 3D Data Acquisition (Passive)",
@@ -155,50 +199,6 @@
     {
       "basename": "Symmetry",
       "path": "기초 개념/Symmetry.md"
-    },
-    {
-      "basename": "Pattern",
-      "path": "기초 개념/Pattern.md"
-    },
-    {
-      "basename": "Slot",
-      "path": "기초 개념/Slot.md"
-    },
-    {
-      "basename": "Polygon",
-      "path": "기초 개념/Polygon.md"
-    },
-    {
-      "basename": "Pattern과 Slot 예시",
-      "path": "99. Attachment/Fusion360 and STM32/Fusion360/Pattern과 Slot 예시.png"
-    },
-    {
-      "basename": "Polygon 예시",
-      "path": "99. Attachment/Fusion360 and STM32/Fusion360/Polygon 예시.png"
-    },
-    {
-      "basename": "8. Matrix Inverse",
-      "path": "20. Lecture Note/Linear Algebra/8. Matrix Inverse.md"
-    },
-    {
-      "basename": "7. Matrix Applications",
-      "path": "20. Lecture Note/Linear Algebra/7. Matrix Applications.md"
-    },
-    {
-      "basename": "6. Matrices Part2",
-      "path": "20. Lecture Note/Linear Algebra/6. Matrices Part2.md"
-    },
-    {
-      "basename": "Applications",
-      "path": "기초 개념/Applications.md"
-    },
-    {
-      "basename": "5. Matrices Part1",
-      "path": "20. Lecture Note/Linear Algebra/5. Matrices Part1.md"
-    },
-    {
-      "basename": "3. Vector Part2",
-      "path": "20. Lecture Note/Linear Algebra/3. Vector Part2.md"
     }
   ],
   "omittedPaths": []

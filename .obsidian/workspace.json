@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Home Page.md",
+                "file": "20. Lecture Note/STM32 and Fusion360/Fusion360/Day4. Fusion 360.md",
                 "mode": "preview",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Home Page.md",
+                "file": "20. Lecture Note/STM32 and Fusion360/Fusion360/Day4. Fusion 360.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Home Page.md",
+                "file": "20. Lecture Note/STM32 and Fusion360/Fusion360/Day4. Fusion 360.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Home Page.md"
+                "file": "20. Lecture Note/STM32 and Fusion360/Fusion360/Day4. Fusion 360.md"
               }
             }
           },
@@ -168,8 +168,19 @@
   "active": "3a1c4edb9bb460ac",
   "lastOpenFiles": [
     "20. Lecture Note/STM32 and Fusion360/Fusion360/Day3. Fusion 360.md",
-    "99. Attachment/Pasted image 20240812161315.png",
+    "20. Lecture Note/STM32 and Fusion360/Fusion360/Day4. Fusion 360.md",
+    "20. Lecture Note/STM32 and Fusion360/STM32/Day2. STM32.md",
+    "20. Lecture Note/Linear Algebra/2. Vector Part1.md",
+    "20. Lecture Note/Linear Algebra/Scalar.md",
+    "20. Lecture Note/Linear Algebra/Euclidean.md",
+    "20. Lecture Note/Linear Algebra/Norm.md",
+    "20. Lecture Note/Linear Algebra/Manhattan.md",
+    "기초 개념/Transpose.md",
+    "20. Lecture Note/Linear Algebra/1. Introduce.md",
+    "20. Lecture Note/Linear Algebra/5. Matrices Part1.md",
+    "20. Lecture Note/Linear Algebra/4. Vector Applications.md",
     "My Home Page.md",
+    "99. Attachment/Pasted image 20240812161315.png",
     "20. Lecture Note/3D Point Cloud Data Processing/2. 3D Data Acquisition (Passive).md",
     "기초 개념/Rib.md",
     "기초 개념/Feature.md",
@@ -183,16 +194,6 @@
     "기초 개념/Torus.md",
     "기초 개념/Key.md",
     "기초 개념/Fillet.md",
-    "기초 개념/Spline.md",
-    "기초 개념/Point.md",
-    "20. Lecture Note/STM32 and Fusion360/Fusion360/Day2. Fusion 360.md",
-    "20. Lecture Note/STM32 and Fusion360/Fusion360/Day1. Fusion 360.md",
-    "Robotics and AI.md",
-    "기초 개념/Offset.md",
-    "기초 개념/Plane.md",
-    "기초 개념/Loft.md",
-    "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md",
-    "기초 개념/Shell.md",
     "99. Attachment/Fusion360 and STM32/Fusion360/육각 볼트.png",
     "99. Attachment/Fusion360 and STM32/Fusion360",
     "99. Attachment/Fusion360 and STM32/Fusion360/Pattern과 Slot 예시.png",
