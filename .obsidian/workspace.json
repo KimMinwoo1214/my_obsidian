@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20. Lecture Note/STM32 and Fusion360/Fusion360/Day4. Fusion 360.md",
+                "file": "20. Lecture Note/STM32 and Fusion360/Fusion360/Day3. Fusion 360.md",
                 "mode": "preview",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20. Lecture Note/STM32 and Fusion360/Fusion360/Day4. Fusion 360.md",
+                "file": "20. Lecture Note/STM32 and Fusion360/Fusion360/Day3. Fusion 360.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20. Lecture Note/STM32 and Fusion360/Fusion360/Day4. Fusion 360.md",
+                "file": "20. Lecture Note/STM32 and Fusion360/Fusion360/Day3. Fusion 360.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20. Lecture Note/STM32 and Fusion360/Fusion360/Day4. Fusion 360.md"
+                "file": "20. Lecture Note/STM32 and Fusion360/Fusion360/Day3. Fusion 360.md"
               }
             }
           },
@@ -167,8 +167,8 @@
   },
   "active": "3a1c4edb9bb460ac",
   "lastOpenFiles": [
-    "20. Lecture Note/STM32 and Fusion360/Fusion360/Day3. Fusion 360.md",
     "20. Lecture Note/STM32 and Fusion360/Fusion360/Day4. Fusion 360.md",
+    "20. Lecture Note/STM32 and Fusion360/Fusion360/Day3. Fusion 360.md",
     "20. Lecture Note/STM32 and Fusion360/STM32/Day2. STM32.md",
     "20. Lecture Note/Linear Algebra/2. Vector Part1.md",
     "20. Lecture Note/Linear Algebra/Scalar.md",
