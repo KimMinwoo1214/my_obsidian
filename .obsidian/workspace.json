@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ec527b57ddf26940",
+        "id": "a3f912d40018829e",
         "type": "tabs",
         "children": [
           {
-            "id": "aa0744fbfcc9da7c",
+            "id": "3a1c4edb9bb460ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20. Lecture Note/STM32 and Fusion360/Fusion360/Day3. Fusion 360.md",
+                "file": "My Home Page.md",
                 "mode": "preview",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20. Lecture Note/STM32 and Fusion360/Fusion360/Day3. Fusion 360.md",
+                "file": "My Home Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20. Lecture Note/STM32 and Fusion360/Fusion360/Day3. Fusion 360.md",
+                "file": "My Home Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20. Lecture Note/STM32 and Fusion360/Fusion360/Day3. Fusion 360.md"
+                "file": "My Home Page.md"
               }
             }
           },
@@ -165,12 +165,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "aa0744fbfcc9da7c",
+  "active": "3a1c4edb9bb460ac",
   "lastOpenFiles": [
+    "20. Lecture Note/STM32 and Fusion360/Fusion360/Day3. Fusion 360.md",
     "99. Attachment/Pasted image 20240812161315.png",
     "My Home Page.md",
     "20. Lecture Note/3D Point Cloud Data Processing/2. 3D Data Acquisition (Passive).md",
-    "20. Lecture Note/STM32 and Fusion360/Fusion360/Day3. Fusion 360.md",
     "기초 개념/Rib.md",
     "기초 개념/Feature.md",
     "기초 개념/Body.md",
@@ -206,7 +206,6 @@
     "99. Attachment/Point Cloud/Ch.2/account_for_image_origin.png",
     "99. Attachment/Point Cloud/Ch.2/Stereo_vision_rectification.png",
     "99. Attachment/Point Cloud/Ch.2/Reconstruction_Projective.png",
-    "99. Attachment/Point Cloud/Ch.2/Reconstruction_Ambiguity.png",
     "99. Attachment/Point Cloud/Ch.2/3D Data Acquisition (Passive).pdf",
     "99. Attachment/Point Cloud/Ch.2",
     "99. Attachment/Fusion360 and STM32/Fusion360, STM32.pdf",
