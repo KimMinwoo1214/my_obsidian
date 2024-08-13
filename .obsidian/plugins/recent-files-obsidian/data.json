@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Day3. Fusion 360",
-      "path": "20. Lecture Note/STM32 and Fusion360/Fusion360/Day3. Fusion 360.md"
-    },
-    {
       "basename": "Day4. Fusion 360",
       "path": "20. Lecture Note/STM32 and Fusion360/Fusion360/Day4. Fusion 360.md"
+    },
+    {
+      "basename": "Day2. Fusion 360",
+      "path": "20. Lecture Note/STM32 and Fusion360/Fusion360/Day2. Fusion 360.md"
+    },
+    {
+      "basename": "Day1. Fusion 360",
+      "path": "20. Lecture Note/STM32 and Fusion360/Fusion360/Day1. Fusion 360.md"
+    },
+    {
+      "basename": "Day3. Fusion 360",
+      "path": "20. Lecture Note/STM32 and Fusion360/Fusion360/Day3. Fusion 360.md"
     },
     {
       "basename": "Day2. STM32",
@@ -113,14 +121,6 @@
       "path": "기초 개념/Point.md"
     },
     {
-      "basename": "Day2. Fusion 360",
-      "path": "20. Lecture Note/STM32 and Fusion360/Fusion360/Day2. Fusion 360.md"
-    },
-    {
-      "basename": "Day1. Fusion 360",
-      "path": "20. Lecture Note/STM32 and Fusion360/Fusion360/Day1. Fusion 360.md"
-    },
-    {
       "basename": "Robotics and AI",
       "path": "Robotics and AI.md"
     },
@@ -195,10 +195,6 @@
     {
       "basename": "Revolve",
       "path": "기초 개념/Revolve.md"
-    },
-    {
-      "basename": "Symmetry",
-      "path": "기초 개념/Symmetry.md"
     }
   ],
   "omittedPaths": []

@@ -11,12 +11,8 @@
             "id": "3a1c4edb9bb460ac",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20. Lecture Note/STM32 and Fusion360/Fusion360/Day3. Fusion 360.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20. Lecture Note/STM32 and Fusion360/Fusion360/Day3. Fusion 360.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20. Lecture Note/STM32 and Fusion360/Fusion360/Day3. Fusion 360.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "20. Lecture Note/STM32 and Fusion360/Fusion360/Day3. Fusion 360.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,6 +160,9 @@
   "active": "3a1c4edb9bb460ac",
   "lastOpenFiles": [
     "20. Lecture Note/STM32 and Fusion360/Fusion360/Day4. Fusion 360.md",
+    "20. Lecture Note/STM32 and Fusion360/Fusion360/Hello.md",
+    "20. Lecture Note/STM32 and Fusion360/Fusion360/Day2. Fusion 360.md",
+    "20. Lecture Note/STM32 and Fusion360/Fusion360/Day1. Fusion 360.md",
     "20. Lecture Note/STM32 and Fusion360/Fusion360/Day3. Fusion 360.md",
     "20. Lecture Note/STM32 and Fusion360/STM32/Day2. STM32.md",
     "20. Lecture Note/Linear Algebra/2. Vector Part1.md",
@@ -191,9 +186,6 @@
     "기초 개념/Web.md",
     "기초 개념/Cylinder.md",
     "기초 개념/Sphere.md",
-    "기초 개념/Torus.md",
-    "기초 개념/Key.md",
-    "기초 개념/Fillet.md",
     "99. Attachment/Fusion360 and STM32/Fusion360/육각 볼트.png",
     "99. Attachment/Fusion360 and STM32/Fusion360",
     "99. Attachment/Fusion360 and STM32/Fusion360/Pattern과 Slot 예시.png",
