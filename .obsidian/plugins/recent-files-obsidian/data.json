@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "My Home Page",
+      "path": "My Home Page.md"
+    },
+    {
       "basename": "Day4. Fusion 360",
       "path": "20. Lecture Note/STM32 and Fusion360/Fusion360/Day4. Fusion 360.md"
     },
@@ -55,10 +59,6 @@
     {
       "basename": "4. Vector Applications",
       "path": "20. Lecture Note/Linear Algebra/4. Vector Applications.md"
-    },
-    {
-      "basename": "My Home Page",
-      "path": "My Home Page.md"
     },
     {
       "basename": "2. 3D Data Acquisition (Passive)",

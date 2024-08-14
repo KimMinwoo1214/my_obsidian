@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a3f912d40018829e",
+        "id": "2a69250f89ffd8d5",
         "type": "tabs",
         "children": [
           {
-            "id": "3a1c4edb9bb460ac",
+            "id": "1aa62f61600552e0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "My Home Page.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "My Home Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "My Home Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "My Home Page.md"
+              }
             }
           },
           {
@@ -157,7 +165,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3a1c4edb9bb460ac",
+  "active": "1aa62f61600552e0",
   "lastOpenFiles": [
     "20. Lecture Note/STM32 and Fusion360/Fusion360/Day4. Fusion 360.md",
     "20. Lecture Note/STM32 and Fusion360/Fusion360/Hello.md",
