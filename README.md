@@ -43,6 +43,7 @@ I had the opportunity to learn this subject in the Naver Boost Course. It covers
 ### STM32 and Fusion360
 #### [STM32 and Fusion360]()
 At KG Kairos, I had the opportunity to learn about the STM32. Through this, I was able to gain a deeper understanding of embedded systems.
+Also, I could learn how to use Fusion 360, now I can make 3d CAD(Computer Aided Design) Models.
 <br/>
 
 ## Projects
