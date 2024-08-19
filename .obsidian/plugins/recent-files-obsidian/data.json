@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "My Home Page",
+      "path": "My Home Page.md"
+    },
+    {
       "basename": "Day4. Fusion 360",
       "path": "20. Lecture Note/STM32 and Fusion360/Fusion360/Day4. Fusion 360.md"
     },
@@ -75,10 +79,6 @@
     {
       "basename": "Struct",
       "path": "기초 개념/Struct.md"
-    },
-    {
-      "basename": "My Home Page",
-      "path": "My Home Page.md"
     },
     {
       "basename": "Day2. Fusion 360",
