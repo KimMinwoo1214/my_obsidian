@@ -5,6 +5,18 @@
       "path": "20. Lecture Note/3D Point Cloud Data Processing/3. 3D Data Acquisition (Active).md"
     },
     {
+      "basename": "2. 3D Data Acquisition (Passive)",
+      "path": "20. Lecture Note/3D Point Cloud Data Processing/2. 3D Data Acquisition (Passive).md"
+    },
+    {
+      "basename": "1. 3D Point Cloud",
+      "path": "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md"
+    },
+    {
+      "basename": "3D Point Cloud Data Processing",
+      "path": "10. Subject/3D Point Cloud Data Processing.md"
+    },
+    {
       "basename": "My Home Page",
       "path": "My Home Page.md"
     },
@@ -15,18 +27,6 @@
     {
       "basename": "Day3. Fusion 360",
       "path": "20. Lecture Note/STM32 and Fusion360/Fusion360/Day3. Fusion 360.md"
-    },
-    {
-      "basename": "3D Point Cloud Data Processing",
-      "path": "10. Subject/3D Point Cloud Data Processing.md"
-    },
-    {
-      "basename": "2. 3D Data Acquisition (Passive)",
-      "path": "20. Lecture Note/3D Point Cloud Data Processing/2. 3D Data Acquisition (Passive).md"
-    },
-    {
-      "basename": "1. 3D Point Cloud",
-      "path": "20. Lecture Note/3D Point Cloud Data Processing/1. 3D Point Cloud.md"
     },
     {
       "basename": "RGBD Camera",
