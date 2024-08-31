@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "My Home Page",
+      "path": "My Home Page.md"
+    },
+    {
       "basename": "3. 3D Data Acquisition (Active)",
       "path": "20. Lecture Note/3D Point Cloud Data Processing/3. 3D Data Acquisition (Active).md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "3D Point Cloud Data Processing",
       "path": "10. Subject/3D Point Cloud Data Processing.md"
-    },
-    {
-      "basename": "My Home Page",
-      "path": "My Home Page.md"
     },
     {
       "basename": "Day4. Fusion 360",
