@@ -5,6 +5,134 @@
       "path": "My Home Page.md"
     },
     {
+      "basename": "2. Object Detection",
+      "path": "20. Lecture Note/Computer Vision for Autonomous Driving/1. Perception/2. Object Detection.md"
+    },
+    {
+      "basename": "IoU",
+      "path": "기초 개념/IoU.md"
+    },
+    {
+      "basename": "threshold",
+      "path": "기초 개념/threshold.md"
+    },
+    {
+      "basename": "Precision",
+      "path": "기초 개념/Precision.md"
+    },
+    {
+      "basename": "Recall",
+      "path": "기초 개념/Recall.md"
+    },
+    {
+      "basename": "Accuracy",
+      "path": "기초 개념/Accuracy.md"
+    },
+    {
+      "basename": "Confusion",
+      "path": "기초 개념/Confusion.md"
+    },
+    {
+      "basename": "Metric",
+      "path": "기초 개념/Metric.md"
+    },
+    {
+      "basename": "NMS",
+      "path": "기초 개념/NMS.md"
+    },
+    {
+      "basename": "Anchor",
+      "path": "기초 개념/Anchor.md"
+    },
+    {
+      "basename": "Window",
+      "path": "기초 개념/Window.md"
+    },
+    {
+      "basename": "Confidence",
+      "path": "기초 개념/Confidence.md"
+    },
+    {
+      "basename": "Sliding",
+      "path": "기초 개념/Sliding.md"
+    },
+    {
+      "basename": "Score",
+      "path": "기초 개념/Score.md"
+    },
+    {
+      "basename": "Box",
+      "path": "기초 개념/Box.md"
+    },
+    {
+      "basename": "Bounding",
+      "path": "기초 개념/Bounding.md"
+    },
+    {
+      "basename": "Two-Stage Detector",
+      "path": "기초 개념/Two-Stage Detector.md"
+    },
+    {
+      "basename": "Fast",
+      "path": "기초 개념/Fast.md"
+    },
+    {
+      "basename": "RFCN",
+      "path": "기초 개념/RFCN.md"
+    },
+    {
+      "basename": "Mask",
+      "path": "기초 개념/Mask.md"
+    },
+    {
+      "basename": "Faster",
+      "path": "기초 개념/Faster.md"
+    },
+    {
+      "basename": "RCNN",
+      "path": "기초 개념/RCNN.md"
+    },
+    {
+      "basename": "SSD",
+      "path": "기초 개념/SSD.md"
+    },
+    {
+      "basename": "Yolo",
+      "path": "기초 개념/Yolo.md"
+    },
+    {
+      "basename": "One-Stage Detector",
+      "path": "기초 개념/One-Stage Detector.md"
+    },
+    {
+      "basename": "Localization",
+      "path": "기초 개념/Localization.md"
+    },
+    {
+      "basename": "Classification",
+      "path": "기초 개념/Classification.md"
+    },
+    {
+      "basename": "Detection",
+      "path": "기초 개념/Detection.md"
+    },
+    {
+      "basename": "2-1. YOLO",
+      "path": "20. Lecture Note/Computer Vision for Autonomous Driving/1. Perception/2-1. YOLO.md"
+    },
+    {
+      "basename": "Autonomous Driving",
+      "path": "10. Subject/Autonomous Driving.md"
+    },
+    {
+      "basename": "Data Handling -Numpy",
+      "path": "20. Lecture Note/Python ML/Data Handling -Numpy.md"
+    },
+    {
+      "basename": "Robotics and AI",
+      "path": "Robotics and AI.md"
+    },
+    {
       "basename": "3. 3D Data Acquisition (Active)",
       "path": "20. Lecture Note/3D Point Cloud Data Processing/3. 3D Data Acquisition (Active).md"
     },
@@ -71,134 +199,6 @@
     {
       "basename": "Structed Light",
       "path": "기초 개념/Structed Light.md"
-    },
-    {
-      "basename": "Hybrid Stereo",
-      "path": "기초 개념/Hybrid Stereo.md"
-    },
-    {
-      "basename": "Struct",
-      "path": "기초 개념/Struct.md"
-    },
-    {
-      "basename": "Day2. Fusion 360",
-      "path": "20. Lecture Note/STM32 and Fusion360/Fusion360/Day2. Fusion 360.md"
-    },
-    {
-      "basename": "Day1. Fusion 360",
-      "path": "20. Lecture Note/STM32 and Fusion360/Fusion360/Day1. Fusion 360.md"
-    },
-    {
-      "basename": "Day2. STM32",
-      "path": "20. Lecture Note/STM32 and Fusion360/STM32/Day2. STM32.md"
-    },
-    {
-      "basename": "2. Vector Part1",
-      "path": "20. Lecture Note/Linear Algebra/2. Vector Part1.md"
-    },
-    {
-      "basename": "Scalar",
-      "path": "20. Lecture Note/Linear Algebra/Scalar.md"
-    },
-    {
-      "basename": "Euclidean",
-      "path": "20. Lecture Note/Linear Algebra/Euclidean.md"
-    },
-    {
-      "basename": "Norm",
-      "path": "20. Lecture Note/Linear Algebra/Norm.md"
-    },
-    {
-      "basename": "Manhattan",
-      "path": "20. Lecture Note/Linear Algebra/Manhattan.md"
-    },
-    {
-      "basename": "Transpose",
-      "path": "기초 개념/Transpose.md"
-    },
-    {
-      "basename": "1. Introduce",
-      "path": "20. Lecture Note/Linear Algebra/1. Introduce.md"
-    },
-    {
-      "basename": "5. Matrices Part1",
-      "path": "20. Lecture Note/Linear Algebra/5. Matrices Part1.md"
-    },
-    {
-      "basename": "4. Vector Applications",
-      "path": "20. Lecture Note/Linear Algebra/4. Vector Applications.md"
-    },
-    {
-      "basename": "Rib",
-      "path": "기초 개념/Rib.md"
-    },
-    {
-      "basename": "Feature",
-      "path": "기초 개념/Feature.md"
-    },
-    {
-      "basename": "Body",
-      "path": "기초 개념/Body.md"
-    },
-    {
-      "basename": "Box",
-      "path": "기초 개념/Box.md"
-    },
-    {
-      "basename": "Emboss",
-      "path": "기초 개념/Emboss.md"
-    },
-    {
-      "basename": "Object",
-      "path": "기초 개념/Object.md"
-    },
-    {
-      "basename": "Web",
-      "path": "기초 개념/Web.md"
-    },
-    {
-      "basename": "Cylinder",
-      "path": "기초 개념/Cylinder.md"
-    },
-    {
-      "basename": "Sphere",
-      "path": "기초 개념/Sphere.md"
-    },
-    {
-      "basename": "Torus",
-      "path": "기초 개념/Torus.md"
-    },
-    {
-      "basename": "Key",
-      "path": "기초 개념/Key.md"
-    },
-    {
-      "basename": "Fillet",
-      "path": "기초 개념/Fillet.md"
-    },
-    {
-      "basename": "Spline",
-      "path": "기초 개념/Spline.md"
-    },
-    {
-      "basename": "Point",
-      "path": "기초 개념/Point.md"
-    },
-    {
-      "basename": "Robotics and AI",
-      "path": "Robotics and AI.md"
-    },
-    {
-      "basename": "Offset",
-      "path": "기초 개념/Offset.md"
-    },
-    {
-      "basename": "Plane",
-      "path": "기초 개념/Plane.md"
-    },
-    {
-      "basename": "Loft",
-      "path": "기초 개념/Loft.md"
     }
   ],
   "omittedPaths": []
