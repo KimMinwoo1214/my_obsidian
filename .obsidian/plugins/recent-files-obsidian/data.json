@@ -5,12 +5,12 @@
       "path": "20. Lecture Note/Computer Vision for Autonomous Driving/1. Perception/2. Object Detection.md"
     },
     {
-      "basename": "2-1. YOLO",
-      "path": "20. Lecture Note/Computer Vision for Autonomous Driving/1. Perception/2-1. YOLO.md"
-    },
-    {
       "basename": "2. Vector Part1",
       "path": "20. Lecture Note/Linear Algebra/2. Vector Part1.md"
+    },
+    {
+      "basename": "2-1. YOLO",
+      "path": "20. Lecture Note/Computer Vision for Autonomous Driving/1. Perception/2-1. YOLO.md"
     },
     {
       "basename": "8. Matrix Inverse",
